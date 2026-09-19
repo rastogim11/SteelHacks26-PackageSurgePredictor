@@ -1,0 +1,167 @@
+mailroom,tier,mode,model,mae,rmse,r2,pois_dev
+Bouquet Gardens,small,long,poisson_l2|full,7.25,10.71,0.026,12.002
+Bouquet Gardens,small,long,poisson|full,7.27,10.84,0.003,12.619
+Bouquet Gardens,small,long,tweedie|full,7.28,10.68,0.032,11.806
+Bouquet Gardens,small,long,bayes_ridge|full,7.29,11.62,-0.146,119.756
+Bouquet Gardens,small,long,hgb_poisson|full,9.14,11.86,-0.193,12.032
+Bouquet Gardens,small,long,poisson|lean,9.17,11.78,-0.178,12.706
+Bouquet Gardens,small,long,poisson_l2|lean,9.21,11.72,-0.166,12.686
+Bouquet Gardens,small,long,bayes_ridge|lean,9.32,11.68,-0.158,12.684
+Bouquet Gardens,small,long,tweedie|lean,9.33,11.86,-0.194,12.925
+Bouquet Gardens,small,long,hgb_poisson|lean,10.31,12.8,-0.391,14.609
+Bouquet Gardens,small,long,hierarchical,10.33,12.64,-0.356,12.694
+Bouquet Gardens,small,long,climatology,10.56,13.53,-0.552,16.666
+Bouquet Gardens,small,short,bayes_ridge|full,6.78,10.65,0.038,21.987
+Bouquet Gardens,small,short,poisson|full,7.2,10.5,0.064,10.988
+Bouquet Gardens,small,short,poisson_l2|full,7.21,10.46,0.072,10.803
+Bouquet Gardens,small,short,tweedie|full,7.25,10.53,0.059,10.829
+Bouquet Gardens,small,short,hgb_poisson|lean,7.3,10.4,0.082,10.076
+Bouquet Gardens,small,short,bayes_ridge|lean,7.58,10.7,0.029,10.775
+Bouquet Gardens,small,short,poisson_l2|lean,7.88,10.76,0.019,11.204
+Bouquet Gardens,small,short,tweedie|lean,7.9,10.85,0.0,11.293
+Bouquet Gardens,small,short,poisson|lean,7.97,10.94,-0.016,11.449
+Bouquet Gardens,small,short,hgb_poisson|full,8.03,10.79,0.012,10.268
+Bouquet Gardens,small,short,hierarchical,10.33,12.64,-0.356,12.694
+Bouquet Gardens,small,short,climatology,10.56,13.53,-0.552,16.666
+Lothrop,small,long,bayes_ridge|full,7.34,9.88,0.235,12.519
+Lothrop,small,long,tweedie|full,7.41,9.85,0.238,8.7
+Lothrop,small,long,poisson|full,7.44,9.93,0.227,8.878
+Lothrop,small,long,poisson_l2|full,7.47,9.89,0.233,8.777
+Lothrop,small,long,tweedie|lean,7.83,9.93,0.227,8.922
+Lothrop,small,long,poisson_l2|lean,7.94,10.02,0.212,9.061
+Lothrop,small,long,poisson|lean,7.94,10.09,0.201,9.102
+Lothrop,small,long,bayes_ridge|lean,7.96,10.08,0.203,13.214
+Lothrop,small,long,climatology,8.62,11.5,-0.037,35.989
+Lothrop,small,long,hgb_poisson|lean,9.01,11.11,0.031,10.741
+Lothrop,small,long,hierarchical,9.16,11.59,-0.053,10.272
+Lothrop,small,long,hgb_poisson|full,12.34,14.8,-0.719,14.83
+Lothrop,small,short,tweedie|full,7.74,10.12,0.196,9.08
+Lothrop,small,short,bayes_ridge|full,7.8,10.15,0.191,13.097
+Lothrop,small,short,poisson_l2|full,7.88,10.14,0.193,9.141
+Lothrop,small,short,poisson|full,7.92,10.16,0.19,9.186
+Lothrop,small,short,tweedie|lean,7.99,10.27,0.172,9.296
+Lothrop,small,short,bayes_ridge|lean,7.99,10.33,0.163,13.354
+Lothrop,small,short,poisson_l2|lean,8.06,10.33,0.162,9.41
+Lothrop,small,short,poisson|lean,8.11,10.5,0.135,9.591
+Lothrop,small,short,hgb_poisson|lean,8.47,11.06,0.04,10.788
+Lothrop,small,short,climatology,8.62,11.5,-0.037,35.989
+Lothrop,small,short,hierarchical,9.16,11.59,-0.053,10.272
+Lothrop,small,short,hgb_poisson|full,11.97,15.29,-0.835,14.167
+Nordenberg,small,long,poisson|full,3.32,9.48,-0.078,13.091
+Nordenberg,small,long,tweedie|full,3.34,9.37,-0.052,11.205
+Nordenberg,small,long,poisson_l2|full,3.35,9.36,-0.05,11.086
+Nordenberg,small,long,hgb_poisson|full,3.43,9.0,0.029,7.949
+Nordenberg,small,long,bayes_ridge|full,3.57,9.8,-0.153,109.059
+Nordenberg,small,long,poisson|lean,6.47,10.01,-0.201,10.963
+Nordenberg,small,long,tweedie|lean,6.55,9.96,-0.19,11.003
+Nordenberg,small,long,poisson_l2|lean,6.6,10.0,-0.199,11.091
+Nordenberg,small,long,hgb_poisson|lean,7.12,10.33,-0.278,12.032
+Nordenberg,small,long,bayes_ridge|lean,7.41,10.27,-0.263,12.172
+Nordenberg,small,long,climatology,7.56,11.11,-0.48,14.055
+Nordenberg,small,long,hierarchical,7.67,11.27,-0.524,13.172
+Nordenberg,small,short,poisson|full,3.33,9.42,-0.064,11.819
+Nordenberg,small,short,tweedie|full,3.38,9.28,-0.033,9.924
+Nordenberg,small,short,poisson_l2|full,3.43,9.27,-0.03,9.82
+Nordenberg,small,short,hgb_poisson|lean,3.65,9.28,-0.032,9.959
+Nordenberg,small,short,bayes_ridge|full,3.79,9.56,-0.096,38.765
+Nordenberg,small,short,hgb_poisson|full,3.96,9.24,-0.024,8.978
+Nordenberg,small,short,tweedie|lean,4.06,9.17,-0.007,8.794
+Nordenberg,small,short,bayes_ridge|lean,4.18,9.36,-0.051,12.463
+Nordenberg,small,short,poisson_l2|lean,4.26,9.2,-0.014,8.898
+Nordenberg,small,short,poisson|lean,4.27,9.26,-0.028,9.116
+Nordenberg,small,short,climatology,7.56,11.11,-0.48,14.055
+Nordenberg,small,short,hierarchical,7.67,11.27,-0.524,13.172
+Residences on Bigelow,small,long,hierarchical,2.61,4.45,0.131,4.027
+Residences on Bigelow,small,long,hgb_poisson|lean,2.71,4.13,0.254,4.027
+Residences on Bigelow,small,long,poisson|lean,2.74,4.17,0.24,4.092
+Residences on Bigelow,small,long,bayes_ridge|lean,2.85,4.2,0.226,4.322
+Residences on Bigelow,small,long,tweedie|lean,2.9,4.17,0.24,4.388
+Residences on Bigelow,small,long,hgb_poisson|full,3.01,4.76,0.008,6.171
+Residences on Bigelow,small,long,poisson_l2|lean,3.04,4.22,0.222,4.578
+Residences on Bigelow,small,long,bayes_ridge|full,4.06,4.91,-0.055,6.285
+Residences on Bigelow,small,long,climatology,4.06,4.96,-0.079,6.772
+Residences on Bigelow,small,long,poisson_l2|full,4.6,6.03,-0.592,7.199
+Residences on Bigelow,small,long,poisson|full,5.09,7.79,-1.657,8.029
+Residences on Bigelow,small,long,tweedie|full,5.47,7.78,-1.651,8.849
+Residences on Bigelow,small,short,tweedie|lean,2.58,4.04,0.285,3.993
+Residences on Bigelow,small,short,hierarchical,2.61,4.45,0.131,4.027
+Residences on Bigelow,small,short,poisson|lean,2.61,4.06,0.279,3.959
+Residences on Bigelow,small,short,poisson_l2|lean,2.75,4.05,0.28,4.185
+Residences on Bigelow,small,short,bayes_ridge|lean,2.76,4.12,0.257,4.244
+Residences on Bigelow,small,short,bayes_ridge|full,3.52,4.45,0.132,5.332
+Residences on Bigelow,small,short,poisson_l2|full,3.58,4.69,0.036,5.405
+Residences on Bigelow,small,short,tweedie|full,3.74,5.4,-0.279,5.846
+Residences on Bigelow,small,short,climatology,4.06,4.96,-0.079,6.772
+Residences on Bigelow,small,short,hgb_poisson|full,4.23,5.55,-0.351,8.234
+Residences on Bigelow,small,short,poisson|full,4.85,7.25,-1.302,7.476
+Residences on Bigelow,small,short,hgb_poisson|lean,5.36,7.03,-1.164,8.89
+Ruskin,small,long,hgb_poisson|lean,2.93,3.96,0.29,3.287
+Ruskin,small,long,hgb_poisson|full,2.98,3.98,0.282,3.347
+Ruskin,small,long,tweedie|lean,3.22,4.22,0.194,3.793
+Ruskin,small,long,poisson|lean,3.29,4.31,0.159,3.821
+Ruskin,small,long,poisson_l2|lean,3.31,4.25,0.184,3.952
+Ruskin,small,long,bayes_ridge|lean,3.31,4.27,0.176,3.949
+Ruskin,small,long,hierarchical,3.35,4.45,0.102,4.116
+Ruskin,small,long,climatology,3.48,4.44,0.106,4.419
+Ruskin,small,long,bayes_ridge|full,4.51,5.06,-0.161,5.511
+Ruskin,small,long,tweedie|full,4.74,5.58,-0.408,5.552
+Ruskin,small,long,poisson_l2|full,5.18,5.95,-0.606,6.201
+Ruskin,small,long,poisson|full,6.2,7.39,-1.472,7.61
+Ruskin,small,short,tweedie|lean,3.33,4.29,0.166,3.916
+Ruskin,small,short,hierarchical,3.35,4.45,0.102,4.116
+Ruskin,small,short,hgb_poisson|full,3.37,4.35,0.144,3.939
+Ruskin,small,short,poisson|lean,3.43,4.42,0.115,3.987
+Ruskin,small,short,poisson_l2|lean,3.43,4.33,0.15,4.094
+Ruskin,small,short,bayes_ridge|lean,3.46,4.35,0.142,4.141
+Ruskin,small,short,climatology,3.48,4.44,0.106,4.419
+Ruskin,small,short,hgb_poisson|lean,3.51,4.54,0.068,4.267
+Ruskin,small,short,tweedie|full,4.03,4.85,-0.067,4.646
+Ruskin,small,short,bayes_ridge|full,4.08,4.7,0.002,4.903
+Ruskin,small,short,poisson_l2|full,4.38,5.12,-0.188,5.141
+Ruskin,small,short,poisson|full,4.99,5.99,-0.624,5.938
+Sutherland,large,long,bayes_ridge|full,12.47,17.31,0.267,15.062
+Sutherland,large,long,poisson|full,12.87,17.55,0.246,13.161
+Sutherland,large,long,poisson_l2|full,12.91,17.51,0.249,13.146
+Sutherland,large,long,tweedie|full,12.93,17.48,0.252,13.061
+Sutherland,large,long,hierarchical,16.2,20.32,-0.01,14.454
+Sutherland,large,long,tweedie|lean,16.35,19.68,0.052,16.454
+Sutherland,large,long,poisson|lean,16.63,20.05,0.016,16.529
+Sutherland,large,long,poisson_l2|lean,16.65,20.02,0.019,16.676
+Sutherland,large,long,bayes_ridge|lean,16.74,20.09,0.012,17.091
+Sutherland,large,long,hgb_poisson|lean,18.93,22.01,-0.185,19.691
+Sutherland,large,long,climatology,20.05,24.48,-0.467,21.312
+Sutherland,large,long,hgb_poisson|full,21.0,25.08,-0.54,22.366
+Sutherland,large,short,bayes_ridge|full,12.52,17.38,0.26,12.269
+Sutherland,large,short,poisson|full,13.02,17.43,0.257,13.156
+Sutherland,large,short,tweedie|full,13.04,17.55,0.246,13.233
+Sutherland,large,short,poisson_l2|full,13.1,17.5,0.25,13.286
+Sutherland,large,short,bayes_ridge|lean,13.55,18.14,0.194,13.484
+Sutherland,large,short,tweedie|lean,13.83,18.26,0.184,14.262
+Sutherland,large,short,poisson|lean,14.03,18.61,0.152,14.585
+Sutherland,large,short,poisson_l2|lean,14.06,18.5,0.163,14.599
+Sutherland,large,short,hgb_poisson|lean,15.68,21.05,-0.084,17.471
+Sutherland,large,short,hierarchical,16.2,20.32,-0.01,14.454
+Sutherland,large,short,hgb_poisson|full,18.68,24.35,-0.451,20.052
+Sutherland,large,short,climatology,20.05,24.48,-0.467,21.312
+Tower B,large,long,poisson|lean,31.57,52.23,0.599,29.361
+Tower B,large,long,poisson_l2|lean,32.43,52.42,0.596,30.44
+Tower B,large,long,tweedie|lean,32.86,51.96,0.603,31.024
+Tower B,large,long,hgb_poisson|lean,33.45,54.75,0.559,32.453
+Tower B,large,long,tweedie|full,40.49,63.66,0.404,40.256
+Tower B,large,long,bayes_ridge|lean,40.61,56.88,0.524,60.897
+Tower B,large,long,poisson|full,42.48,69.35,0.293,42.162
+Tower B,large,long,poisson_l2|full,43.52,69.55,0.289,43.645
+Tower B,large,long,hgb_poisson|full,46.52,65.28,0.373,53.902
+Tower B,large,long,bayes_ridge|full,60.02,74.19,0.191,89.982
+Tower B,large,long,climatology,94.2,103.73,-0.583,128.54
+Tower B,large,short,hgb_poisson|lean,26.3,46.21,0.686,22.682
+Tower B,large,short,tweedie|full,26.97,43.21,0.725,23.679
+Tower B,large,short,poisson|full,28.03,42.04,0.74,24.083
+Tower B,large,short,tweedie|lean,28.46,47.93,0.662,26.026
+Tower B,large,short,poisson|lean,28.49,47.65,0.666,25.426
+Tower B,large,short,poisson_l2|full,28.71,42.61,0.733,24.962
+Tower B,large,short,poisson_l2|lean,28.92,47.57,0.667,26.068
+Tower B,large,short,hgb_poisson|full,31.13,45.71,0.693,29.658
+Tower B,large,short,bayes_ridge|lean,33.66,49.93,0.633,51.161
+Tower B,large,short,bayes_ridge|full,38.24,51.18,0.615,57.287
+Tower B,large,short,climatology,94.2,103.73,-0.583,128.54

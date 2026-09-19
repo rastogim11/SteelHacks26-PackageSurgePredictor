@@ -1,0 +1,841 @@
+mailroom,date,tier,horizon_days,lockers,actual_if_known,is_open,closed_reason,model_used,mode,predicted,sd,lower_95,upper_95,utilization_pct,over_capacity
+Bouquet Gardens,2026-09-20,small,2,107,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2026-09-21,small,3,107,,True,,bayes_ridge|full,short,4.5,7.9,0.0,20.1,4.2,False
+Bouquet Gardens,2026-09-22,small,4,107,,True,,bayes_ridge|full,short,5.9,9.1,0.0,23.8,5.5,False
+Bouquet Gardens,2026-09-23,small,5,107,,True,,bayes_ridge|full,short,5.9,9.1,0.0,23.7,5.5,False
+Bouquet Gardens,2026-09-24,small,6,107,,True,,bayes_ridge|full,short,4.5,8.0,0.0,20.1,4.2,False
+Bouquet Gardens,2026-09-25,small,7,107,,True,,bayes_ridge|full,short,2.8,6.3,0.0,15.2,2.6,False
+Bouquet Gardens,2026-09-26,small,8,107,,True,,bayes_ridge|full,short,0.0,3.8,0.0,7.4,0.0,False
+Bouquet Gardens,2026-09-27,small,9,107,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2026-09-28,small,10,107,,True,,bayes_ridge|full,short,4.6,8.1,0.0,20.4,4.3,False
+Bouquet Gardens,2026-09-29,small,11,107,,True,,bayes_ridge|full,short,6.1,9.2,0.0,24.2,5.7,False
+Bouquet Gardens,2026-09-30,small,12,107,,True,,bayes_ridge|full,short,5.8,9.1,0.0,23.6,5.4,False
+Bouquet Gardens,2026-10-01,small,13,107,,True,,bayes_ridge|full,short,4.1,7.6,0.0,19.1,3.9,False
+Bouquet Gardens,2026-10-02,small,14,107,,True,,bayes_ridge|full,short,2.3,5.7,0.0,13.4,2.1,False
+Bouquet Gardens,2026-10-03,small,15,107,,True,,poisson_l2|full,long,2.5,5.9,0.0,14.2,2.4,False
+Bouquet Gardens,2026-10-04,small,16,107,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2026-10-05,small,17,107,,True,,poisson_l2|full,long,5.7,8.9,0.0,23.2,5.3,False
+Bouquet Gardens,2026-10-06,small,18,107,,True,,poisson_l2|full,long,6.3,9.5,0.0,24.9,5.9,False
+Bouquet Gardens,2026-10-07,small,19,107,,True,,poisson_l2|full,long,6.4,9.5,0.0,25.0,6.0,False
+Bouquet Gardens,2026-10-08,small,20,107,,True,,poisson_l2|full,long,5.8,9.0,0.0,23.5,5.4,False
+Bouquet Gardens,2026-10-09,small,21,107,,True,,poisson_l2|full,long,5.1,8.4,0.0,21.6,4.7,False
+Bouquet Gardens,2026-10-10,small,22,107,,True,,poisson_l2|full,long,2.5,5.9,0.0,14.0,2.3,False
+Bouquet Gardens,2026-10-11,small,23,107,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2026-10-12,small,24,107,,True,,poisson_l2|full,long,5.6,8.9,0.0,22.9,5.2,False
+Bouquet Gardens,2026-10-13,small,25,107,,True,,poisson_l2|full,long,6.2,9.4,0.0,24.6,5.8,False
+Bouquet Gardens,2026-10-14,small,26,107,,True,,poisson_l2|full,long,6.3,9.4,0.0,24.8,5.9,False
+Bouquet Gardens,2026-10-15,small,27,107,,True,,poisson_l2|full,long,5.7,9.0,0.0,23.3,5.3,False
+Bouquet Gardens,2026-10-16,small,28,107,,True,,poisson_l2|full,long,5.0,8.4,0.0,21.4,4.6,False
+Bouquet Gardens,2026-10-17,small,29,107,,True,,poisson_l2|full,long,2.4,5.9,0.0,13.9,2.3,False
+Bouquet Gardens,2026-10-18,small,30,107,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2026-10-19,small,31,107,,True,,poisson_l2|full,long,5.5,8.8,0.0,22.7,5.1,False
+Bouquet Gardens,2026-10-20,small,32,107,,True,,poisson_l2|full,long,6.1,9.3,0.0,24.4,5.7,False
+Bouquet Gardens,2026-10-21,small,33,107,,True,,poisson_l2|full,long,6.2,9.3,0.0,24.5,5.8,False
+Bouquet Gardens,2026-10-22,small,34,107,,True,,poisson_l2|full,long,5.6,8.9,0.0,23.0,5.2,False
+Bouquet Gardens,2026-10-23,small,35,107,,True,,poisson_l2|full,long,4.9,8.3,0.0,21.1,4.6,False
+Bouquet Gardens,2026-10-24,small,36,107,,True,,poisson_l2|full,long,2.4,5.8,0.0,13.8,2.2,False
+Bouquet Gardens,2026-10-25,small,37,107,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2026-10-26,small,38,107,,True,,poisson_l2|full,long,5.4,8.7,0.0,22.5,5.0,False
+Bouquet Gardens,2026-10-27,small,39,107,,True,,poisson_l2|full,long,6.0,9.2,0.0,24.1,5.6,False
+Bouquet Gardens,2026-10-28,small,40,107,,True,,poisson_l2|full,long,6.1,9.3,0.0,24.3,5.7,False
+Bouquet Gardens,2026-10-29,small,41,107,,True,,poisson_l2|full,long,5.5,8.8,0.0,22.8,5.2,False
+Bouquet Gardens,2026-10-30,small,42,107,,True,,poisson_l2|full,long,4.8,8.2,0.0,20.9,4.5,False
+Bouquet Gardens,2026-10-31,small,43,107,,True,,poisson_l2|full,long,2.4,5.8,0.0,13.6,2.2,False
+Bouquet Gardens,2026-11-01,small,44,107,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2026-11-02,small,45,107,,True,,poisson_l2|full,long,5.3,8.6,0.0,22.2,5.0,False
+Bouquet Gardens,2026-11-03,small,46,107,,True,,poisson_l2|full,long,5.9,9.1,0.0,23.8,5.5,False
+Bouquet Gardens,2026-11-04,small,47,107,,True,,poisson_l2|full,long,6.0,9.2,0.0,24.0,5.6,False
+Bouquet Gardens,2026-11-05,small,48,107,,True,,poisson_l2|full,long,5.4,8.7,0.0,22.6,5.1,False
+Bouquet Gardens,2026-11-06,small,49,107,,True,,poisson_l2|full,long,4.7,8.2,0.0,20.7,4.4,False
+Bouquet Gardens,2026-11-07,small,50,107,,True,,poisson_l2|full,long,2.3,5.7,0.0,13.5,2.2,False
+Bouquet Gardens,2026-11-08,small,51,107,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2026-11-09,small,52,107,,True,,poisson_l2|full,long,5.2,8.6,0.0,22.0,4.9,False
+Bouquet Gardens,2026-11-10,small,53,107,,True,,poisson_l2|full,long,5.8,9.1,0.0,23.6,5.5,False
+Bouquet Gardens,2026-11-11,small,54,107,,True,,poisson_l2|full,long,5.9,9.1,0.0,23.8,5.5,False
+Bouquet Gardens,2026-11-12,small,55,107,,True,,poisson_l2|full,long,5.3,8.7,0.0,22.3,5.0,False
+Bouquet Gardens,2026-11-13,small,56,107,,True,,poisson_l2|full,long,4.6,8.1,0.0,20.5,4.3,False
+Bouquet Gardens,2026-11-14,small,57,107,,True,,poisson_l2|full,long,2.3,5.7,0.0,13.4,2.1,False
+Bouquet Gardens,2026-11-15,small,58,107,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2026-11-16,small,59,107,,True,,poisson_l2|full,long,5.1,8.5,0.0,21.8,4.8,False
+Bouquet Gardens,2026-11-17,small,60,107,,True,,poisson_l2|full,long,5.7,9.0,0.0,23.3,5.4,False
+Bouquet Gardens,2026-11-18,small,61,107,,True,,poisson_l2|full,long,5.8,9.0,0.0,23.5,5.4,False
+Bouquet Gardens,2026-11-19,small,62,107,,True,,poisson_l2|full,long,0.7,3.8,0.0,8.1,0.7,False
+Bouquet Gardens,2026-11-20,small,63,107,,True,,poisson_l2|full,long,0.7,3.8,0.0,8.1,0.7,False
+Bouquet Gardens,2026-11-21,small,64,107,,True,,poisson_l2|full,long,0.4,3.8,0.0,7.7,0.4,False
+Bouquet Gardens,2026-11-22,small,65,107,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2026-11-23,small,66,107,,True,,poisson_l2|full,long,1.2,4.1,0.0,9.2,1.1,False
+Bouquet Gardens,2026-11-24,small,67,107,,True,,poisson_l2|full,long,1.5,4.6,0.0,10.6,1.4,False
+Bouquet Gardens,2026-11-25,small,68,107,,True,,poisson_l2|full,long,1.8,5.0,0.0,11.6,1.7,False
+Bouquet Gardens,2026-11-26,small,69,107,,True,,poisson_l2|full,long,1.9,5.1,0.0,11.9,1.7,False
+Bouquet Gardens,2026-11-27,small,70,107,,True,,poisson_l2|full,long,1.9,5.1,0.0,11.9,1.7,False
+Bouquet Gardens,2026-11-28,small,71,107,,True,,poisson_l2|full,long,1.1,3.9,0.0,8.6,1.0,False
+Bouquet Gardens,2026-11-29,small,72,107,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2026-11-30,small,73,107,,True,,poisson_l2|full,long,3.2,6.7,0.0,16.2,3.0,False
+Bouquet Gardens,2026-12-01,small,74,107,,True,,poisson_l2|full,long,4.1,7.6,0.0,18.9,3.8,False
+Bouquet Gardens,2026-12-02,small,75,107,,True,,poisson_l2|full,long,4.8,8.2,0.0,20.8,4.4,False
+Bouquet Gardens,2026-12-03,small,76,107,,True,,poisson_l2|full,long,5.0,8.4,0.0,21.3,4.6,False
+Bouquet Gardens,2026-12-04,small,77,107,,True,,poisson_l2|full,long,4.4,7.9,0.0,19.9,4.1,False
+Bouquet Gardens,2026-12-05,small,78,107,,True,,poisson_l2|full,long,2.2,5.5,0.0,13.0,2.0,False
+Bouquet Gardens,2026-12-06,small,79,107,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2026-12-07,small,80,107,,True,,poisson_l2|full,long,4.9,8.3,0.0,21.1,4.6,False
+Bouquet Gardens,2026-12-08,small,81,107,,True,,poisson_l2|full,long,5.5,8.8,0.0,22.6,5.1,False
+Bouquet Gardens,2026-12-09,small,82,107,,True,,poisson_l2|full,long,5.5,8.8,0.0,22.8,5.2,False
+Bouquet Gardens,2026-12-10,small,83,107,,True,,poisson_l2|full,long,5.0,8.4,0.0,21.4,4.7,False
+Bouquet Gardens,2026-12-11,small,84,107,,True,,poisson_l2|full,long,4.3,7.8,0.0,19.7,4.1,False
+Bouquet Gardens,2026-12-12,small,85,107,,True,,poisson_l2|full,long,2.1,5.5,0.0,12.8,2.0,False
+Bouquet Gardens,2026-12-13,small,86,107,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2026-12-14,small,87,107,,True,,poisson_l2|full,long,4.8,8.2,0.0,20.9,4.5,False
+Bouquet Gardens,2026-12-15,small,88,107,,True,,poisson_l2|full,long,5.4,8.7,0.0,22.4,5.0,False
+Bouquet Gardens,2026-12-16,small,89,107,,True,,poisson_l2|full,long,5.4,8.7,0.0,22.5,5.1,False
+Bouquet Gardens,2026-12-17,small,90,107,,True,,poisson_l2|full,long,4.9,8.3,0.0,21.2,4.6,False
+Bouquet Gardens,2026-12-18,small,91,107,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2026-12-19,small,92,107,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2026-12-20,small,93,107,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2026-12-21,small,94,107,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2026-12-22,small,95,107,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2026-12-23,small,96,107,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2026-12-24,small,97,107,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2026-12-25,small,98,107,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2026-12-26,small,99,107,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2026-12-27,small,100,107,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2026-12-28,small,101,107,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2026-12-29,small,102,107,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2026-12-30,small,103,107,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2026-12-31,small,104,107,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2027-01-01,small,105,107,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2027-01-02,small,106,107,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2027-01-03,small,107,107,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2027-01-04,small,108,107,,True,,poisson_l2|full,long,4.6,8.0,0.0,20.3,4.3,False
+Bouquet Gardens,2027-01-05,small,109,107,,True,,poisson_l2|full,long,5.1,8.5,0.0,21.7,4.8,False
+Bouquet Gardens,2027-01-06,small,110,107,,True,,poisson_l2|full,long,5.2,8.5,0.0,21.8,4.8,False
+Bouquet Gardens,2027-01-07,small,111,107,,True,,poisson_l2|full,long,4.7,8.1,0.0,20.5,4.4,False
+Bouquet Gardens,2027-01-08,small,112,107,,True,,poisson_l2|full,long,4.1,7.6,0.0,18.9,3.8,False
+Bouquet Gardens,2027-01-09,small,113,107,,True,,poisson_l2|full,long,2.0,5.3,0.0,12.3,1.9,False
+Bouquet Gardens,2027-01-10,small,114,107,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Bouquet Gardens,2027-01-11,small,115,107,,True,,poisson_l2|full,long,4.5,7.9,0.0,20.0,4.2,False
+Bouquet Gardens,2027-01-12,small,116,107,,True,,poisson_l2|full,long,5.0,8.4,0.0,21.5,4.7,False
+Bouquet Gardens,2027-01-13,small,117,107,,True,,poisson_l2|full,long,5.1,8.4,0.0,21.6,4.7,False
+Bouquet Gardens,2027-01-14,small,118,107,,True,,poisson_l2|full,long,4.6,8.0,0.0,20.3,4.3,False
+Bouquet Gardens,2027-01-15,small,119,107,,True,,poisson_l2|full,long,4.0,7.5,0.0,18.7,3.7,False
+Bouquet Gardens,2027-01-16,small,120,107,,True,,poisson_l2|full,long,2.0,5.2,0.0,12.2,1.8,False
+Bouquet Gardens,2027-01-17,small,121,107,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2026-09-20,small,2,96,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2026-09-21,small,3,96,,True,,tweedie|full,short,15.1,12.9,0.0,40.4,15.7,False
+Lothrop,2026-09-22,small,4,96,,True,,tweedie|full,short,14.3,12.6,0.0,39.0,14.9,False
+Lothrop,2026-09-23,small,5,96,,True,,tweedie|full,short,12.8,11.9,0.0,36.1,13.3,False
+Lothrop,2026-09-24,small,6,96,,True,,tweedie|full,short,12.0,11.5,0.0,34.5,12.5,False
+Lothrop,2026-09-25,small,7,96,,True,,tweedie|full,short,11.6,11.3,0.0,33.8,12.1,False
+Lothrop,2026-09-26,small,8,96,,True,,tweedie|full,short,4.1,6.7,0.0,17.2,4.2,False
+Lothrop,2026-09-27,small,9,96,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2026-09-28,small,10,96,,True,,tweedie|full,short,15.8,13.2,0.0,41.6,16.4,False
+Lothrop,2026-09-29,small,11,96,,True,,tweedie|full,short,15.1,12.9,0.0,40.5,15.8,False
+Lothrop,2026-09-30,small,12,96,,True,,tweedie|full,short,13.1,12.0,0.0,36.7,13.6,False
+Lothrop,2026-10-01,small,13,96,,True,,tweedie|full,short,11.8,11.5,0.0,34.3,12.3,False
+Lothrop,2026-10-02,small,14,96,,True,,tweedie|full,short,12.2,11.6,0.0,34.9,12.7,False
+Lothrop,2026-10-03,small,15,96,,True,,bayes_ridge|full,long,3.3,6.0,0.0,15.1,3.4,False
+Lothrop,2026-10-04,small,16,96,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2026-10-05,small,17,96,,True,,bayes_ridge|full,long,16.6,13.5,0.0,43.1,17.3,False
+Lothrop,2026-10-06,small,18,96,,True,,bayes_ridge|full,long,15.8,13.2,0.0,41.8,16.5,False
+Lothrop,2026-10-07,small,19,96,,True,,bayes_ridge|full,long,14.2,12.5,0.0,38.7,14.8,False
+Lothrop,2026-10-08,small,20,96,,True,,bayes_ridge|full,long,12.8,11.9,0.0,36.2,13.4,False
+Lothrop,2026-10-09,small,21,96,,True,,bayes_ridge|full,long,12.8,11.9,0.0,36.2,13.4,False
+Lothrop,2026-10-10,small,22,96,,True,,bayes_ridge|full,long,3.3,6.0,0.0,15.0,3.4,False
+Lothrop,2026-10-11,small,23,96,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2026-10-12,small,24,96,,True,,bayes_ridge|full,long,16.5,13.5,0.0,43.0,17.2,False
+Lothrop,2026-10-13,small,25,96,,True,,bayes_ridge|full,long,15.8,13.2,0.0,41.7,16.4,False
+Lothrop,2026-10-14,small,26,96,,True,,bayes_ridge|full,long,14.1,12.5,0.0,38.6,14.7,False
+Lothrop,2026-10-15,small,27,96,,True,,bayes_ridge|full,long,12.8,11.9,0.0,36.1,13.3,False
+Lothrop,2026-10-16,small,28,96,,True,,bayes_ridge|full,long,12.8,11.9,0.0,36.1,13.3,False
+Lothrop,2026-10-17,small,29,96,,True,,bayes_ridge|full,long,3.2,6.0,0.0,14.9,3.3,False
+Lothrop,2026-10-18,small,30,96,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2026-10-19,small,31,96,,True,,bayes_ridge|full,long,16.5,13.5,0.0,42.9,17.2,False
+Lothrop,2026-10-20,small,32,96,,True,,bayes_ridge|full,long,15.7,13.2,0.0,41.6,16.4,False
+Lothrop,2026-10-21,small,33,96,,True,,bayes_ridge|full,long,14.1,12.5,0.0,38.5,14.7,False
+Lothrop,2026-10-22,small,34,96,,True,,bayes_ridge|full,long,12.7,11.9,0.0,36.0,13.3,False
+Lothrop,2026-10-23,small,35,96,,True,,bayes_ridge|full,long,12.7,11.9,0.0,36.0,13.3,False
+Lothrop,2026-10-24,small,36,96,,True,,bayes_ridge|full,long,3.1,5.9,0.0,14.7,3.3,False
+Lothrop,2026-10-25,small,37,96,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2026-10-26,small,38,96,,True,,bayes_ridge|full,long,16.4,13.5,0.0,42.9,17.1,False
+Lothrop,2026-10-27,small,39,96,,True,,bayes_ridge|full,long,15.7,13.2,0.0,41.5,16.3,False
+Lothrop,2026-10-28,small,40,96,,True,,bayes_ridge|full,long,14.0,12.5,0.0,38.5,14.6,False
+Lothrop,2026-10-29,small,41,96,,True,,bayes_ridge|full,long,12.7,11.9,0.0,35.9,13.2,False
+Lothrop,2026-10-30,small,42,96,,True,,bayes_ridge|full,long,12.7,11.8,0.0,35.9,13.2,False
+Lothrop,2026-10-31,small,43,96,,True,,bayes_ridge|full,long,3.1,5.9,0.0,14.6,3.2,False
+Lothrop,2026-11-01,small,44,96,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2026-11-02,small,45,96,,True,,bayes_ridge|full,long,16.4,13.5,0.0,42.8,17.1,False
+Lothrop,2026-11-03,small,46,96,,True,,bayes_ridge|full,long,15.6,13.2,0.0,41.4,16.3,False
+Lothrop,2026-11-04,small,47,96,,True,,bayes_ridge|full,long,14.0,12.4,0.0,38.4,14.6,False
+Lothrop,2026-11-05,small,48,96,,True,,bayes_ridge|full,long,12.6,11.8,0.0,35.8,13.2,False
+Lothrop,2026-11-06,small,49,96,,True,,bayes_ridge|full,long,12.6,11.8,0.0,35.8,13.1,False
+Lothrop,2026-11-07,small,50,96,,True,,bayes_ridge|full,long,3.0,5.8,0.0,14.4,3.2,False
+Lothrop,2026-11-08,small,51,96,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2026-11-09,small,52,96,,True,,bayes_ridge|full,long,16.3,13.4,0.0,42.7,17.0,False
+Lothrop,2026-11-10,small,53,96,,True,,bayes_ridge|full,long,15.6,13.1,0.0,41.3,16.2,False
+Lothrop,2026-11-11,small,54,96,,True,,bayes_ridge|full,long,13.9,12.4,0.0,38.3,14.5,False
+Lothrop,2026-11-12,small,55,96,,True,,bayes_ridge|full,long,12.6,11.8,0.0,35.7,13.1,False
+Lothrop,2026-11-13,small,56,96,,True,,bayes_ridge|full,long,12.6,11.8,0.0,35.7,13.1,False
+Lothrop,2026-11-14,small,57,96,,True,,bayes_ridge|full,long,3.0,5.8,0.0,14.3,3.1,False
+Lothrop,2026-11-15,small,58,96,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2026-11-16,small,59,96,,True,,bayes_ridge|full,long,16.3,13.4,0.0,42.6,17.0,False
+Lothrop,2026-11-17,small,60,96,,True,,bayes_ridge|full,long,15.5,13.1,0.0,41.2,16.2,False
+Lothrop,2026-11-18,small,61,96,,True,,bayes_ridge|full,long,13.9,12.4,0.0,38.2,14.5,False
+Lothrop,2026-11-19,small,62,96,,True,,bayes_ridge|full,long,0.0,3.3,0.0,6.5,0.0,False
+Lothrop,2026-11-20,small,63,96,,True,,bayes_ridge|full,long,0.0,3.3,0.0,6.6,0.0,False
+Lothrop,2026-11-21,small,64,96,,True,,bayes_ridge|full,long,0.0,3.3,0.0,6.5,0.0,False
+Lothrop,2026-11-22,small,65,96,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2026-11-23,small,66,96,,True,,bayes_ridge|full,long,5.5,7.8,0.0,20.9,5.8,False
+Lothrop,2026-11-24,small,67,96,,True,,bayes_ridge|full,long,5.4,7.7,0.0,20.6,5.6,False
+Lothrop,2026-11-25,small,68,96,,True,,bayes_ridge|full,long,4.4,6.9,0.0,18.0,4.5,False
+Lothrop,2026-11-26,small,69,96,,True,,bayes_ridge|full,long,3.6,6.3,0.0,16.0,3.8,False
+Lothrop,2026-11-27,small,70,96,,True,,bayes_ridge|full,long,4.2,6.8,0.0,17.6,4.4,False
+Lothrop,2026-11-28,small,71,96,,True,,bayes_ridge|full,long,0.0,3.3,0.0,6.5,0.0,False
+Lothrop,2026-11-29,small,72,96,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2026-11-30,small,73,96,,True,,bayes_ridge|full,long,9.7,10.4,0.0,30.0,10.1,False
+Lothrop,2026-12-01,small,74,96,,True,,bayes_ridge|full,long,9.6,10.3,0.0,29.7,10.0,False
+Lothrop,2026-12-02,small,75,96,,True,,bayes_ridge|full,long,8.5,9.7,0.0,27.5,8.9,False
+Lothrop,2026-12-03,small,76,96,,True,,bayes_ridge|full,long,7.8,9.3,0.0,25.9,8.1,False
+Lothrop,2026-12-04,small,77,96,,True,,bayes_ridge|full,long,12.4,11.7,0.0,35.4,12.9,False
+Lothrop,2026-12-05,small,78,96,,True,,bayes_ridge|full,long,2.8,5.6,0.0,13.9,3.0,False
+Lothrop,2026-12-06,small,79,96,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2026-12-07,small,80,96,,True,,bayes_ridge|full,long,16.1,13.4,0.0,42.3,16.8,False
+Lothrop,2026-12-08,small,81,96,,True,,bayes_ridge|full,long,15.4,13.1,0.0,41.0,16.0,False
+Lothrop,2026-12-09,small,82,96,,True,,bayes_ridge|full,long,13.7,12.3,0.0,37.9,14.3,False
+Lothrop,2026-12-10,small,83,96,,True,,bayes_ridge|full,long,12.4,11.7,0.0,35.3,12.9,False
+Lothrop,2026-12-11,small,84,96,,True,,bayes_ridge|full,long,12.4,11.7,0.0,35.3,12.9,False
+Lothrop,2026-12-12,small,85,96,,True,,bayes_ridge|full,long,2.8,5.6,0.0,13.7,2.9,False
+Lothrop,2026-12-13,small,86,96,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2026-12-14,small,87,96,,True,,bayes_ridge|full,long,16.1,13.3,0.0,42.2,16.7,False
+Lothrop,2026-12-15,small,88,96,,True,,bayes_ridge|full,long,15.3,13.0,0.0,40.9,16.0,False
+Lothrop,2026-12-16,small,89,96,,True,,bayes_ridge|full,long,13.7,12.3,0.0,37.8,14.2,False
+Lothrop,2026-12-17,small,90,96,,True,,bayes_ridge|full,long,12.3,11.7,0.0,35.2,12.9,False
+Lothrop,2026-12-18,small,91,96,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2026-12-19,small,92,96,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2026-12-20,small,93,96,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2026-12-21,small,94,96,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2026-12-22,small,95,96,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2026-12-23,small,96,96,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2026-12-24,small,97,96,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2026-12-25,small,98,96,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2026-12-26,small,99,96,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2026-12-27,small,100,96,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2026-12-28,small,101,96,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2026-12-29,small,102,96,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2026-12-30,small,103,96,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2026-12-31,small,104,96,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2027-01-01,small,105,96,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2027-01-02,small,106,96,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2027-01-03,small,107,96,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2027-01-04,small,108,96,,True,,bayes_ridge|full,long,15.9,13.3,0.0,41.9,16.6,False
+Lothrop,2027-01-05,small,109,96,,True,,bayes_ridge|full,long,15.2,13.0,0.0,40.6,15.8,False
+Lothrop,2027-01-06,small,110,96,,True,,bayes_ridge|full,long,13.5,12.2,0.0,37.5,14.1,False
+Lothrop,2027-01-07,small,111,96,,True,,bayes_ridge|full,long,12.2,11.6,0.0,34.9,12.7,False
+Lothrop,2027-01-08,small,112,96,,True,,bayes_ridge|full,long,12.2,11.6,0.0,34.9,12.7,False
+Lothrop,2027-01-09,small,113,96,,True,,bayes_ridge|full,long,2.6,5.4,0.0,13.1,2.7,False
+Lothrop,2027-01-10,small,114,96,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Lothrop,2027-01-11,small,115,96,,True,,bayes_ridge|full,long,15.9,13.3,0.0,41.9,16.5,False
+Lothrop,2027-01-12,small,116,96,,True,,bayes_ridge|full,long,15.1,12.9,0.0,40.5,15.8,False
+Lothrop,2027-01-13,small,117,96,,True,,bayes_ridge|full,long,13.5,12.2,0.0,37.4,14.0,False
+Lothrop,2027-01-14,small,118,96,,True,,bayes_ridge|full,long,12.1,11.6,0.0,34.9,12.6,False
+Lothrop,2027-01-15,small,119,96,,True,,bayes_ridge|full,long,12.1,11.6,0.0,34.8,12.6,False
+Lothrop,2027-01-16,small,120,96,,True,,bayes_ridge|full,long,2.5,5.3,0.0,13.0,2.7,False
+Lothrop,2027-01-17,small,121,96,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2026-09-20,small,4,56,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2026-09-21,small,5,56,,True,,poisson|full,short,0.7,2.8,0.0,6.1,1.3,False
+Nordenberg,2026-09-22,small,6,56,,True,,poisson|full,short,0.7,2.8,0.0,6.1,1.2,False
+Nordenberg,2026-09-23,small,7,56,,True,,poisson|full,short,0.7,2.8,0.0,6.1,1.2,False
+Nordenberg,2026-09-24,small,8,56,,True,,poisson|full,short,0.7,2.8,0.0,6.1,1.2,False
+Nordenberg,2026-09-25,small,9,56,,True,,poisson|full,short,0.7,2.8,0.0,6.1,1.2,False
+Nordenberg,2026-09-26,small,10,56,,True,,poisson|full,short,0.4,2.8,0.0,5.8,0.7,False
+Nordenberg,2026-09-27,small,11,56,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2026-09-28,small,12,56,,True,,poisson|full,short,0.6,2.8,0.0,6.1,1.1,False
+Nordenberg,2026-09-29,small,13,56,,True,,poisson|full,short,0.6,2.8,0.0,6.0,1.1,False
+Nordenberg,2026-09-30,small,14,56,,True,,poisson|full,short,0.6,2.8,0.0,6.0,1.1,False
+Nordenberg,2026-10-01,small,15,56,,True,,poisson|full,long,0.4,2.8,0.0,5.9,0.8,False
+Nordenberg,2026-10-02,small,16,56,,True,,poisson|full,long,0.5,2.8,0.0,5.9,0.8,False
+Nordenberg,2026-10-03,small,17,56,,True,,poisson|full,long,0.3,2.8,0.0,5.7,0.5,False
+Nordenberg,2026-10-04,small,18,56,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2026-10-05,small,19,56,,True,,poisson|full,long,0.4,2.8,0.0,5.9,0.8,False
+Nordenberg,2026-10-06,small,20,56,,True,,poisson|full,long,0.4,2.8,0.0,5.8,0.7,False
+Nordenberg,2026-10-07,small,21,56,,True,,poisson|full,long,0.4,2.8,0.0,5.8,0.7,False
+Nordenberg,2026-10-08,small,22,56,,True,,poisson|full,long,0.4,2.8,0.0,5.9,0.8,False
+Nordenberg,2026-10-09,small,23,56,,True,,poisson|full,long,0.4,2.8,0.0,5.9,0.8,False
+Nordenberg,2026-10-10,small,24,56,,True,,poisson|full,long,0.3,2.8,0.0,5.7,0.5,False
+Nordenberg,2026-10-11,small,25,56,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2026-10-12,small,26,56,,True,,poisson|full,long,0.4,2.8,0.0,5.8,0.7,False
+Nordenberg,2026-10-13,small,27,56,,True,,poisson|full,long,0.4,2.8,0.0,5.8,0.7,False
+Nordenberg,2026-10-14,small,28,56,,True,,poisson|full,long,0.4,2.8,0.0,5.8,0.7,False
+Nordenberg,2026-10-15,small,29,56,,True,,poisson|full,long,0.4,2.8,0.0,5.8,0.7,False
+Nordenberg,2026-10-16,small,30,56,,True,,poisson|full,long,0.4,2.8,0.0,5.8,0.8,False
+Nordenberg,2026-10-17,small,31,56,,True,,poisson|full,long,0.3,2.8,0.0,5.7,0.5,False
+Nordenberg,2026-10-18,small,32,56,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2026-10-19,small,33,56,,True,,poisson|full,long,0.4,2.8,0.0,5.8,0.7,False
+Nordenberg,2026-10-20,small,34,56,,True,,poisson|full,long,0.4,2.8,0.0,5.8,0.7,False
+Nordenberg,2026-10-21,small,35,56,,True,,poisson|full,long,0.4,2.8,0.0,5.8,0.7,False
+Nordenberg,2026-10-22,small,36,56,,True,,poisson|full,long,0.4,2.8,0.0,5.8,0.7,False
+Nordenberg,2026-10-23,small,37,56,,True,,poisson|full,long,0.4,2.8,0.0,5.8,0.7,False
+Nordenberg,2026-10-24,small,38,56,,True,,poisson|full,long,0.2,2.8,0.0,5.7,0.4,False
+Nordenberg,2026-10-25,small,39,56,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2026-10-26,small,40,56,,True,,poisson|full,long,0.4,2.8,0.0,5.8,0.7,False
+Nordenberg,2026-10-27,small,41,56,,True,,poisson|full,long,0.4,2.8,0.0,5.8,0.7,False
+Nordenberg,2026-10-28,small,42,56,,True,,poisson|full,long,0.4,2.8,0.0,5.8,0.7,False
+Nordenberg,2026-10-29,small,43,56,,True,,poisson|full,long,0.4,2.8,0.0,5.8,0.7,False
+Nordenberg,2026-10-30,small,44,56,,True,,poisson|full,long,0.4,2.8,0.0,5.8,0.7,False
+Nordenberg,2026-10-31,small,45,56,,True,,poisson|full,long,0.2,2.8,0.0,5.7,0.4,False
+Nordenberg,2026-11-01,small,46,56,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2026-11-02,small,47,56,,True,,poisson|full,long,0.4,2.8,0.0,5.8,0.7,False
+Nordenberg,2026-11-03,small,48,56,,True,,poisson|full,long,0.4,2.8,0.0,5.8,0.6,False
+Nordenberg,2026-11-04,small,49,56,,True,,poisson|full,long,0.4,2.8,0.0,5.8,0.6,False
+Nordenberg,2026-11-05,small,50,56,,True,,poisson|full,long,0.4,2.8,0.0,5.8,0.6,False
+Nordenberg,2026-11-06,small,51,56,,True,,poisson|full,long,0.4,2.8,0.0,5.8,0.7,False
+Nordenberg,2026-11-07,small,52,56,,True,,poisson|full,long,0.2,2.8,0.0,5.7,0.4,False
+Nordenberg,2026-11-08,small,53,56,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2026-11-09,small,54,56,,True,,poisson|full,long,0.4,2.8,0.0,5.8,0.6,False
+Nordenberg,2026-11-10,small,55,56,,True,,poisson|full,long,0.3,2.8,0.0,5.8,0.6,False
+Nordenberg,2026-11-11,small,56,56,,True,,poisson|full,long,0.3,2.8,0.0,5.8,0.6,False
+Nordenberg,2026-11-12,small,57,56,,True,,poisson|full,long,0.3,2.8,0.0,5.8,0.6,False
+Nordenberg,2026-11-13,small,58,56,,True,,poisson|full,long,0.4,2.8,0.0,5.8,0.6,False
+Nordenberg,2026-11-14,small,59,56,,True,,poisson|full,long,0.2,2.8,0.0,5.6,0.4,False
+Nordenberg,2026-11-15,small,60,56,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2026-11-16,small,61,56,,True,,poisson|full,long,0.3,2.8,0.0,5.8,0.6,False
+Nordenberg,2026-11-17,small,62,56,,True,,poisson|full,long,0.3,2.8,0.0,5.8,0.6,False
+Nordenberg,2026-11-18,small,63,56,,True,,poisson|full,long,0.3,2.8,0.0,5.7,0.6,False
+Nordenberg,2026-11-19,small,64,56,,True,,poisson|full,long,0.0,2.8,0.0,5.4,0.0,False
+Nordenberg,2026-11-20,small,65,56,,True,,poisson|full,long,0.0,2.8,0.0,5.4,0.0,False
+Nordenberg,2026-11-21,small,66,56,,True,,poisson|full,long,0.0,2.8,0.0,5.4,0.0,False
+Nordenberg,2026-11-22,small,67,56,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2026-11-23,small,68,56,,True,,poisson|full,long,0.0,2.8,0.0,5.5,0.1,False
+Nordenberg,2026-11-24,small,69,56,,True,,poisson|full,long,0.0,2.8,0.0,5.5,0.1,False
+Nordenberg,2026-11-25,small,70,56,,True,,poisson|full,long,0.1,2.8,0.0,5.5,0.1,False
+Nordenberg,2026-11-26,small,71,56,,True,,poisson|full,long,0.1,2.8,0.0,5.5,0.1,False
+Nordenberg,2026-11-27,small,72,56,,True,,poisson|full,long,0.1,2.8,0.0,5.5,0.1,False
+Nordenberg,2026-11-28,small,73,56,,True,,poisson|full,long,0.1,2.8,0.0,5.5,0.1,False
+Nordenberg,2026-11-29,small,74,56,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2026-11-30,small,75,56,,True,,poisson|full,long,0.1,2.8,0.0,5.6,0.2,False
+Nordenberg,2026-12-01,small,76,56,,True,,poisson|full,long,0.1,2.8,0.0,5.6,0.3,False
+Nordenberg,2026-12-02,small,77,56,,True,,poisson|full,long,0.2,2.8,0.0,5.6,0.3,False
+Nordenberg,2026-12-03,small,78,56,,True,,poisson|full,long,0.2,2.8,0.0,5.6,0.4,False
+Nordenberg,2026-12-04,small,79,56,,True,,poisson|full,long,0.3,2.8,0.0,5.7,0.6,False
+Nordenberg,2026-12-05,small,80,56,,True,,poisson|full,long,0.2,2.8,0.0,5.6,0.3,False
+Nordenberg,2026-12-06,small,81,56,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2026-12-07,small,82,56,,True,,poisson|full,long,0.3,2.8,0.0,5.7,0.5,False
+Nordenberg,2026-12-08,small,83,56,,True,,poisson|full,long,0.3,2.8,0.0,5.7,0.5,False
+Nordenberg,2026-12-09,small,84,56,,True,,poisson|full,long,0.3,2.8,0.0,5.7,0.5,False
+Nordenberg,2026-12-10,small,85,56,,True,,poisson|full,long,0.3,2.8,0.0,5.7,0.5,False
+Nordenberg,2026-12-11,small,86,56,,True,,poisson|full,long,0.3,2.8,0.0,5.7,0.5,False
+Nordenberg,2026-12-12,small,87,56,,True,,poisson|full,long,0.2,2.8,0.0,5.6,0.3,False
+Nordenberg,2026-12-13,small,88,56,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2026-12-14,small,89,56,,True,,poisson|full,long,0.3,2.8,0.0,5.7,0.5,False
+Nordenberg,2026-12-15,small,90,56,,True,,poisson|full,long,0.3,2.8,0.0,5.7,0.5,False
+Nordenberg,2026-12-16,small,91,56,,True,,poisson|full,long,0.3,2.8,0.0,5.7,0.5,False
+Nordenberg,2026-12-17,small,92,56,,True,,poisson|full,long,0.3,2.8,0.0,5.7,0.5,False
+Nordenberg,2026-12-18,small,93,56,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2026-12-19,small,94,56,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2026-12-20,small,95,56,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2026-12-21,small,96,56,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2026-12-22,small,97,56,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2026-12-23,small,98,56,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2026-12-24,small,99,56,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2026-12-25,small,100,56,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2026-12-26,small,101,56,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2026-12-27,small,102,56,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2026-12-28,small,103,56,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2026-12-29,small,104,56,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2026-12-30,small,105,56,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2026-12-31,small,106,56,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2027-01-01,small,107,56,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2027-01-02,small,108,56,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2027-01-03,small,109,56,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2027-01-04,small,110,56,,True,,poisson|full,long,0.3,2.8,0.0,5.7,0.5,False
+Nordenberg,2027-01-05,small,111,56,,True,,poisson|full,long,0.2,2.8,0.0,5.7,0.4,False
+Nordenberg,2027-01-06,small,112,56,,True,,poisson|full,long,0.2,2.8,0.0,5.7,0.4,False
+Nordenberg,2027-01-07,small,113,56,,True,,poisson|full,long,0.3,2.8,0.0,5.7,0.4,False
+Nordenberg,2027-01-08,small,114,56,,True,,poisson|full,long,0.3,2.8,0.0,5.7,0.5,False
+Nordenberg,2027-01-09,small,115,56,,True,,poisson|full,long,0.2,2.8,0.0,5.6,0.3,False
+Nordenberg,2027-01-10,small,116,56,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Nordenberg,2027-01-11,small,117,56,,True,,poisson|full,long,0.2,2.8,0.0,5.7,0.4,False
+Nordenberg,2027-01-12,small,118,56,,True,,poisson|full,long,0.2,2.8,0.0,5.7,0.4,False
+Nordenberg,2027-01-13,small,119,56,,True,,poisson|full,long,0.2,2.8,0.0,5.7,0.4,False
+Nordenberg,2027-01-14,small,120,56,,True,,poisson|full,long,0.2,2.8,0.0,5.7,0.4,False
+Nordenberg,2027-01-15,small,121,56,,True,,poisson|full,long,0.3,2.8,0.0,5.7,0.4,False
+Nordenberg,2027-01-16,small,122,56,,True,,poisson|full,long,0.2,2.8,0.0,5.6,0.3,False
+Nordenberg,2027-01-17,small,123,56,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Residences on Bigelow,2026-09-20,small,2,27,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Residences on Bigelow,2026-09-21,small,3,27,,True,,tweedie|lean,short,7.7,7.3,0.0,22.0,28.4,False
+Residences on Bigelow,2026-09-22,small,4,27,,True,,tweedie|lean,short,6.9,6.9,0.0,20.4,25.4,False
+Residences on Bigelow,2026-09-23,small,5,27,,True,,tweedie|lean,short,6.0,6.5,0.0,18.6,22.2,False
+Residences on Bigelow,2026-09-24,small,6,27,,True,,tweedie|lean,short,5.0,5.9,0.0,16.5,18.4,False
+Residences on Bigelow,2026-09-25,small,7,27,,True,,tweedie|lean,short,4.9,5.8,0.0,16.3,18.1,False
+Residences on Bigelow,2026-09-26,small,8,27,,True,,tweedie|lean,short,3.6,5.0,0.0,13.5,13.4,False
+Residences on Bigelow,2026-09-27,small,9,27,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Residences on Bigelow,2026-09-28,small,10,27,,True,,tweedie|lean,short,6.8,6.9,0.0,20.2,25.1,False
+Residences on Bigelow,2026-09-29,small,11,27,,True,,tweedie|lean,short,5.8,6.3,0.0,18.2,21.3,False
+Residences on Bigelow,2026-09-30,small,12,27,,True,,tweedie|lean,short,4.7,5.7,0.0,16.0,17.5,False
+Residences on Bigelow,2026-10-01,small,13,27,,True,,tweedie|lean,short,4.2,5.4,0.0,14.9,15.7,False
+Residences on Bigelow,2026-10-02,small,14,27,,True,,tweedie|lean,short,4.6,5.6,0.0,15.6,16.9,False
+Residences on Bigelow,2026-10-03,small,15,27,,True,,hierarchical,long,4.5,5.6,0.0,15.5,16.7,False
+Residences on Bigelow,2026-10-04,small,16,27,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Residences on Bigelow,2026-10-05,small,17,27,,True,,hierarchical,long,10.4,8.5,0.0,27.1,38.5,False
+Residences on Bigelow,2026-10-06,small,18,27,,True,,hierarchical,long,4.3,5.5,0.0,15.0,15.8,False
+Residences on Bigelow,2026-10-07,small,19,27,,True,,hierarchical,long,5.8,6.4,0.0,18.3,21.6,False
+Residences on Bigelow,2026-10-08,small,20,27,,True,,hierarchical,long,5.5,6.2,0.0,17.7,20.5,False
+Residences on Bigelow,2026-10-09,small,21,27,,True,,hierarchical,long,5.0,5.9,0.0,16.6,18.5,False
+Residences on Bigelow,2026-10-10,small,22,27,,True,,hierarchical,long,4.9,5.8,0.0,16.3,18.0,False
+Residences on Bigelow,2026-10-11,small,23,27,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Residences on Bigelow,2026-10-12,small,24,27,,True,,hierarchical,long,10.4,8.5,0.0,27.1,38.5,False
+Residences on Bigelow,2026-10-13,small,25,27,,True,,hierarchical,long,4.3,5.5,0.0,15.0,15.8,False
+Residences on Bigelow,2026-10-14,small,26,27,,True,,hierarchical,long,5.8,6.4,0.0,18.3,21.6,False
+Residences on Bigelow,2026-10-15,small,27,27,,True,,hierarchical,long,5.5,6.2,0.0,17.7,20.5,False
+Residences on Bigelow,2026-10-16,small,28,27,,True,,hierarchical,long,5.0,5.9,0.0,16.6,18.5,False
+Residences on Bigelow,2026-10-17,small,29,27,,True,,hierarchical,long,4.9,5.8,0.0,16.3,18.0,False
+Residences on Bigelow,2026-10-18,small,30,27,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Residences on Bigelow,2026-10-19,small,31,27,,True,,hierarchical,long,10.4,8.5,0.0,27.1,38.5,False
+Residences on Bigelow,2026-10-20,small,32,27,,True,,hierarchical,long,4.3,5.5,0.0,15.0,15.8,False
+Residences on Bigelow,2026-10-21,small,33,27,,True,,hierarchical,long,5.8,6.4,0.0,18.3,21.6,False
+Residences on Bigelow,2026-10-22,small,34,27,,True,,hierarchical,long,5.5,6.2,0.0,17.7,20.5,False
+Residences on Bigelow,2026-10-23,small,35,27,,True,,hierarchical,long,5.0,5.9,0.0,16.6,18.5,False
+Residences on Bigelow,2026-10-24,small,36,27,,True,,hierarchical,long,4.9,5.8,0.0,16.3,18.0,False
+Residences on Bigelow,2026-10-25,small,37,27,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Residences on Bigelow,2026-10-26,small,38,27,,True,,hierarchical,long,10.4,8.5,0.0,27.1,38.5,False
+Residences on Bigelow,2026-10-27,small,39,27,,True,,hierarchical,long,4.3,5.5,0.0,15.0,15.8,False
+Residences on Bigelow,2026-10-28,small,40,27,,True,,hierarchical,long,5.8,6.4,0.0,18.3,21.6,False
+Residences on Bigelow,2026-10-29,small,41,27,,True,,hierarchical,long,5.5,6.2,0.0,17.7,20.5,False
+Residences on Bigelow,2026-10-30,small,42,27,,True,,hierarchical,long,5.0,5.9,0.0,16.6,18.5,False
+Residences on Bigelow,2026-10-31,small,43,27,,True,,hierarchical,long,4.9,5.8,0.0,16.3,18.0,False
+Residences on Bigelow,2026-11-01,small,44,27,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Residences on Bigelow,2026-11-02,small,45,27,,True,,hierarchical,long,10.4,8.5,0.0,27.1,38.5,False
+Residences on Bigelow,2026-11-03,small,46,27,,True,,hierarchical,long,4.3,5.5,0.0,15.0,15.8,False
+Residences on Bigelow,2026-11-04,small,47,27,,True,,hierarchical,long,5.8,6.4,0.0,18.3,21.6,False
+Residences on Bigelow,2026-11-05,small,48,27,,True,,hierarchical,long,5.5,6.2,0.0,17.7,20.5,False
+Residences on Bigelow,2026-11-06,small,49,27,,True,,hierarchical,long,5.0,5.9,0.0,16.6,18.5,False
+Residences on Bigelow,2026-11-07,small,50,27,,True,,hierarchical,long,4.9,5.8,0.0,16.3,18.0,False
+Residences on Bigelow,2026-11-08,small,51,27,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Residences on Bigelow,2026-11-09,small,52,27,,True,,hierarchical,long,10.4,8.5,0.0,27.1,38.5,False
+Residences on Bigelow,2026-11-10,small,53,27,,True,,hierarchical,long,4.3,5.5,0.0,15.0,15.8,False
+Residences on Bigelow,2026-11-11,small,54,27,,True,,hierarchical,long,5.8,6.4,0.0,18.3,21.6,False
+Residences on Bigelow,2026-11-12,small,55,27,,True,,hierarchical,long,5.5,6.2,0.0,17.7,20.5,False
+Residences on Bigelow,2026-11-13,small,56,27,,True,,hierarchical,long,5.0,5.9,0.0,16.6,18.5,False
+Residences on Bigelow,2026-11-14,small,57,27,,True,,hierarchical,long,4.9,5.8,0.0,16.3,18.0,False
+Residences on Bigelow,2026-11-15,small,58,27,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Residences on Bigelow,2026-11-16,small,59,27,,True,,hierarchical,long,10.4,8.5,0.0,27.1,38.5,False
+Residences on Bigelow,2026-11-17,small,60,27,,True,,hierarchical,long,4.3,5.5,0.0,15.0,15.8,False
+Residences on Bigelow,2026-11-18,small,61,27,,True,,hierarchical,long,5.8,6.4,0.0,18.3,21.6,False
+Residences on Bigelow,2026-11-19,small,62,27,,True,,hierarchical,long,5.5,6.2,0.0,17.7,20.5,False
+Residences on Bigelow,2026-11-20,small,63,27,,True,,hierarchical,long,5.0,5.9,0.0,16.6,18.5,False
+Residences on Bigelow,2026-11-21,small,64,27,,True,,hierarchical,long,4.9,5.8,0.0,16.3,18.0,False
+Residences on Bigelow,2026-11-22,small,65,27,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Residences on Bigelow,2026-11-23,small,66,27,,True,,hierarchical,long,10.4,8.5,0.0,27.1,38.5,False
+Residences on Bigelow,2026-11-24,small,67,27,,True,,hierarchical,long,4.3,5.5,0.0,15.0,15.8,False
+Residences on Bigelow,2026-11-25,small,68,27,,True,,hierarchical,long,5.8,6.4,0.0,18.3,21.6,False
+Residences on Bigelow,2026-11-26,small,69,27,,True,,hierarchical,long,5.5,6.2,0.0,17.7,20.5,False
+Residences on Bigelow,2026-11-27,small,70,27,,True,,hierarchical,long,5.0,5.9,0.0,16.6,18.5,False
+Residences on Bigelow,2026-11-28,small,71,27,,True,,hierarchical,long,4.9,5.8,0.0,16.3,18.0,False
+Residences on Bigelow,2026-11-29,small,72,27,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Residences on Bigelow,2026-11-30,small,73,27,,True,,hierarchical,long,10.4,8.5,0.0,27.1,38.5,False
+Residences on Bigelow,2026-12-01,small,74,27,,True,,hierarchical,long,4.3,5.5,0.0,15.0,15.8,False
+Residences on Bigelow,2026-12-02,small,75,27,,True,,hierarchical,long,5.8,6.4,0.0,18.3,21.6,False
+Residences on Bigelow,2026-12-03,small,76,27,,True,,hierarchical,long,5.5,6.2,0.0,17.7,20.5,False
+Residences on Bigelow,2026-12-04,small,77,27,,True,,hierarchical,long,5.0,5.9,0.0,16.6,18.5,False
+Residences on Bigelow,2026-12-05,small,78,27,,True,,hierarchical,long,4.9,5.8,0.0,16.3,18.0,False
+Residences on Bigelow,2026-12-06,small,79,27,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Residences on Bigelow,2026-12-07,small,80,27,,True,,hierarchical,long,10.4,8.5,0.0,27.1,38.5,False
+Residences on Bigelow,2026-12-08,small,81,27,,True,,hierarchical,long,4.3,5.5,0.0,15.0,15.8,False
+Residences on Bigelow,2026-12-09,small,82,27,,True,,hierarchical,long,5.8,6.4,0.0,18.3,21.6,False
+Residences on Bigelow,2026-12-10,small,83,27,,True,,hierarchical,long,5.5,6.2,0.0,17.7,20.5,False
+Residences on Bigelow,2026-12-11,small,84,27,,True,,hierarchical,long,5.0,5.9,0.0,16.6,18.5,False
+Residences on Bigelow,2026-12-12,small,85,27,,True,,hierarchical,long,4.9,5.8,0.0,16.3,18.0,False
+Residences on Bigelow,2026-12-13,small,86,27,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Residences on Bigelow,2026-12-14,small,87,27,,True,,hierarchical,long,10.4,8.5,0.0,27.1,38.5,False
+Residences on Bigelow,2026-12-15,small,88,27,,True,,hierarchical,long,4.3,5.5,0.0,15.0,15.8,False
+Residences on Bigelow,2026-12-16,small,89,27,,True,,hierarchical,long,5.8,6.4,0.0,18.3,21.6,False
+Residences on Bigelow,2026-12-17,small,90,27,,True,,hierarchical,long,5.5,6.2,0.0,17.7,20.5,False
+Residences on Bigelow,2026-12-18,small,91,27,,True,,hierarchical,long,0.3,2.6,0.0,5.5,1.3,False
+Residences on Bigelow,2026-12-19,small,92,27,,True,,hierarchical,long,0.3,2.6,0.0,5.5,1.3,False
+Residences on Bigelow,2026-12-20,small,93,27,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Residences on Bigelow,2026-12-21,small,94,27,,True,,hierarchical,long,0.7,2.6,0.0,5.9,2.7,False
+Residences on Bigelow,2026-12-22,small,95,27,,True,,hierarchical,long,0.3,2.6,0.0,5.5,1.1,False
+Residences on Bigelow,2026-12-23,small,96,27,,True,,hierarchical,long,0.4,2.6,0.0,5.6,1.5,False
+Residences on Bigelow,2026-12-24,small,97,27,,True,,hierarchical,long,0.4,2.6,0.0,5.6,1.4,False
+Residences on Bigelow,2026-12-25,small,98,27,,True,,hierarchical,long,0.3,2.6,0.0,5.5,1.3,False
+Residences on Bigelow,2026-12-26,small,99,27,,True,,hierarchical,long,0.3,2.6,0.0,5.5,1.3,False
+Residences on Bigelow,2026-12-27,small,100,27,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Residences on Bigelow,2026-12-28,small,101,27,,True,,hierarchical,long,0.7,2.6,0.0,5.9,2.7,False
+Residences on Bigelow,2026-12-29,small,102,27,,True,,hierarchical,long,0.3,2.6,0.0,5.5,1.1,False
+Residences on Bigelow,2026-12-30,small,103,27,,True,,hierarchical,long,0.4,2.6,0.0,5.6,1.5,False
+Residences on Bigelow,2026-12-31,small,104,27,,True,,hierarchical,long,0.4,2.6,0.0,5.6,1.4,False
+Residences on Bigelow,2027-01-01,small,105,27,,True,,hierarchical,long,0.3,2.6,0.0,5.5,1.3,False
+Residences on Bigelow,2027-01-02,small,106,27,,True,,hierarchical,long,0.3,2.6,0.0,5.5,1.3,False
+Residences on Bigelow,2027-01-03,small,107,27,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Residences on Bigelow,2027-01-04,small,108,27,,True,,hierarchical,long,10.4,8.5,0.0,27.1,38.5,False
+Residences on Bigelow,2027-01-05,small,109,27,,True,,hierarchical,long,4.3,5.5,0.0,15.0,15.8,False
+Residences on Bigelow,2027-01-06,small,110,27,,True,,hierarchical,long,5.8,6.4,0.0,18.3,21.6,False
+Residences on Bigelow,2027-01-07,small,111,27,,True,,hierarchical,long,5.5,6.2,0.0,17.7,20.5,False
+Residences on Bigelow,2027-01-08,small,112,27,,True,,hierarchical,long,5.0,5.9,0.0,16.6,18.5,False
+Residences on Bigelow,2027-01-09,small,113,27,,True,,hierarchical,long,4.9,5.8,0.0,16.3,18.0,False
+Residences on Bigelow,2027-01-10,small,114,27,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Residences on Bigelow,2027-01-11,small,115,27,,True,,hierarchical,long,10.4,8.5,0.0,27.1,38.5,False
+Residences on Bigelow,2027-01-12,small,116,27,,True,,hierarchical,long,4.3,5.5,0.0,15.0,15.8,False
+Residences on Bigelow,2027-01-13,small,117,27,,True,,hierarchical,long,5.8,6.4,0.0,18.3,21.6,False
+Residences on Bigelow,2027-01-14,small,118,27,,True,,hierarchical,long,5.5,6.2,0.0,17.7,20.5,False
+Residences on Bigelow,2027-01-15,small,119,27,,True,,hierarchical,long,5.0,5.9,0.0,16.6,18.5,False
+Residences on Bigelow,2027-01-16,small,120,27,,True,,hierarchical,long,4.9,5.8,0.0,16.3,18.0,False
+Residences on Bigelow,2027-01-17,small,121,27,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2026-09-20,small,1,15,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2026-09-21,small,2,15,,True,,tweedie|lean,short,4.6,5.4,0.0,15.3,30.9,False
+Ruskin,2026-09-22,small,3,15,,True,,tweedie|lean,short,5.2,5.8,0.0,16.6,34.9,False
+Ruskin,2026-09-23,small,4,15,,True,,tweedie|lean,short,5.2,5.8,0.0,16.5,34.6,False
+Ruskin,2026-09-24,small,5,15,,True,,tweedie|lean,short,4.5,5.4,0.0,15.1,30.3,False
+Ruskin,2026-09-25,small,6,15,,True,,tweedie|lean,short,3.9,5.0,0.0,13.7,25.9,False
+Ruskin,2026-09-26,small,7,15,,True,,tweedie|lean,short,0.7,2.5,0.0,5.6,4.4,False
+Ruskin,2026-09-27,small,8,15,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2026-09-28,small,9,15,,True,,tweedie|lean,short,4.7,5.5,0.0,15.5,31.5,False
+Ruskin,2026-09-29,small,10,15,,True,,tweedie|lean,short,5.2,5.8,0.0,16.5,34.8,False
+Ruskin,2026-09-30,small,11,15,,True,,tweedie|lean,short,5.2,5.8,0.0,16.4,34.5,False
+Ruskin,2026-10-01,small,12,15,,True,,tweedie|lean,short,4.5,5.4,0.0,15.1,30.3,False
+Ruskin,2026-10-02,small,13,15,,True,,tweedie|lean,short,4.0,5.0,0.0,13.9,26.6,False
+Ruskin,2026-10-03,small,14,15,,True,,tweedie|lean,short,0.7,2.5,0.0,5.6,4.6,False
+Ruskin,2026-10-04,small,15,15,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2026-10-05,small,16,15,,True,,hgb_poisson|lean,long,5.0,5.7,0.0,16.1,33.3,False
+Ruskin,2026-10-06,small,17,15,,True,,hgb_poisson|lean,long,6.8,6.6,0.0,19.7,45.4,False
+Ruskin,2026-10-07,small,18,15,,True,,hgb_poisson|lean,long,5.2,5.8,0.0,16.5,34.6,False
+Ruskin,2026-10-08,small,19,15,,True,,hgb_poisson|lean,long,3.8,4.9,0.0,13.5,25.4,False
+Ruskin,2026-10-09,small,20,15,,True,,hgb_poisson|lean,long,6.0,6.2,0.0,18.1,40.0,False
+Ruskin,2026-10-10,small,21,15,,True,,hgb_poisson|lean,long,0.1,2.5,0.0,5.1,0.7,False
+Ruskin,2026-10-11,small,22,15,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2026-10-12,small,23,15,,True,,hgb_poisson|lean,long,5.0,5.7,0.0,16.1,33.3,False
+Ruskin,2026-10-13,small,24,15,,True,,hgb_poisson|lean,long,6.8,6.6,0.0,19.7,45.4,False
+Ruskin,2026-10-14,small,25,15,,True,,hgb_poisson|lean,long,5.2,5.8,0.0,16.5,34.6,False
+Ruskin,2026-10-15,small,26,15,,True,,hgb_poisson|lean,long,3.8,4.9,0.0,13.5,25.4,False
+Ruskin,2026-10-16,small,27,15,,True,,hgb_poisson|lean,long,6.0,6.2,0.0,18.1,40.0,False
+Ruskin,2026-10-17,small,28,15,,True,,hgb_poisson|lean,long,0.1,2.5,0.0,5.1,0.7,False
+Ruskin,2026-10-18,small,29,15,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2026-10-19,small,30,15,,True,,hgb_poisson|lean,long,5.0,5.7,0.0,16.1,33.3,False
+Ruskin,2026-10-20,small,31,15,,True,,hgb_poisson|lean,long,6.8,6.6,0.0,19.7,45.4,False
+Ruskin,2026-10-21,small,32,15,,True,,hgb_poisson|lean,long,5.2,5.8,0.0,16.5,34.6,False
+Ruskin,2026-10-22,small,33,15,,True,,hgb_poisson|lean,long,3.8,4.9,0.0,13.5,25.4,False
+Ruskin,2026-10-23,small,34,15,,True,,hgb_poisson|lean,long,6.0,6.2,0.0,18.1,40.0,False
+Ruskin,2026-10-24,small,35,15,,True,,hgb_poisson|lean,long,0.1,2.5,0.0,5.1,0.7,False
+Ruskin,2026-10-25,small,36,15,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2026-10-26,small,37,15,,True,,hgb_poisson|lean,long,5.0,5.7,0.0,16.1,33.3,False
+Ruskin,2026-10-27,small,38,15,,True,,hgb_poisson|lean,long,6.8,6.6,0.0,19.7,45.4,False
+Ruskin,2026-10-28,small,39,15,,True,,hgb_poisson|lean,long,5.2,5.8,0.0,16.5,34.6,False
+Ruskin,2026-10-29,small,40,15,,True,,hgb_poisson|lean,long,3.8,4.9,0.0,13.5,25.4,False
+Ruskin,2026-10-30,small,41,15,,True,,hgb_poisson|lean,long,6.0,6.2,0.0,18.1,40.0,False
+Ruskin,2026-10-31,small,42,15,,True,,hgb_poisson|lean,long,0.1,2.5,0.0,5.1,0.7,False
+Ruskin,2026-11-01,small,43,15,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2026-11-02,small,44,15,,True,,hgb_poisson|lean,long,5.0,5.7,0.0,16.1,33.3,False
+Ruskin,2026-11-03,small,45,15,,True,,hgb_poisson|lean,long,6.8,6.6,0.0,19.7,45.4,False
+Ruskin,2026-11-04,small,46,15,,True,,hgb_poisson|lean,long,5.2,5.8,0.0,16.5,34.6,False
+Ruskin,2026-11-05,small,47,15,,True,,hgb_poisson|lean,long,3.8,4.9,0.0,13.5,25.4,False
+Ruskin,2026-11-06,small,48,15,,True,,hgb_poisson|lean,long,6.0,6.2,0.0,18.1,40.0,False
+Ruskin,2026-11-07,small,49,15,,True,,hgb_poisson|lean,long,0.1,2.5,0.0,5.1,0.7,False
+Ruskin,2026-11-08,small,50,15,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2026-11-09,small,51,15,,True,,hgb_poisson|lean,long,5.0,5.7,0.0,16.1,33.3,False
+Ruskin,2026-11-10,small,52,15,,True,,hgb_poisson|lean,long,6.8,6.6,0.0,19.7,45.4,False
+Ruskin,2026-11-11,small,53,15,,True,,hgb_poisson|lean,long,5.2,5.8,0.0,16.5,34.6,False
+Ruskin,2026-11-12,small,54,15,,True,,hgb_poisson|lean,long,3.8,4.9,0.0,13.5,25.4,False
+Ruskin,2026-11-13,small,55,15,,True,,hgb_poisson|lean,long,6.0,6.2,0.0,18.1,40.0,False
+Ruskin,2026-11-14,small,56,15,,True,,hgb_poisson|lean,long,0.1,2.5,0.0,5.1,0.7,False
+Ruskin,2026-11-15,small,57,15,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2026-11-16,small,58,15,,True,,hgb_poisson|lean,long,5.0,5.7,0.0,16.1,33.3,False
+Ruskin,2026-11-17,small,59,15,,True,,hgb_poisson|lean,long,6.8,6.6,0.0,19.7,45.4,False
+Ruskin,2026-11-18,small,60,15,,True,,hgb_poisson|lean,long,5.2,5.8,0.0,16.5,34.6,False
+Ruskin,2026-11-19,small,61,15,,True,,hgb_poisson|lean,long,3.8,4.9,0.0,13.5,25.4,False
+Ruskin,2026-11-20,small,62,15,,True,,hgb_poisson|lean,long,6.0,6.2,0.0,18.1,40.0,False
+Ruskin,2026-11-21,small,63,15,,True,,hgb_poisson|lean,long,0.1,2.5,0.0,5.1,0.7,False
+Ruskin,2026-11-22,small,64,15,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2026-11-23,small,65,15,,True,,hgb_poisson|lean,long,5.0,5.7,0.0,16.1,33.3,False
+Ruskin,2026-11-24,small,66,15,,True,,hgb_poisson|lean,long,6.8,6.6,0.0,19.7,45.4,False
+Ruskin,2026-11-25,small,67,15,,True,,hgb_poisson|lean,long,5.2,5.8,0.0,16.5,34.6,False
+Ruskin,2026-11-26,small,68,15,,True,,hgb_poisson|lean,long,3.8,4.9,0.0,13.5,25.4,False
+Ruskin,2026-11-27,small,69,15,,True,,hgb_poisson|lean,long,6.0,6.2,0.0,18.1,40.0,False
+Ruskin,2026-11-28,small,70,15,,True,,hgb_poisson|lean,long,0.1,2.5,0.0,5.1,0.7,False
+Ruskin,2026-11-29,small,71,15,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2026-11-30,small,72,15,,True,,hgb_poisson|lean,long,5.0,5.7,0.0,16.1,33.3,False
+Ruskin,2026-12-01,small,73,15,,True,,hgb_poisson|lean,long,6.8,6.6,0.0,19.7,45.4,False
+Ruskin,2026-12-02,small,74,15,,True,,hgb_poisson|lean,long,5.2,5.8,0.0,16.5,34.6,False
+Ruskin,2026-12-03,small,75,15,,True,,hgb_poisson|lean,long,3.8,4.9,0.0,13.5,25.4,False
+Ruskin,2026-12-04,small,76,15,,True,,hgb_poisson|lean,long,6.0,6.2,0.0,18.1,40.0,False
+Ruskin,2026-12-05,small,77,15,,True,,hgb_poisson|lean,long,0.1,2.5,0.0,5.1,0.7,False
+Ruskin,2026-12-06,small,78,15,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2026-12-07,small,79,15,,True,,hgb_poisson|lean,long,5.0,5.7,0.0,16.1,33.3,False
+Ruskin,2026-12-08,small,80,15,,True,,hgb_poisson|lean,long,6.8,6.6,0.0,19.7,45.4,False
+Ruskin,2026-12-09,small,81,15,,True,,hgb_poisson|lean,long,5.2,5.8,0.0,16.5,34.6,False
+Ruskin,2026-12-10,small,82,15,,True,,hgb_poisson|lean,long,3.8,4.9,0.0,13.5,25.4,False
+Ruskin,2026-12-11,small,83,15,,True,,hgb_poisson|lean,long,6.0,6.2,0.0,18.1,40.0,False
+Ruskin,2026-12-12,small,84,15,,True,,hgb_poisson|lean,long,0.1,2.5,0.0,5.1,0.7,False
+Ruskin,2026-12-13,small,85,15,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2026-12-14,small,86,15,,True,,hgb_poisson|lean,long,5.0,5.7,0.0,16.1,33.3,False
+Ruskin,2026-12-15,small,87,15,,True,,hgb_poisson|lean,long,6.8,6.6,0.0,19.7,45.4,False
+Ruskin,2026-12-16,small,88,15,,True,,hgb_poisson|lean,long,5.2,5.8,0.0,16.5,34.6,False
+Ruskin,2026-12-17,small,89,15,,True,,hgb_poisson|lean,long,3.8,4.9,0.0,13.5,25.4,False
+Ruskin,2026-12-18,small,90,15,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2026-12-19,small,91,15,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2026-12-20,small,92,15,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2026-12-21,small,93,15,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2026-12-22,small,94,15,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2026-12-23,small,95,15,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2026-12-24,small,96,15,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2026-12-25,small,97,15,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2026-12-26,small,98,15,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2026-12-27,small,99,15,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2026-12-28,small,100,15,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2026-12-29,small,101,15,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2026-12-30,small,102,15,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2026-12-31,small,103,15,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2027-01-01,small,104,15,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2027-01-02,small,105,15,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2027-01-03,small,106,15,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2027-01-04,small,107,15,,True,,hgb_poisson|lean,long,5.0,5.7,0.0,16.1,33.3,False
+Ruskin,2027-01-05,small,108,15,,True,,hgb_poisson|lean,long,6.8,6.6,0.0,19.7,45.4,False
+Ruskin,2027-01-06,small,109,15,,True,,hgb_poisson|lean,long,5.2,5.8,0.0,16.5,34.6,False
+Ruskin,2027-01-07,small,110,15,,True,,hgb_poisson|lean,long,3.8,4.9,0.0,13.5,25.4,False
+Ruskin,2027-01-08,small,111,15,,True,,hgb_poisson|lean,long,6.0,6.2,0.0,18.1,40.0,False
+Ruskin,2027-01-09,small,112,15,,True,,hgb_poisson|lean,long,0.1,2.5,0.0,5.1,0.7,False
+Ruskin,2027-01-10,small,113,15,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Ruskin,2027-01-11,small,114,15,,True,,hgb_poisson|lean,long,5.0,5.7,0.0,16.1,33.3,False
+Ruskin,2027-01-12,small,115,15,,True,,hgb_poisson|lean,long,6.8,6.6,0.0,19.7,45.4,False
+Ruskin,2027-01-13,small,116,15,,True,,hgb_poisson|lean,long,5.2,5.8,0.0,16.5,34.6,False
+Ruskin,2027-01-14,small,117,15,,True,,hgb_poisson|lean,long,3.8,4.9,0.0,13.5,25.4,False
+Ruskin,2027-01-15,small,118,15,,True,,hgb_poisson|lean,long,6.0,6.2,0.0,18.1,40.0,False
+Ruskin,2027-01-16,small,119,15,,True,,hgb_poisson|lean,long,0.1,2.5,0.0,5.1,0.7,False
+Ruskin,2027-01-17,small,120,15,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2026-09-20,large,2,122,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2026-09-21,large,3,122,,True,,bayes_ridge|full,short,33.7,28.9,0.0,90.4,27.6,False
+Sutherland,2026-09-22,large,4,122,,True,,bayes_ridge|full,short,33.4,28.8,0.0,89.8,27.4,False
+Sutherland,2026-09-23,large,5,122,,True,,bayes_ridge|full,short,28.4,26.5,0.0,80.4,23.3,False
+Sutherland,2026-09-24,large,6,122,,True,,bayes_ridge|full,short,27.8,26.2,0.0,79.2,22.8,False
+Sutherland,2026-09-25,large,7,122,,True,,bayes_ridge|full,short,27.2,26.0,0.0,78.2,22.3,False
+Sutherland,2026-09-26,large,8,122,,True,,bayes_ridge|full,short,5.7,11.9,0.0,29.0,4.7,False
+Sutherland,2026-09-27,large,9,122,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2026-09-28,large,10,122,,True,,bayes_ridge|full,short,30.4,27.5,0.0,84.2,24.9,False
+Sutherland,2026-09-29,large,11,122,,True,,bayes_ridge|full,short,29.5,27.1,0.0,82.6,24.2,False
+Sutherland,2026-09-30,large,12,122,,True,,bayes_ridge|full,short,26.9,25.8,0.0,77.6,22.1,False
+Sutherland,2026-10-01,large,13,122,,True,,bayes_ridge|full,short,24.8,24.8,0.0,73.5,20.4,False
+Sutherland,2026-10-02,large,14,122,,True,,bayes_ridge|full,short,25.7,25.2,0.0,75.1,21.0,False
+Sutherland,2026-10-03,large,15,122,,True,,bayes_ridge|full,long,0.0,5.0,0.0,9.8,0.0,False
+Sutherland,2026-10-04,large,16,122,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2026-10-05,large,17,122,,True,,bayes_ridge|full,long,23.2,24.0,0.0,70.2,19.0,False
+Sutherland,2026-10-06,large,18,122,,True,,bayes_ridge|full,long,21.8,23.3,0.0,67.4,17.9,False
+Sutherland,2026-10-07,large,19,122,,True,,bayes_ridge|full,long,19.9,22.2,0.0,63.4,16.3,False
+Sutherland,2026-10-08,large,20,122,,True,,bayes_ridge|full,long,18.7,21.5,0.0,60.9,15.3,False
+Sutherland,2026-10-09,large,21,122,,True,,bayes_ridge|full,long,19.2,21.8,0.0,62.0,15.8,False
+Sutherland,2026-10-10,large,22,122,,True,,bayes_ridge|full,long,0.0,5.0,0.0,9.8,0.0,False
+Sutherland,2026-10-11,large,23,122,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2026-10-12,large,24,122,,True,,bayes_ridge|full,long,22.9,23.8,0.0,69.6,18.8,False
+Sutherland,2026-10-13,large,25,122,,True,,bayes_ridge|full,long,21.5,23.1,0.0,66.8,17.6,False
+Sutherland,2026-10-14,large,26,122,,True,,bayes_ridge|full,long,19.6,22.0,0.0,62.7,16.0,False
+Sutherland,2026-10-15,large,27,122,,True,,bayes_ridge|full,long,18.4,21.4,0.0,60.3,15.1,False
+Sutherland,2026-10-16,large,28,122,,True,,bayes_ridge|full,long,18.9,21.7,0.0,61.4,15.5,False
+Sutherland,2026-10-17,large,29,122,,True,,bayes_ridge|full,long,0.0,5.0,0.0,9.8,0.0,False
+Sutherland,2026-10-18,large,30,122,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2026-10-19,large,31,122,,True,,bayes_ridge|full,long,22.6,23.7,0.0,69.0,18.5,False
+Sutherland,2026-10-20,large,32,122,,True,,bayes_ridge|full,long,21.2,23.0,0.0,66.2,17.4,False
+Sutherland,2026-10-21,large,33,122,,True,,bayes_ridge|full,long,19.3,21.9,0.0,62.1,15.8,False
+Sutherland,2026-10-22,large,34,122,,True,,bayes_ridge|full,long,18.1,21.2,0.0,59.7,14.8,False
+Sutherland,2026-10-23,large,35,122,,True,,bayes_ridge|full,long,18.6,21.5,0.0,60.8,15.3,False
+Sutherland,2026-10-24,large,36,122,,True,,bayes_ridge|full,long,0.0,5.0,0.0,9.8,0.0,False
+Sutherland,2026-10-25,large,37,122,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2026-10-26,large,38,122,,True,,bayes_ridge|full,long,22.3,23.5,0.0,68.4,18.3,False
+Sutherland,2026-10-27,large,39,122,,True,,bayes_ridge|full,long,20.9,22.8,0.0,65.6,17.2,False
+Sutherland,2026-10-28,large,40,122,,True,,bayes_ridge|full,long,19.0,21.7,0.0,61.5,15.5,False
+Sutherland,2026-10-29,large,41,122,,True,,bayes_ridge|full,long,17.8,21.0,0.0,59.0,14.6,False
+Sutherland,2026-10-30,large,42,122,,True,,bayes_ridge|full,long,18.3,21.3,0.0,60.1,15.0,False
+Sutherland,2026-10-31,large,43,122,,True,,bayes_ridge|full,long,0.0,5.0,0.0,9.8,0.0,False
+Sutherland,2026-11-01,large,44,122,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2026-11-02,large,45,122,,True,,bayes_ridge|full,long,22.0,23.4,0.0,67.8,18.0,False
+Sutherland,2026-11-03,large,46,122,,True,,bayes_ridge|full,long,20.6,22.6,0.0,65.0,16.9,False
+Sutherland,2026-11-04,large,47,122,,True,,bayes_ridge|full,long,18.7,21.5,0.0,60.8,15.3,False
+Sutherland,2026-11-05,large,48,122,,True,,bayes_ridge|full,long,17.5,20.8,0.0,58.4,14.4,False
+Sutherland,2026-11-06,large,49,122,,True,,bayes_ridge|full,long,18.0,21.2,0.0,59.5,14.8,False
+Sutherland,2026-11-07,large,50,122,,True,,bayes_ridge|full,long,0.0,5.0,0.0,9.8,0.0,False
+Sutherland,2026-11-08,large,51,122,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2026-11-09,large,52,122,,True,,bayes_ridge|full,long,21.7,23.2,0.0,67.2,17.8,False
+Sutherland,2026-11-10,large,53,122,,True,,bayes_ridge|full,long,20.3,22.5,0.0,64.4,16.7,False
+Sutherland,2026-11-11,large,54,122,,True,,bayes_ridge|full,long,18.4,21.3,0.0,60.2,15.1,False
+Sutherland,2026-11-12,large,55,122,,True,,bayes_ridge|full,long,17.2,20.7,0.0,57.7,14.1,False
+Sutherland,2026-11-13,large,56,122,,True,,bayes_ridge|full,long,17.7,21.0,0.0,58.9,14.5,False
+Sutherland,2026-11-14,large,57,122,,True,,bayes_ridge|full,long,0.0,5.0,0.0,9.8,0.0,False
+Sutherland,2026-11-15,large,58,122,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2026-11-16,large,59,122,,True,,bayes_ridge|full,long,21.4,23.0,0.0,66.5,17.5,False
+Sutherland,2026-11-17,large,60,122,,True,,bayes_ridge|full,long,20.0,22.3,0.0,63.8,16.4,False
+Sutherland,2026-11-18,large,61,122,,True,,bayes_ridge|full,long,18.1,21.2,0.0,59.6,14.8,False
+Sutherland,2026-11-19,large,62,122,,True,,bayes_ridge|full,long,0.0,5.0,0.0,9.8,0.0,False
+Sutherland,2026-11-20,large,63,122,,True,,bayes_ridge|full,long,0.0,5.0,0.0,9.8,0.0,False
+Sutherland,2026-11-21,large,64,122,,True,,bayes_ridge|full,long,0.0,5.0,0.0,9.8,0.0,False
+Sutherland,2026-11-22,large,65,122,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2026-11-23,large,66,122,,True,,bayes_ridge|full,long,0.0,5.0,0.0,9.8,0.0,False
+Sutherland,2026-11-24,large,67,122,,True,,bayes_ridge|full,long,0.0,5.0,0.0,9.8,0.0,False
+Sutherland,2026-11-25,large,68,122,,True,,bayes_ridge|full,long,0.0,5.0,0.0,9.8,0.0,False
+Sutherland,2026-11-26,large,69,122,,True,,bayes_ridge|full,long,0.0,5.0,0.0,9.8,0.0,False
+Sutherland,2026-11-27,large,70,122,,True,,bayes_ridge|full,long,0.0,5.0,0.0,9.8,0.0,False
+Sutherland,2026-11-28,large,71,122,,True,,bayes_ridge|full,long,0.0,5.0,0.0,9.8,0.0,False
+Sutherland,2026-11-29,large,72,122,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2026-11-30,large,73,122,,True,,bayes_ridge|full,long,8.1,14.1,0.0,35.8,6.6,False
+Sutherland,2026-12-01,large,74,122,,True,,bayes_ridge|full,long,8.3,14.4,0.0,36.5,6.8,False
+Sutherland,2026-12-02,large,75,122,,True,,bayes_ridge|full,long,8.0,14.1,0.0,35.6,6.5,False
+Sutherland,2026-12-03,large,76,122,,True,,bayes_ridge|full,long,8.5,14.5,0.0,36.9,6.9,False
+Sutherland,2026-12-04,large,77,122,,True,,bayes_ridge|full,long,16.8,20.4,0.0,56.9,13.8,False
+Sutherland,2026-12-05,large,78,122,,True,,bayes_ridge|full,long,0.0,5.0,0.0,9.8,0.0,False
+Sutherland,2026-12-06,large,79,122,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2026-12-07,large,80,122,,True,,bayes_ridge|full,long,20.5,22.6,0.0,64.7,16.8,False
+Sutherland,2026-12-08,large,81,122,,True,,bayes_ridge|full,long,19.2,21.8,0.0,61.9,15.7,False
+Sutherland,2026-12-09,large,82,122,,True,,bayes_ridge|full,long,17.2,20.6,0.0,57.6,14.1,False
+Sutherland,2026-12-10,large,83,122,,True,,bayes_ridge|full,long,16.0,19.9,0.0,55.1,13.1,False
+Sutherland,2026-12-11,large,84,122,,True,,bayes_ridge|full,long,16.5,20.3,0.0,56.3,13.6,False
+Sutherland,2026-12-12,large,85,122,,True,,bayes_ridge|full,long,0.0,5.0,0.0,9.8,0.0,False
+Sutherland,2026-12-13,large,86,122,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2026-12-14,large,87,122,,True,,bayes_ridge|full,long,20.2,22.4,0.0,64.1,16.6,False
+Sutherland,2026-12-15,large,88,122,,True,,bayes_ridge|full,long,18.9,21.6,0.0,61.2,15.5,False
+Sutherland,2026-12-16,large,89,122,,True,,bayes_ridge|full,long,16.9,20.5,0.0,57.0,13.8,False
+Sutherland,2026-12-17,large,90,122,,True,,bayes_ridge|full,long,15.7,19.8,0.0,54.5,12.9,False
+Sutherland,2026-12-18,large,91,122,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2026-12-19,large,92,122,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2026-12-20,large,93,122,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2026-12-21,large,94,122,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2026-12-22,large,95,122,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2026-12-23,large,96,122,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2026-12-24,large,97,122,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2026-12-25,large,98,122,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2026-12-26,large,99,122,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2026-12-27,large,100,122,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2026-12-28,large,101,122,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2026-12-29,large,102,122,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2026-12-30,large,103,122,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2026-12-31,large,104,122,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2027-01-01,large,105,122,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2027-01-02,large,106,122,,False,winter_break,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2027-01-03,large,107,122,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2027-01-04,large,108,122,,True,,bayes_ridge|full,long,19.3,21.9,0.0,62.2,15.8,False
+Sutherland,2027-01-05,large,109,122,,True,,bayes_ridge|full,long,18.0,21.1,0.0,59.3,14.7,False
+Sutherland,2027-01-06,large,110,122,,True,,bayes_ridge|full,long,16.0,19.9,0.0,55.0,13.1,False
+Sutherland,2027-01-07,large,111,122,,True,,bayes_ridge|full,long,14.8,19.2,0.0,52.5,12.2,False
+Sutherland,2027-01-08,large,112,122,,True,,bayes_ridge|full,long,15.4,19.5,0.0,53.6,12.6,False
+Sutherland,2027-01-09,large,113,122,,True,,bayes_ridge|full,long,0.0,5.0,0.0,9.8,0.0,False
+Sutherland,2027-01-10,large,114,122,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Sutherland,2027-01-11,large,115,122,,True,,bayes_ridge|full,long,19.0,21.7,0.0,61.6,15.6,False
+Sutherland,2027-01-12,large,116,122,,True,,bayes_ridge|full,long,17.7,20.9,0.0,58.7,14.5,False
+Sutherland,2027-01-13,large,117,122,,True,,bayes_ridge|full,long,15.7,19.7,0.0,54.4,12.9,False
+Sutherland,2027-01-14,large,118,122,,True,,bayes_ridge|full,long,14.5,19.0,0.0,51.8,11.9,False
+Sutherland,2027-01-15,large,119,122,,True,,bayes_ridge|full,long,15.1,19.3,0.0,53.0,12.3,False
+Sutherland,2027-01-16,large,120,122,,True,,bayes_ridge|full,long,0.0,5.0,0.0,9.8,0.0,False
+Sutherland,2027-01-17,large,121,122,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Tower B,2026-09-20,large,1,577,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Tower B,2026-09-21,large,2,577,,True,,hgb_poisson|lean,short,99.3,56.3,0.0,209.7,17.2,False
+Tower B,2026-09-22,large,3,577,,True,,hgb_poisson|lean,short,107.0,58.4,0.0,221.5,18.5,False
+Tower B,2026-09-23,large,4,577,,True,,hgb_poisson|lean,short,107.6,58.6,0.0,222.4,18.6,False
+Tower B,2026-09-24,large,5,577,,True,,hgb_poisson|lean,short,105.4,58.0,0.0,219.1,18.3,False
+Tower B,2026-09-25,large,6,577,,True,,hgb_poisson|lean,short,105.4,58.0,0.0,219.1,18.3,False
+Tower B,2026-09-26,large,7,577,,True,,hgb_poisson|lean,short,54.2,41.6,0.0,135.8,9.4,False
+Tower B,2026-09-27,large,8,577,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Tower B,2026-09-28,large,9,577,,True,,hgb_poisson|lean,short,84.0,51.8,0.0,185.5,14.6,False
+Tower B,2026-09-29,large,10,577,,True,,hgb_poisson|lean,short,75.4,49.1,0.0,171.5,13.1,False
+Tower B,2026-09-30,large,11,577,,True,,hgb_poisson|lean,short,128.7,64.1,3.1,254.4,22.3,False
+Tower B,2026-10-01,large,12,577,,True,,hgb_poisson|lean,short,103.5,57.5,0.0,216.1,17.9,False
+Tower B,2026-10-02,large,13,577,,True,,hgb_poisson|lean,short,105.2,58.0,0.0,218.8,18.2,False
+Tower B,2026-10-03,large,14,577,,True,,hgb_poisson|lean,short,53.3,41.2,0.0,134.1,9.2,False
+Tower B,2026-10-04,large,15,577,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Tower B,2026-10-05,large,16,577,,True,,poisson|lean,long,161.8,71.9,20.9,302.6,28.0,False
+Tower B,2026-10-06,large,17,577,,True,,poisson|lean,long,169.2,73.5,25.2,313.2,29.3,False
+Tower B,2026-10-07,large,18,577,,True,,poisson|lean,long,173.7,74.5,27.8,319.7,30.1,False
+Tower B,2026-10-08,large,19,577,,True,,poisson|lean,long,171.7,74.0,26.6,316.8,29.8,False
+Tower B,2026-10-09,large,20,577,,True,,poisson|lean,long,164.8,72.5,22.6,306.9,28.6,False
+Tower B,2026-10-10,large,21,577,,True,,poisson|lean,long,57.7,42.9,0.0,141.9,10.0,False
+Tower B,2026-10-11,large,22,577,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Tower B,2026-10-12,large,23,577,,True,,poisson|lean,long,161.8,71.9,20.9,302.6,28.0,False
+Tower B,2026-10-13,large,24,577,,True,,poisson|lean,long,169.2,73.5,25.2,313.2,29.3,False
+Tower B,2026-10-14,large,25,577,,True,,poisson|lean,long,173.7,74.5,27.8,319.7,30.1,False
+Tower B,2026-10-15,large,26,577,,True,,poisson|lean,long,171.7,74.0,26.6,316.8,29.8,False
+Tower B,2026-10-16,large,27,577,,True,,poisson|lean,long,164.8,72.5,22.6,306.9,28.6,False
+Tower B,2026-10-17,large,28,577,,True,,poisson|lean,long,57.7,42.9,0.0,141.9,10.0,False
+Tower B,2026-10-18,large,29,577,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Tower B,2026-10-19,large,30,577,,True,,poisson|lean,long,161.8,71.9,20.9,302.6,28.0,False
+Tower B,2026-10-20,large,31,577,,True,,poisson|lean,long,169.2,73.5,25.2,313.2,29.3,False
+Tower B,2026-10-21,large,32,577,,True,,poisson|lean,long,173.7,74.5,27.8,319.7,30.1,False
+Tower B,2026-10-22,large,33,577,,True,,poisson|lean,long,171.7,74.0,26.6,316.8,29.8,False
+Tower B,2026-10-23,large,34,577,,True,,poisson|lean,long,164.8,72.5,22.6,306.9,28.6,False
+Tower B,2026-10-24,large,35,577,,True,,poisson|lean,long,57.7,42.9,0.0,141.9,10.0,False
+Tower B,2026-10-25,large,36,577,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Tower B,2026-10-26,large,37,577,,True,,poisson|lean,long,161.8,71.9,20.9,302.6,28.0,False
+Tower B,2026-10-27,large,38,577,,True,,poisson|lean,long,169.2,73.5,25.2,313.2,29.3,False
+Tower B,2026-10-28,large,39,577,,True,,poisson|lean,long,173.7,74.5,27.8,319.7,30.1,False
+Tower B,2026-10-29,large,40,577,,True,,poisson|lean,long,171.7,74.0,26.6,316.8,29.8,False
+Tower B,2026-10-30,large,41,577,,True,,poisson|lean,long,164.8,72.5,22.6,306.9,28.6,False
+Tower B,2026-10-31,large,42,577,,True,,poisson|lean,long,57.7,42.9,0.0,141.9,10.0,False
+Tower B,2026-11-01,large,43,577,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Tower B,2026-11-02,large,44,577,,True,,poisson|lean,long,161.8,71.9,20.9,302.6,28.0,False
+Tower B,2026-11-03,large,45,577,,True,,poisson|lean,long,169.2,73.5,25.2,313.2,29.3,False
+Tower B,2026-11-04,large,46,577,,True,,poisson|lean,long,173.7,74.5,27.8,319.7,30.1,False
+Tower B,2026-11-05,large,47,577,,True,,poisson|lean,long,171.7,74.0,26.6,316.8,29.8,False
+Tower B,2026-11-06,large,48,577,,True,,poisson|lean,long,164.8,72.5,22.6,306.9,28.6,False
+Tower B,2026-11-07,large,49,577,,True,,poisson|lean,long,57.7,42.9,0.0,141.9,10.0,False
+Tower B,2026-11-08,large,50,577,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Tower B,2026-11-09,large,51,577,,True,,poisson|lean,long,161.8,71.9,20.9,302.6,28.0,False
+Tower B,2026-11-10,large,52,577,,True,,poisson|lean,long,169.2,73.5,25.2,313.2,29.3,False
+Tower B,2026-11-11,large,53,577,,True,,poisson|lean,long,173.7,74.5,27.8,319.7,30.1,False
+Tower B,2026-11-12,large,54,577,,True,,poisson|lean,long,171.7,74.0,26.6,316.8,29.8,False
+Tower B,2026-11-13,large,55,577,,True,,poisson|lean,long,164.8,72.5,22.6,306.9,28.6,False
+Tower B,2026-11-14,large,56,577,,True,,poisson|lean,long,57.7,42.9,0.0,141.9,10.0,False
+Tower B,2026-11-15,large,57,577,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Tower B,2026-11-16,large,58,577,,True,,poisson|lean,long,161.8,71.9,20.9,302.6,28.0,False
+Tower B,2026-11-17,large,59,577,,True,,poisson|lean,long,169.2,73.5,25.2,313.2,29.3,False
+Tower B,2026-11-18,large,60,577,,True,,poisson|lean,long,173.7,74.5,27.8,319.7,30.1,False
+Tower B,2026-11-19,large,61,577,,True,,poisson|lean,long,171.7,74.0,26.6,316.8,29.8,False
+Tower B,2026-11-20,large,62,577,,True,,poisson|lean,long,164.8,72.5,22.6,306.9,28.6,False
+Tower B,2026-11-21,large,63,577,,True,,poisson|lean,long,57.7,42.9,0.0,141.9,10.0,False
+Tower B,2026-11-22,large,64,577,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Tower B,2026-11-23,large,65,577,,True,,poisson|lean,long,161.8,71.9,20.9,302.6,28.0,False
+Tower B,2026-11-24,large,66,577,,True,,poisson|lean,long,169.2,73.5,25.2,313.2,29.3,False
+Tower B,2026-11-25,large,67,577,,True,,poisson|lean,long,173.7,74.5,27.8,319.7,30.1,False
+Tower B,2026-11-26,large,68,577,,True,,poisson|lean,long,171.7,74.0,26.6,316.8,29.8,False
+Tower B,2026-11-27,large,69,577,,True,,poisson|lean,long,164.8,72.5,22.6,306.9,28.6,False
+Tower B,2026-11-28,large,70,577,,True,,poisson|lean,long,57.7,42.9,0.0,141.9,10.0,False
+Tower B,2026-11-29,large,71,577,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Tower B,2026-11-30,large,72,577,,True,,poisson|lean,long,161.8,71.9,20.9,302.6,28.0,False
+Tower B,2026-12-01,large,73,577,,True,,poisson|lean,long,169.2,73.5,25.2,313.2,29.3,False
+Tower B,2026-12-02,large,74,577,,True,,poisson|lean,long,173.7,74.5,27.8,319.7,30.1,False
+Tower B,2026-12-03,large,75,577,,True,,poisson|lean,long,171.7,74.0,26.6,316.8,29.8,False
+Tower B,2026-12-04,large,76,577,,True,,poisson|lean,long,164.8,72.5,22.6,306.9,28.6,False
+Tower B,2026-12-05,large,77,577,,True,,poisson|lean,long,57.7,42.9,0.0,141.9,10.0,False
+Tower B,2026-12-06,large,78,577,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Tower B,2026-12-07,large,79,577,,True,,poisson|lean,long,161.8,71.9,20.9,302.6,28.0,False
+Tower B,2026-12-08,large,80,577,,True,,poisson|lean,long,169.2,73.5,25.2,313.2,29.3,False
+Tower B,2026-12-09,large,81,577,,True,,poisson|lean,long,173.7,74.5,27.8,319.7,30.1,False
+Tower B,2026-12-10,large,82,577,,True,,poisson|lean,long,171.7,74.0,26.6,316.8,29.8,False
+Tower B,2026-12-11,large,83,577,,True,,poisson|lean,long,164.8,72.5,22.6,306.9,28.6,False
+Tower B,2026-12-12,large,84,577,,True,,poisson|lean,long,57.7,42.9,0.0,141.9,10.0,False
+Tower B,2026-12-13,large,85,577,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Tower B,2026-12-14,large,86,577,,True,,poisson|lean,long,161.8,71.9,20.9,302.6,28.0,False
+Tower B,2026-12-15,large,87,577,,True,,poisson|lean,long,169.2,73.5,25.2,313.2,29.3,False
+Tower B,2026-12-16,large,88,577,,True,,poisson|lean,long,173.7,74.5,27.8,319.7,30.1,False
+Tower B,2026-12-17,large,89,577,,True,,poisson|lean,long,171.7,74.0,26.6,316.8,29.8,False
+Tower B,2026-12-18,large,90,577,,True,,poisson|lean,long,11.5,19.1,0.0,49.0,2.0,False
+Tower B,2026-12-19,large,91,577,,True,,poisson|lean,long,4.0,11.3,0.0,26.2,0.7,False
+Tower B,2026-12-20,large,92,577,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Tower B,2026-12-21,large,93,577,,True,,poisson|lean,long,11.3,19.0,0.0,48.4,2.0,False
+Tower B,2026-12-22,large,94,577,,True,,poisson|lean,long,11.8,19.4,0.0,49.8,2.0,False
+Tower B,2026-12-23,large,95,577,,True,,poisson|lean,long,12.1,19.7,0.0,50.6,2.1,False
+Tower B,2026-12-24,large,96,577,,True,,poisson|lean,long,12.0,19.5,0.0,50.3,2.1,False
+Tower B,2026-12-25,large,97,577,,True,,poisson|lean,long,11.5,19.1,0.0,49.0,2.0,False
+Tower B,2026-12-26,large,98,577,,True,,poisson|lean,long,4.0,11.3,0.0,26.2,0.7,False
+Tower B,2026-12-27,large,99,577,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Tower B,2026-12-28,large,100,577,,True,,poisson|lean,long,11.3,19.0,0.0,48.4,2.0,False
+Tower B,2026-12-29,large,101,577,,True,,poisson|lean,long,11.8,19.4,0.0,49.8,2.0,False
+Tower B,2026-12-30,large,102,577,,True,,poisson|lean,long,12.1,19.7,0.0,50.6,2.1,False
+Tower B,2026-12-31,large,103,577,,True,,poisson|lean,long,12.0,19.5,0.0,50.3,2.1,False
+Tower B,2027-01-01,large,104,577,,True,,poisson|lean,long,11.5,19.1,0.0,49.0,2.0,False
+Tower B,2027-01-02,large,105,577,,True,,poisson|lean,long,4.0,11.3,0.0,26.2,0.7,False
+Tower B,2027-01-03,large,106,577,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Tower B,2027-01-04,large,107,577,,True,,poisson|lean,long,161.8,71.9,20.9,302.6,28.0,False
+Tower B,2027-01-05,large,108,577,,True,,poisson|lean,long,169.2,73.5,25.2,313.2,29.3,False
+Tower B,2027-01-06,large,109,577,,True,,poisson|lean,long,173.7,74.5,27.8,319.7,30.1,False
+Tower B,2027-01-07,large,110,577,,True,,poisson|lean,long,171.7,74.0,26.6,316.8,29.8,False
+Tower B,2027-01-08,large,111,577,,True,,poisson|lean,long,164.8,72.5,22.6,306.9,28.6,False
+Tower B,2027-01-09,large,112,577,,True,,poisson|lean,long,57.7,42.9,0.0,141.9,10.0,False
+Tower B,2027-01-10,large,113,577,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False
+Tower B,2027-01-11,large,114,577,,True,,poisson|lean,long,161.8,71.9,20.9,302.6,28.0,False
+Tower B,2027-01-12,large,115,577,,True,,poisson|lean,long,169.2,73.5,25.2,313.2,29.3,False
+Tower B,2027-01-13,large,116,577,,True,,poisson|lean,long,173.7,74.5,27.8,319.7,30.1,False
+Tower B,2027-01-14,large,117,577,,True,,poisson|lean,long,171.7,74.0,26.6,316.8,29.8,False
+Tower B,2027-01-15,large,118,577,,True,,poisson|lean,long,164.8,72.5,22.6,306.9,28.6,False
+Tower B,2027-01-16,large,119,577,,True,,poisson|lean,long,57.7,42.9,0.0,141.9,10.0,False
+Tower B,2027-01-17,large,120,577,,False,sunday_closed,closure_rule,rule,0.0,0.0,0.0,0.0,0.0,False

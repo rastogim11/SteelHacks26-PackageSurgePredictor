@@ -1,0 +1,8 @@
+mailroom,tier,packages,lockers,open_year_round,modeled_open_days,dropped_closed_days,short_model,short_mae,short_rmse,short_r2,long_model,long_mae,baseline_mae,mae_improvement_pct,dispersion_phi,peak_actual
+Tower B,large,66381,577,True,613,104,hgb_poisson|lean,26.3,46.21,0.686,poisson|lean,31.57,101.93,74.2,31.9,741
+Sutherland,large,13957,122,False,403,313,bayes_ridge|full,12.52,17.38,0.26,bayes_ridge|full,12.47,20.18,37.9,24.8,210
+Bouquet Gardens,small,6668,107,False,403,313,bayes_ridge|full,6.78,10.65,0.038,poisson_l2|full,7.25,11.13,39.1,14.1,133
+Lothrop,small,5996,96,False,403,313,tweedie|full,7.74,10.12,0.196,bayes_ridge|full,7.34,9.96,22.3,11.1,100
+Nordenberg,small,3484,56,False,401,313,poisson|full,3.33,9.42,-0.064,poisson|full,3.32,7.72,56.8,7.7,75
+Residences on Bigelow,small,1682,27,True,434,74,tweedie|lean,2.58,4.04,0.285,hierarchical,2.61,4.24,39.1,7.0,47
+Ruskin,small,920,15,False,205,157,tweedie|lean,3.33,4.29,0.166,hgb_poisson|lean,2.93,3.83,13.2,6.4,37
