@@ -1,0 +1,1 @@
+#Its only job is marking panther/ as a package so python -m panther.run and the relative imports (from . import config) resolve.
