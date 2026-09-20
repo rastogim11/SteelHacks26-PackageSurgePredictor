@@ -8,49 +8,45 @@ Built for SteelHacks 2026 on two years of real WTS package data
 
 ---
 
-## Unresolved: PII and a leaked key are in the published history
+## What is in the data, and what was cleaned up
 
-Checked 2026-09-20, and both are still outstanding.
+**Corrected 2026-09-20.** Earlier revisions of this file described the WTS
+export's unnamed second column as holding **recipient names**. That is wrong,
+and `panther/config.py` still calls it `PII_COLUMNS` for that reason. Checked
+column by column, the export has six fields and none of them identifies a
+person:
 
-The WTS export has an unnamed column holding **recipient names**. `.gitignore`
-excludes the data files, but it was added *after* they were committed, and
-`.gitignore` has no effect on a file git already tracks. These four are in the
-published history:
+| Column | Contents |
+|---|---|
+| `Tracking No.` | carrier tracking number |
+| `Unnamed: 1` | package descriptor - a code, then a label |
+| `Received` / `Delivered` / `Time` | timestamps |
+| `Mailroom` | site, or the scanning user (see `data.py`) |
 
-```
-packagestats.csv   packagestats.xlsx
-files/packagestats_cleaned.xlsx   searchresults(1).csv
-```
+`Unnamed: 1` splits on a colon into ~10,200 distinct codes and only **665
+distinct labels**. A recipient field would carry roughly as many distinct
+values as there are people; 665 is a small vocabulary of carrier and sender
+labels. Dropping it on load is still right - it is useless to the model - but
+it is not a privacy measure and should not be described as one.
 
-Separately, the old `elevenLabs.py` carried a **live ElevenLabs API key** as a
-string literal. The file has been deleted and replaced by `briefing.py`, which
-reads `ELEVENLABS_API_KEY` from the environment, but deleting a file does not
-remove it from earlier commits.
+Two things were nevertheless worth fixing, and both are done:
 
-`origin/main` is at the same commit as local `main`, so all of it has already
-been pushed, and the repository is public. Treat the old key as compromised:
-public repositories are scraped continuously, so the exposure window is not
-something a later cleanup closes.
+1. **A live ElevenLabs API key** sat in `elevenLabs.py` as a string literal, in
+   a public repository. That was a real credential leak. The key has been
+   revoked, the file is gone, and `briefing.py` now reads
+   `ELEVENLABS_API_KEY` from the environment or `.env`.
+2. **~46 MB of data files were committed**, which is bad practice regardless of
+   content. `scripts/clean_git_history.sh` purges them from history; the raw
+   data now lives locally and gitignored.
 
-In order:
-
-1. **Revoke the old ElevenLabs key** in their dashboard and issue a new one.
-   This is the only step that actually fixes the key; everything else is
-   tidying.
-2. **Make the repository private** while the rest is sorted, if the names
-   matter more than the demo link.
-3. **Rewrite the history**: `bash scripts/clean_git_history.sh`. It backs up
-   first, purges all five paths, and stops short of pushing.
-
-Verify with:
+Verify the history is clean with:
 
 ```
-git ls-files | grep -Ei 'packagestats|searchresults|elevenLabs'
 git rev-list --objects --all | grep -Ei 'packagestats|searchresults|elevenLabs'
 ```
 
-The pipeline itself never writes names anywhere: `panther/data.py` drops that
-column on load, and nothing under `outputs/` or `powerbi/` contains one.
+Nothing under `outputs/` or `powerbi/` contains anything beyond per-site daily
+aggregates.
 
 ---
 
@@ -65,12 +61,32 @@ generated from a fixed template rather than written by a model.
 
 ## Quick start
 
-```
-python -m pip install -r requirements.txt
+macOS and most Linux boxes have no bare `python`, only `python3`, so set up a
+virtual environment first. This is also what keeps the dependencies off your
+system Python.
 
+```
+python3 -m venv .venv
+source .venv/bin/activate            # Windows: .venv\Scripts\activate
+python -m pip install -r requirements.txt
+```
+
+With the environment active (your prompt shows `(.venv)`):
+
+```
 python -m panther.run train      # fit one model per mailroom on year one   (~40s)
 python -m panther.run test       # score year two, accuracy per mailroom    (~40s)
 python -m panther.run predict    # forecast the current week                (~10s)
+python -m make_powerbi           # reshape outputs/ into powerbi/           (~2s)
+python -m briefing               # print the spoken weekly briefing
+```
+
+Without activating, prefix each command with `.venv/bin/python` instead.
+
+The whole story in one line:
+
+```
+python -m panther.run predict && python -m briefing
 ```
 
 Run from the repository root, the folder containing `packagestats.csv`.
