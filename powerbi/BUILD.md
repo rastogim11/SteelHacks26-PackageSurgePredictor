@@ -1,26 +1,37 @@
 # Power BI dashboard — build steps
 
-Regenerate the data any time with:
-
-```
-.venv/bin/python -m panther.run predict && .venv/bin/python -m make_powerbi
-```
-
 Every column named below was checked against the generated files. Nothing here
 is guessed.
 
 ---
 
-## 0. Before you start: Power BI Desktop is Windows-only
+## 0. Windows quick start — you do NOT need Python
 
-There is no macOS build. Three ways round it, in order of least pain:
+The six CSVs in this folder are **committed to the repo**. You do not need the
+pipeline, a virtual environment, or the raw data file to build the report.
+Clone and open:
 
-1. **Power BI Service** — app.powerbi.com in a browser, sign in with your Pitt
-   account. Upload the CSVs, build the report in the browser. Most of what is
-   below works; a few formatting panes differ.
-2. **A teammate on Windows** — hand them `powerbi/`, it is self-contained.
-3. **A Windows VM** — heaviest option, only worth it if you need the full
-   Desktop formatting pane.
+```
+git clone https://github.com/rastogim11/SteelHacks26-PackageSurgePredictor.git
+```
+
+Then open **Power BI Desktop** and go to step 1. That is the whole setup.
+
+Install Power BI Desktop from the Microsoft Store (search "Power BI Desktop")
+or powerbi.microsoft.com/desktop. The Store version auto-updates and needs no
+admin rights, which is usually the faster route on a locked-down laptop.
+
+You will *not* be able to run `python -m make_powerbi` without the raw
+`packagestats.csv`, which is gitignored and stays on Manan's machine. You do
+not need to. Only regenerate if the underlying forecast changes, and in that
+case have Manan re-run it and push:
+
+```
+python -m panther.run predict && python -m make_powerbi
+```
+
+On macOS Power BI Desktop does not exist at all — use app.powerbi.com in a
+browser instead. Most of the steps below apply; a few formatting panes differ.
 
 ---
 
@@ -170,6 +181,25 @@ Eight-slot categorical palette, colorblind-checked: worst adjacent pair
 CVD deltaE 9.1, normal-vision 19.6, both clear of the floor. Three of the eight
 sit below 3:1 contrast on white, so keep data labels visible on any visual that
 uses slots 3, 4 or 5 alone.
+
+## 6b. Checkpoint — confirm the load worked
+
+Before building visuals, check these against what Power BI shows. If any is
+off, the import went wrong rather than the model.
+
+| Check | Expected |
+|---|---|
+| `fact_plan` row count | 84 |
+| `scenario` distinct values | `current`, `disposal_30d` |
+| `Weekly Hours` (scenario = current) | 56 |
+| `Peak Held`, Tower B, current | 2,223 |
+| `Peak Held`, Tower B, disposal_30d | 227 |
+| `dim_site` row count | 6 |
+| `vs_naive_pct` | positive for all 6 sites |
+
+The CSVs are pure ASCII with no special characters, so no encoding option is
+needed on import. If dates arrive as Text, set them in Power Query before
+loading — do not fix it downstream.
 
 ## 7. Honesty notes for the demo
 
