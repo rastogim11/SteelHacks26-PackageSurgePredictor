@@ -1,0 +1,7 @@
+site,model,test_days,mean_actual,mean_predicted,mae,accuracy_pct,naive_mae,vs_naive_pct,bias,q80_coverage,days_scored,occ_actual_mean,occ_pred_mean,occ_mae,occ_mae_pct,occ_bias,occ_peak_actual,occ_peak_pred,pickups_mae,pickups_actual_mean,train_days,cv_pinball_q80,events_used,tier,open_all_year,headcount_fte,lockers,beats_naive
+Bouquet Gardens,tweedie|full,207,10.0,5.7,7.16,28.3,11.31,36.7,-4.23,0.812,610,50.6,81.2,36.8,72.7,30.6,201,216,5.06,7.8,192,4.013,True,small,False,1.0,112,True
+Lothrop,bayes_ridge|lean_noev,207,13.0,10.7,8.65,33.3,13.38,35.3,-2.26,0.797,610,43.5,62.5,28.2,64.7,19.0,129,199,4.38,7.3,192,3.58,False,small,False,1.0,101,True
+Nordenberg,bayes_ridge|full,205,2.4,3.2,3.12,0.0,3.54,11.7,0.81,0.932,608,13.8,13.5,4.8,35.0,-0.3,90,89,2.27,3.6,192,2.918,True,small,False,1.0,59,True
+Residences on Bigelow,bayes_ridge|lean_noev,305,4.7,4.6,4.22,9.8,5.75,26.6,-0.05,0.8,402,40.2,42.8,14.5,35.9,2.6,111,85,3.42,3.7,119,2.69,False,small,True,0.5,28,True
+Sutherland,hgb_poisson|lean_noev,207,25.6,20.7,17.4,32.0,26.36,34.0,-4.9,0.734,610,60.6,78.6,27.4,45.2,18.0,213,222,4.97,12.2,192,7.164,False,large,False,1.5,89,True
+Tower B,poisson_l2|full_noev,306,111.0,106.8,51.75,53.4,87.98,41.2,-4.25,0.778,611,1266.5,1342.7,180.7,14.3,76.3,3596,3033,36.24,84.8,291,19.859,False,large,True,4.0,611,True

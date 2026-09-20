@@ -1,0 +1,241 @@
+site,mode,model,cv_pinball,cv_mae,selected,estimator,feature_set
+Tower B,short,tweedie|full_noev,19.164,57.83,False,tweedie,full_noev
+Tower B,short,poisson|full_noev,19.812,59.51,False,poisson,full_noev
+Tower B,short,poisson_l2|full_noev,19.859,59.03,True,poisson_l2,full_noev
+Tower B,short,tweedie|full,21.223,57.11,False,tweedie,full
+Tower B,short,poisson|lean_noev,21.464,64.72,False,poisson,lean_noev
+Tower B,short,poisson_l2|lean_noev,21.505,63.81,False,poisson_l2,lean_noev
+Tower B,short,tweedie|lean_noev,21.578,61.75,False,tweedie,lean_noev
+Tower B,short,bayes_ridge|full_noev,21.709,59.77,False,bayes_ridge,full_noev
+Tower B,short,poisson|lean,22.245,63.81,False,poisson,lean
+Tower B,short,bayes_ridge|lean_noev,22.399,62.13,False,bayes_ridge,lean_noev
+Tower B,short,poisson_l2|lean,22.472,63.36,False,poisson_l2,lean
+Tower B,short,tweedie|lean,22.647,61.49,False,tweedie,lean
+Tower B,short,poisson_l2|full,22.807,58.27,False,poisson_l2,full
+Tower B,short,poisson|full,23.165,58.45,False,poisson,full
+Tower B,short,bayes_ridge|lean,23.325,62.45,False,bayes_ridge,lean
+Tower B,short,bayes_ridge|full,23.422,60.85,False,bayes_ridge,full
+Tower B,short,hgb_poisson|lean,27.327,69.78,False,hgb_poisson,lean
+Tower B,short,hgb_poisson|lean_noev,27.327,69.78,False,hgb_poisson,lean_noev
+Tower B,short,hgb_poisson|full,32.704,72.26,False,hgb_poisson,full
+Tower B,short,hgb_poisson|full_noev,32.704,72.26,False,hgb_poisson,full_noev
+Tower B,long,poisson|lean,28.925,85.07,False,poisson,lean
+Tower B,long,poisson_l2|lean,29.034,85.39,False,poisson_l2,lean
+Tower B,long,tweedie|lean,29.231,85.23,False,tweedie,lean
+Tower B,long,poisson|lean_noev,29.375,91.64,False,poisson,lean_noev
+Tower B,long,poisson_l2|lean_noev,29.435,91.96,False,poisson_l2,lean_noev
+Tower B,long,bayes_ridge|lean,29.538,88.82,False,bayes_ridge,lean
+Tower B,long,tweedie|lean_noev,29.541,91.54,False,tweedie,lean_noev
+Tower B,long,bayes_ridge|lean_noev,29.682,94.21,True,bayes_ridge,lean_noev
+Tower B,long,hgb_poisson|lean,30.346,92.45,False,hgb_poisson,lean
+Tower B,long,hgb_poisson|lean_noev,30.346,92.45,False,hgb_poisson,lean_noev
+Tower B,long,poisson|full,30.631,79.29,False,poisson,full
+Tower B,long,poisson|full_noev,30.947,82.94,False,poisson,full_noev
+Tower B,long,poisson_l2|full,30.954,80.23,False,poisson_l2,full
+Tower B,long,poisson_l2|full_noev,31.241,83.86,False,poisson_l2,full_noev
+Tower B,long,tweedie|full,31.713,81.37,False,tweedie,full
+Tower B,long,tweedie|full_noev,32.026,85.25,False,tweedie,full_noev
+Tower B,long,bayes_ridge|full,32.689,86.13,False,bayes_ridge,full
+Tower B,long,bayes_ridge|full_noev,33.126,89.63,False,bayes_ridge,full_noev
+Tower B,long,hgb_poisson|full,40.978,94.46,False,hgb_poisson,full
+Tower B,long,hgb_poisson|full_noev,40.978,94.46,False,hgb_poisson,full_noev
+Sutherland,short,hgb_poisson|full,6.838,18.02,False,hgb_poisson,full
+Sutherland,short,hgb_poisson|full_noev,6.838,18.02,False,hgb_poisson,full_noev
+Sutherland,short,hgb_poisson|lean,7.164,15.66,False,hgb_poisson,lean
+Sutherland,short,hgb_poisson|lean_noev,7.164,15.66,True,hgb_poisson,lean_noev
+Sutherland,short,bayes_ridge|full,7.333,20.37,False,bayes_ridge,full
+Sutherland,short,bayes_ridge|full_noev,7.467,22.23,False,bayes_ridge,full_noev
+Sutherland,short,bayes_ridge|lean,7.74,21.63,False,bayes_ridge,lean
+Sutherland,short,bayes_ridge|lean_noev,7.831,23.29,False,bayes_ridge,lean_noev
+Sutherland,short,tweedie|full,8.24,23.0,False,tweedie,full
+Sutherland,short,tweedie|full_noev,8.578,27.46,False,tweedie,full_noev
+Sutherland,short,poisson_l2|full,8.811,23.56,False,poisson_l2,full
+Sutherland,short,tweedie|lean,8.911,27.32,False,tweedie,lean
+Sutherland,short,poisson_l2|full_noev,8.953,27.9,False,poisson_l2,full_noev
+Sutherland,short,tweedie|lean_noev,9.46,31.43,False,tweedie,lean_noev
+Sutherland,short,poisson_l2|lean,9.582,30.51,False,poisson_l2,lean
+Sutherland,short,poisson_l2|lean_noev,10.269,35.31,False,poisson_l2,lean_noev
+Sutherland,short,poisson|full,10.398,27.69,False,poisson,full
+Sutherland,short,poisson|lean,10.42,34.47,False,poisson,lean
+Sutherland,short,poisson|full_noev,10.656,33.48,False,poisson,full_noev
+Sutherland,short,poisson|lean_noev,11.656,41.71,False,poisson,lean_noev
+Sutherland,long,poisson_l2|lean_noev,8.883,20.09,False,poisson_l2,lean_noev
+Sutherland,long,tweedie|lean_noev,8.896,20.12,False,tweedie,lean_noev
+Sutherland,long,poisson|lean_noev,8.915,19.85,False,poisson,lean_noev
+Sutherland,long,poisson_l2|lean,9.005,18.47,False,poisson_l2,lean
+Sutherland,long,bayes_ridge|lean,9.013,18.83,True,bayes_ridge,lean
+Sutherland,long,tweedie|lean,9.035,18.61,False,tweedie,lean
+Sutherland,long,poisson|lean,9.056,18.28,False,poisson,lean
+Sutherland,long,hgb_poisson|lean,9.357,21.51,False,hgb_poisson,lean
+Sutherland,long,hgb_poisson|lean_noev,9.357,21.51,False,hgb_poisson,lean_noev
+Sutherland,long,bayes_ridge|lean_noev,9.379,21.77,False,bayes_ridge,lean_noev
+Sutherland,long,bayes_ridge|full_noev,9.467,19.21,False,bayes_ridge,full_noev
+Sutherland,long,tweedie|full_noev,9.501,18.15,False,tweedie,full_noev
+Sutherland,long,bayes_ridge|full,9.531,17.01,False,bayes_ridge,full
+Sutherland,long,poisson_l2|full_noev,9.533,17.91,False,poisson_l2,full_noev
+Sutherland,long,poisson|full_noev,9.587,17.73,False,poisson,full_noev
+Sutherland,long,tweedie|full,9.651,16.41,False,tweedie,full
+Sutherland,long,poisson_l2|full,9.811,16.21,False,poisson_l2,full
+Sutherland,long,poisson|full,9.925,16.03,False,poisson,full
+Sutherland,long,hgb_poisson|full,10.061,20.27,False,hgb_poisson,full
+Sutherland,long,hgb_poisson|full_noev,10.061,20.27,False,hgb_poisson,full_noev
+Bouquet Gardens,short,hgb_poisson|full,3.889,14.98,False,hgb_poisson,full
+Bouquet Gardens,short,hgb_poisson|full_noev,3.889,14.98,False,hgb_poisson,full_noev
+Bouquet Gardens,short,tweedie|full,4.013,16.13,True,tweedie,full
+Bouquet Gardens,short,bayes_ridge|full_noev,4.098,16.62,False,bayes_ridge,full_noev
+Bouquet Gardens,short,bayes_ridge|full,4.12,17.27,False,bayes_ridge,full
+Bouquet Gardens,short,tweedie|full_noev,4.122,17.01,False,tweedie,full_noev
+Bouquet Gardens,short,poisson_l2|full,4.136,16.61,False,poisson_l2,full
+Bouquet Gardens,short,hgb_poisson|lean,4.14,17.93,False,hgb_poisson,lean
+Bouquet Gardens,short,hgb_poisson|lean_noev,4.14,17.93,False,hgb_poisson,lean_noev
+Bouquet Gardens,short,poisson_l2|full_noev,4.249,17.74,False,poisson_l2,full_noev
+Bouquet Gardens,short,poisson|full,4.298,17.09,False,poisson,full
+Bouquet Gardens,short,poisson|full_noev,4.424,18.26,False,poisson,full_noev
+Bouquet Gardens,short,tweedie|lean_noev,4.629,20.34,False,tweedie,lean_noev
+Bouquet Gardens,short,tweedie|lean,4.711,20.76,False,tweedie,lean
+Bouquet Gardens,short,bayes_ridge|lean_noev,4.72,20.9,False,bayes_ridge,lean_noev
+Bouquet Gardens,short,poisson_l2|lean_noev,4.769,21.04,False,poisson_l2,lean_noev
+Bouquet Gardens,short,bayes_ridge|lean,4.833,21.57,False,bayes_ridge,lean
+Bouquet Gardens,short,poisson_l2|lean,4.869,21.58,False,poisson_l2,lean
+Bouquet Gardens,short,poisson|lean_noev,4.969,21.91,False,poisson,lean_noev
+Bouquet Gardens,short,poisson|lean,5.044,22.32,False,poisson,lean
+Bouquet Gardens,long,hgb_poisson|full,4.043,17.01,False,hgb_poisson,full
+Bouquet Gardens,long,hgb_poisson|full_noev,4.043,17.01,True,hgb_poisson,full_noev
+Bouquet Gardens,long,poisson_l2|full,4.661,21.83,False,poisson_l2,full
+Bouquet Gardens,long,tweedie|full,4.739,22.09,False,tweedie,full
+Bouquet Gardens,long,poisson|full,5.019,23.45,False,poisson,full
+Bouquet Gardens,long,bayes_ridge|full,5.085,23.63,False,bayes_ridge,full
+Bouquet Gardens,long,poisson_l2|full_noev,5.107,24.33,False,poisson_l2,full_noev
+Bouquet Gardens,long,tweedie|full_noev,5.128,24.2,False,tweedie,full_noev
+Bouquet Gardens,long,bayes_ridge|full_noev,5.331,24.93,False,bayes_ridge,full_noev
+Bouquet Gardens,long,poisson|full_noev,5.517,26.23,False,poisson,full_noev
+Bouquet Gardens,long,tweedie|lean,5.987,29.13,False,tweedie,lean
+Bouquet Gardens,long,bayes_ridge|lean,6.037,29.07,False,bayes_ridge,lean
+Bouquet Gardens,long,poisson_l2|lean,6.069,29.79,False,poisson_l2,lean
+Bouquet Gardens,long,bayes_ridge|lean_noev,6.381,31.11,False,bayes_ridge,lean_noev
+Bouquet Gardens,long,poisson|lean,6.392,31.56,False,poisson,lean
+Bouquet Gardens,long,hgb_poisson|lean,6.509,31.51,False,hgb_poisson,lean
+Bouquet Gardens,long,hgb_poisson|lean_noev,6.509,31.51,False,hgb_poisson,lean_noev
+Bouquet Gardens,long,tweedie|lean_noev,6.744,33.2,False,tweedie,lean_noev
+Bouquet Gardens,long,poisson_l2|lean_noev,6.827,33.89,False,poisson_l2,lean_noev
+Bouquet Gardens,long,poisson|lean_noev,7.237,35.95,False,poisson,lean_noev
+Lothrop,short,bayes_ridge|full,3.458,12.79,False,bayes_ridge,full
+Lothrop,short,tweedie|lean,3.493,12.93,False,tweedie,lean
+Lothrop,short,poisson_l2|full,3.502,12.44,False,poisson_l2,full
+Lothrop,short,bayes_ridge|lean,3.509,13.11,False,bayes_ridge,lean
+Lothrop,short,tweedie|full,3.513,12.63,False,tweedie,full
+Lothrop,short,poisson_l2|full_noev,3.533,13.0,False,poisson_l2,full_noev
+Lothrop,short,bayes_ridge|full_noev,3.536,13.01,False,bayes_ridge,full_noev
+Lothrop,short,tweedie|full_noev,3.538,13.06,False,tweedie,full_noev
+Lothrop,short,poisson_l2|lean,3.549,13.18,False,poisson_l2,lean
+Lothrop,short,tweedie|lean_noev,3.553,13.17,False,tweedie,lean_noev
+Lothrop,short,poisson_l2|lean_noev,3.564,13.36,False,poisson_l2,lean_noev
+Lothrop,short,bayes_ridge|lean_noev,3.58,13.3,True,bayes_ridge,lean_noev
+Lothrop,short,poisson|full,3.607,12.3,False,poisson,full
+Lothrop,short,poisson|full_noev,3.647,13.17,False,poisson,full_noev
+Lothrop,short,poisson|lean,3.662,13.64,False,poisson,lean
+Lothrop,short,poisson|lean_noev,3.731,13.96,False,poisson,lean_noev
+Lothrop,short,hgb_poisson|full,3.962,13.04,False,hgb_poisson,full
+Lothrop,short,hgb_poisson|full_noev,3.962,13.04,False,hgb_poisson,full_noev
+Lothrop,short,hgb_poisson|lean,3.978,13.92,False,hgb_poisson,lean
+Lothrop,short,hgb_poisson|lean_noev,3.978,13.92,False,hgb_poisson,lean_noev
+Lothrop,long,tweedie|full,3.421,13.07,False,tweedie,full
+Lothrop,long,bayes_ridge|full,3.437,13.43,False,bayes_ridge,full
+Lothrop,long,poisson_l2|full,3.44,12.84,False,poisson_l2,full
+Lothrop,long,bayes_ridge|full_noev,3.451,13.65,False,bayes_ridge,full_noev
+Lothrop,long,bayes_ridge|lean,3.464,14.44,True,bayes_ridge,lean
+Lothrop,long,poisson|full,3.469,12.95,False,poisson,full
+Lothrop,long,tweedie|lean,3.475,14.57,False,tweedie,lean
+Lothrop,long,poisson_l2|lean,3.477,14.59,False,poisson_l2,lean
+Lothrop,long,tweedie|full_noev,3.496,13.68,False,tweedie,full_noev
+Lothrop,long,poisson|lean,3.512,14.84,False,poisson,lean
+Lothrop,long,poisson_l2|full_noev,3.512,13.44,False,poisson_l2,full_noev
+Lothrop,long,poisson|full_noev,3.541,13.59,False,poisson,full_noev
+Lothrop,long,bayes_ridge|lean_noev,3.6,15.6,False,bayes_ridge,lean_noev
+Lothrop,long,poisson_l2|lean_noev,3.616,15.84,False,poisson_l2,lean_noev
+Lothrop,long,tweedie|lean_noev,3.635,15.89,False,tweedie,lean_noev
+Lothrop,long,poisson|lean_noev,3.688,16.28,False,poisson,lean_noev
+Lothrop,long,hgb_poisson|full,3.805,12.59,False,hgb_poisson,full
+Lothrop,long,hgb_poisson|full_noev,3.805,12.59,False,hgb_poisson,full_noev
+Lothrop,long,hgb_poisson|lean,3.915,16.45,False,hgb_poisson,lean
+Lothrop,long,hgb_poisson|lean_noev,3.915,16.45,False,hgb_poisson,lean_noev
+Nordenberg,short,hgb_poisson|lean,2.78,11.3,False,hgb_poisson,lean
+Nordenberg,short,hgb_poisson|lean_noev,2.78,11.3,False,hgb_poisson,lean_noev
+Nordenberg,short,tweedie|lean,2.891,13.02,False,tweedie,lean
+Nordenberg,short,tweedie|full,2.898,13.26,False,tweedie,full
+Nordenberg,short,tweedie|full_noev,2.9,13.1,False,tweedie,full_noev
+Nordenberg,short,tweedie|lean_noev,2.916,13.04,False,tweedie,lean_noev
+Nordenberg,short,bayes_ridge|full,2.918,13.22,True,bayes_ridge,full
+Nordenberg,short,poisson_l2|lean_noev,2.922,13.21,False,poisson_l2,lean_noev
+Nordenberg,short,bayes_ridge|full_noev,2.927,13.17,False,bayes_ridge,full_noev
+Nordenberg,short,poisson_l2|full_noev,2.933,13.47,False,poisson_l2,full_noev
+Nordenberg,short,poisson_l2|lean,2.936,13.31,False,poisson_l2,lean
+Nordenberg,short,poisson_l2|full,2.964,13.72,False,poisson_l2,full
+Nordenberg,short,bayes_ridge|lean,2.998,13.56,False,bayes_ridge,lean
+Nordenberg,short,hgb_poisson|full,3.013,12.63,False,hgb_poisson,full
+Nordenberg,short,hgb_poisson|full_noev,3.013,12.63,False,hgb_poisson,full_noev
+Nordenberg,short,poisson|full_noev,3.02,13.87,False,poisson,full_noev
+Nordenberg,short,poisson|lean_noev,3.033,13.67,False,poisson,lean_noev
+Nordenberg,short,bayes_ridge|lean_noev,3.033,13.73,False,bayes_ridge,lean_noev
+Nordenberg,short,poisson|lean,3.047,13.77,False,poisson,lean
+Nordenberg,short,poisson|full,3.058,14.02,False,poisson,full
+Nordenberg,long,hgb_poisson|full,3.131,13.13,False,hgb_poisson,full
+Nordenberg,long,hgb_poisson|full_noev,3.131,13.13,True,hgb_poisson,full_noev
+Nordenberg,long,poisson_l2|full,3.389,16.11,False,poisson_l2,full
+Nordenberg,long,tweedie|full,3.395,16.13,False,tweedie,full
+Nordenberg,long,bayes_ridge|full,3.472,16.44,False,bayes_ridge,full
+Nordenberg,long,poisson|full,3.477,16.59,False,poisson,full
+Nordenberg,long,tweedie|full_noev,3.629,17.47,False,tweedie,full_noev
+Nordenberg,long,poisson_l2|full_noev,3.675,17.65,False,poisson_l2,full_noev
+Nordenberg,long,bayes_ridge|full_noev,3.688,17.72,False,bayes_ridge,full_noev
+Nordenberg,long,bayes_ridge|lean,3.771,18.05,False,bayes_ridge,lean
+Nordenberg,long,tweedie|lean,3.779,18.13,False,tweedie,lean
+Nordenberg,long,poisson|full_noev,3.832,18.4,False,poisson,full_noev
+Nordenberg,long,poisson_l2|lean,3.835,18.45,False,poisson_l2,lean
+Nordenberg,long,bayes_ridge|lean_noev,3.965,19.23,False,bayes_ridge,lean_noev
+Nordenberg,long,hgb_poisson|lean,4.067,19.45,False,hgb_poisson,lean
+Nordenberg,long,hgb_poisson|lean_noev,4.067,19.45,False,hgb_poisson,lean_noev
+Nordenberg,long,poisson|lean,4.077,19.63,False,poisson,lean
+Nordenberg,long,tweedie|lean_noev,4.173,20.27,False,tweedie,lean_noev
+Nordenberg,long,poisson_l2|lean_noev,4.261,20.75,False,poisson_l2,lean_noev
+Nordenberg,long,poisson|lean_noev,4.507,21.93,False,poisson,lean_noev
+Residences on Bigelow,short,bayes_ridge|lean,2.69,6.55,False,bayes_ridge,lean
+Residences on Bigelow,short,bayes_ridge|lean_noev,2.69,6.55,True,bayes_ridge,lean_noev
+Residences on Bigelow,short,bayes_ridge|full,2.74,6.05,False,bayes_ridge,full
+Residences on Bigelow,short,bayes_ridge|full_noev,2.74,6.05,False,bayes_ridge,full_noev
+Residences on Bigelow,short,poisson_l2|lean,2.89,8.6,False,poisson_l2,lean
+Residences on Bigelow,short,poisson_l2|lean_noev,2.89,8.6,False,poisson_l2,lean_noev
+Residences on Bigelow,short,poisson_l2|full,2.93,8.65,False,poisson_l2,full
+Residences on Bigelow,short,poisson_l2|full_noev,2.93,8.65,False,poisson_l2,full_noev
+Residences on Bigelow,short,tweedie|lean,3.05,11.65,False,tweedie,lean
+Residences on Bigelow,short,tweedie|lean_noev,3.05,11.65,False,tweedie,lean_noev
+Residences on Bigelow,short,hgb_poisson|lean,3.2,5.5,False,hgb_poisson,lean
+Residences on Bigelow,short,hgb_poisson|lean_noev,3.2,5.5,False,hgb_poisson,lean_noev
+Residences on Bigelow,short,hgb_poisson|full,3.27,5.85,False,hgb_poisson,full
+Residences on Bigelow,short,hgb_poisson|full_noev,3.27,5.85,False,hgb_poisson,full_noev
+Residences on Bigelow,short,tweedie|full,3.47,12.1,False,tweedie,full
+Residences on Bigelow,short,tweedie|full_noev,3.47,12.1,False,tweedie,full_noev
+Residences on Bigelow,short,poisson|full,4.48,9.5,False,poisson,full
+Residences on Bigelow,short,poisson|full_noev,4.48,9.5,False,poisson,full_noev
+Residences on Bigelow,short,poisson|lean,20.1,94.05,False,poisson,lean
+Residences on Bigelow,short,poisson|lean_noev,20.1,94.05,False,poisson,lean_noev
+Residences on Bigelow,long,bayes_ridge|full,3.75,6.15,False,bayes_ridge,full
+Residences on Bigelow,long,bayes_ridge|full_noev,3.75,6.15,True,bayes_ridge,full_noev
+Residences on Bigelow,long,tweedie|full,3.82,5.6,False,tweedie,full
+Residences on Bigelow,long,tweedie|full_noev,3.82,5.6,False,tweedie,full_noev
+Residences on Bigelow,long,poisson_l2|full,4.06,6.05,False,poisson_l2,full
+Residences on Bigelow,long,poisson_l2|full_noev,4.06,6.05,False,poisson_l2,full_noev
+Residences on Bigelow,long,bayes_ridge|lean,4.26,6.75,False,bayes_ridge,lean
+Residences on Bigelow,long,bayes_ridge|lean_noev,4.26,6.75,False,bayes_ridge,lean_noev
+Residences on Bigelow,long,hgb_poisson|full,4.27,5.9,False,hgb_poisson,full
+Residences on Bigelow,long,hgb_poisson|full_noev,4.27,5.9,False,hgb_poisson,full_noev
+Residences on Bigelow,long,poisson_l2|lean,4.61,6.7,False,poisson_l2,lean
+Residences on Bigelow,long,poisson_l2|lean_noev,4.61,6.7,False,poisson_l2,lean_noev
+Residences on Bigelow,long,poisson|lean,4.67,6.4,False,poisson,lean
+Residences on Bigelow,long,poisson|lean_noev,4.67,6.4,False,poisson,lean_noev
+Residences on Bigelow,long,tweedie|lean,4.67,6.4,False,tweedie,lean
+Residences on Bigelow,long,tweedie|lean_noev,4.67,6.4,False,tweedie,lean_noev
+Residences on Bigelow,long,poisson|full,4.85,16.3,False,poisson,full
+Residences on Bigelow,long,poisson|full_noev,4.85,16.3,False,poisson,full_noev
+Residences on Bigelow,long,hgb_poisson|lean,5.81,7.3,False,hgb_poisson,lean
+Residences on Bigelow,long,hgb_poisson|lean_noev,5.81,7.3,False,hgb_poisson,lean_noev

@@ -1,0 +1,1438 @@
+site,model,date,actual,predicted,predicted_q80,seasonal_naive,day_name,error,abs_error,covered_by_q80,day_index,month_name,month_index,q80_miss
+Tower B,poisson_l2|full_noev,2025-09-19,202,305.0,383.0,396.0,Friday,103.0,103.0,True,5,Sep,9,0
+Tower B,poisson_l2|full_noev,2025-09-20,78,47.0,81.0,341.0,Saturday,-31.0,31.0,True,6,Sep,9,0
+Tower B,poisson_l2|full_noev,2025-09-22,236,236.0,305.0,74.0,Monday,0.0,0.0,True,1,Sep,9,0
+Tower B,poisson_l2|full_noev,2025-09-23,491,252.0,324.0,204.0,Tuesday,-239.0,239.0,False,2,Sep,9,1
+Tower B,poisson_l2|full_noev,2025-09-24,179,287.0,362.0,383.0,Wednesday,108.0,108.0,True,3,Sep,9,0
+Tower B,poisson_l2|full_noev,2025-09-25,223,235.0,304.0,231.0,Thursday,12.0,12.0,True,4,Sep,9,0
+Tower B,poisson_l2|full_noev,2025-09-26,134,261.0,333.0,388.0,Friday,127.0,127.0,True,5,Sep,9,0
+Tower B,poisson_l2|full_noev,2025-09-27,28,37.0,67.0,202.0,Saturday,9.0,9.0,True,6,Sep,9,0
+Tower B,poisson_l2|full_noev,2025-09-29,187,208.0,273.0,78.0,Monday,21.0,21.0,True,1,Sep,9,0
+Tower B,poisson_l2|full_noev,2025-09-30,387,210.0,276.0,236.0,Tuesday,-177.0,177.0,False,2,Sep,9,1
+Tower B,poisson_l2|full_noev,2025-10-01,151,213.0,279.0,491.0,Wednesday,62.0,62.0,True,3,Oct,10,0
+Tower B,poisson_l2|full_noev,2025-10-02,145,154.0,211.0,179.0,Thursday,9.0,9.0,True,4,Oct,10,0
+Tower B,poisson_l2|full_noev,2025-10-03,138,170.0,229.0,223.0,Friday,32.0,32.0,True,5,Oct,10,0
+Tower B,poisson_l2|full_noev,2025-10-04,33,25.0,51.0,134.0,Saturday,-8.0,8.0,True,6,Oct,10,0
+Tower B,poisson_l2|full_noev,2025-10-06,239,168.0,227.0,28.0,Monday,-71.0,71.0,False,1,Oct,10,1
+Tower B,poisson_l2|full_noev,2025-10-07,442,182.0,244.0,187.0,Tuesday,-260.0,260.0,False,2,Oct,10,1
+Tower B,poisson_l2|full_noev,2025-10-08,138,203.0,268.0,387.0,Wednesday,65.0,65.0,True,3,Oct,10,0
+Tower B,poisson_l2|full_noev,2025-10-09,174,162.0,220.0,151.0,Thursday,-12.0,12.0,True,4,Oct,10,0
+Tower B,poisson_l2|full_noev,2025-10-10,257,191.0,253.0,145.0,Friday,-66.0,66.0,False,5,Oct,10,1
+Tower B,poisson_l2|full_noev,2025-10-11,67,35.0,64.0,138.0,Saturday,-32.0,32.0,False,6,Oct,10,1
+Tower B,poisson_l2|full_noev,2025-10-13,178,223.0,290.0,33.0,Monday,45.0,45.0,True,1,Oct,10,0
+Tower B,poisson_l2|full_noev,2025-10-14,74,227.0,295.0,239.0,Tuesday,153.0,153.0,True,2,Oct,10,0
+Tower B,poisson_l2|full_noev,2025-10-15,427,175.0,235.0,442.0,Wednesday,-252.0,252.0,False,3,Oct,10,1
+Tower B,poisson_l2|full_noev,2025-10-16,386,167.0,226.0,138.0,Thursday,-219.0,219.0,False,4,Oct,10,1
+Tower B,poisson_l2|full_noev,2025-10-17,357,235.0,304.0,174.0,Friday,-122.0,122.0,False,5,Oct,10,1
+Tower B,poisson_l2|full_noev,2025-10-18,75,46.0,79.0,257.0,Saturday,-29.0,29.0,True,6,Oct,10,0
+Tower B,poisson_l2|full_noev,2025-10-20,91,257.0,329.0,67.0,Monday,166.0,166.0,True,1,Oct,10,0
+Tower B,poisson_l2|full_noev,2025-10-21,376,235.0,304.0,178.0,Tuesday,-141.0,141.0,False,2,Oct,10,1
+Tower B,poisson_l2|full_noev,2025-10-22,409,249.0,319.0,74.0,Wednesday,-160.0,160.0,False,3,Oct,10,1
+Tower B,poisson_l2|full_noev,2025-10-23,317,338.0,420.0,427.0,Thursday,21.0,21.0,True,4,Oct,10,0
+Tower B,poisson_l2|full_noev,2025-10-24,461,341.0,422.0,386.0,Friday,-120.0,120.0,False,5,Oct,10,1
+Tower B,poisson_l2|full_noev,2025-10-25,164,59.0,96.0,357.0,Saturday,-105.0,105.0,False,6,Oct,10,1
+Tower B,poisson_l2|full_noev,2025-10-27,264,323.0,403.0,75.0,Monday,59.0,59.0,True,1,Oct,10,0
+Tower B,poisson_l2|full_noev,2025-10-28,403,346.0,428.0,91.0,Tuesday,-57.0,57.0,True,2,Oct,10,0
+Tower B,poisson_l2|full_noev,2025-10-29,409,408.0,497.0,376.0,Wednesday,-1.0,1.0,True,3,Oct,10,0
+Tower B,poisson_l2|full_noev,2025-10-30,410,411.0,500.0,409.0,Thursday,1.0,1.0,True,4,Oct,10,0
+Tower B,poisson_l2|full_noev,2025-10-31,502,433.0,524.0,317.0,Friday,-69.0,69.0,True,5,Oct,10,0
+Tower B,poisson_l2|full_noev,2025-11-01,141,87.0,131.0,461.0,Saturday,-54.0,54.0,False,6,Nov,11,1
+Tower B,poisson_l2|full_noev,2025-11-03,204,432.0,524.0,164.0,Monday,228.0,228.0,True,1,Nov,11,0
+Tower B,poisson_l2|full_noev,2025-11-04,287,409.0,498.0,264.0,Tuesday,122.0,122.0,True,2,Nov,11,0
+Tower B,poisson_l2|full_noev,2025-11-05,138,372.0,457.0,403.0,Wednesday,234.0,234.0,True,3,Nov,11,0
+Tower B,poisson_l2|full_noev,2025-11-06,102,287.0,363.0,409.0,Thursday,185.0,185.0,True,4,Nov,11,0
+Tower B,poisson_l2|full_noev,2025-11-07,81,244.0,314.0,410.0,Friday,163.0,163.0,True,5,Nov,11,0
+Tower B,poisson_l2|full_noev,2025-11-08,18,27.0,54.0,502.0,Saturday,9.0,9.0,True,6,Nov,11,0
+Tower B,poisson_l2|full_noev,2025-11-10,77,133.0,186.0,141.0,Monday,56.0,56.0,True,1,Nov,11,0
+Tower B,poisson_l2|full_noev,2025-11-11,180,117.0,167.0,204.0,Tuesday,-63.0,63.0,False,2,Nov,11,1
+Tower B,poisson_l2|full_noev,2025-11-12,124,103.0,151.0,287.0,Wednesday,-21.0,21.0,True,3,Nov,11,0
+Tower B,poisson_l2|full_noev,2025-11-13,92,90.0,134.0,138.0,Thursday,-2.0,2.0,True,4,Nov,11,0
+Tower B,poisson_l2|full_noev,2025-11-14,140,99.0,146.0,102.0,Friday,-41.0,41.0,True,5,Nov,11,0
+Tower B,poisson_l2|full_noev,2025-11-15,29,13.0,33.0,81.0,Saturday,-16.0,16.0,True,6,Nov,11,0
+Tower B,poisson_l2|full_noev,2025-11-17,95,120.0,170.0,18.0,Monday,25.0,25.0,True,1,Nov,11,0
+Tower B,poisson_l2|full_noev,2025-11-18,178,121.0,172.0,77.0,Tuesday,-57.0,57.0,False,2,Nov,11,1
+Tower B,poisson_l2|full_noev,2025-11-19,81,121.0,172.0,180.0,Wednesday,40.0,40.0,True,3,Nov,11,0
+Tower B,poisson_l2|full_noev,2025-11-20,35,51.0,86.0,124.0,Thursday,16.0,16.0,True,4,Nov,11,0
+Tower B,poisson_l2|full_noev,2025-11-21,49,56.0,93.0,92.0,Friday,7.0,7.0,True,5,Nov,11,0
+Tower B,poisson_l2|full_noev,2025-11-22,9,5.0,18.0,140.0,Saturday,-4.0,4.0,True,6,Nov,11,0
+Tower B,poisson_l2|full_noev,2025-11-24,38,62.0,101.0,29.0,Monday,24.0,24.0,True,1,Nov,11,0
+Tower B,poisson_l2|full_noev,2025-11-25,33,58.0,96.0,95.0,Tuesday,25.0,25.0,True,2,Nov,11,0
+Tower B,poisson_l2|full_noev,2025-11-26,33,52.0,87.0,178.0,Wednesday,19.0,19.0,True,3,Nov,11,0
+Tower B,poisson_l2|full_noev,2025-11-29,0,5.0,18.0,81.0,Saturday,5.0,5.0,True,6,Nov,11,0
+Tower B,poisson_l2|full_noev,2025-12-01,201,67.0,106.0,35.0,Monday,-134.0,134.0,False,1,Dec,12,1
+Tower B,poisson_l2|full_noev,2025-12-02,103,73.0,113.0,49.0,Tuesday,-30.0,30.0,True,2,Dec,12,0
+Tower B,poisson_l2|full_noev,2025-12-03,48,73.0,114.0,9.0,Wednesday,25.0,25.0,True,3,Dec,12,0
+Tower B,poisson_l2|full_noev,2025-12-04,50,81.0,124.0,38.0,Thursday,31.0,31.0,True,4,Dec,12,0
+Tower B,poisson_l2|full_noev,2025-12-05,71,101.0,149.0,33.0,Friday,30.0,30.0,True,5,Dec,12,0
+Tower B,poisson_l2|full_noev,2025-12-06,15,12.0,31.0,33.0,Saturday,-3.0,3.0,True,6,Dec,12,0
+Tower B,poisson_l2|full_noev,2025-12-08,116,118.0,169.0,0.0,Monday,2.0,2.0,True,1,Dec,12,0
+Tower B,poisson_l2|full_noev,2025-12-09,107,117.0,167.0,201.0,Tuesday,10.0,10.0,True,2,Dec,12,0
+Tower B,poisson_l2|full_noev,2025-12-10,113,96.0,142.0,103.0,Wednesday,-17.0,17.0,True,3,Dec,12,0
+Tower B,poisson_l2|full_noev,2025-12-11,84,96.0,142.0,48.0,Thursday,12.0,12.0,True,4,Dec,12,0
+Tower B,poisson_l2|full_noev,2025-12-12,85,109.0,158.0,50.0,Friday,24.0,24.0,True,5,Dec,12,0
+Tower B,poisson_l2|full_noev,2025-12-13,4,12.0,32.0,71.0,Saturday,8.0,8.0,True,6,Dec,12,0
+Tower B,poisson_l2|full_noev,2025-12-15,13,118.0,168.0,15.0,Monday,105.0,105.0,True,1,Dec,12,0
+Tower B,poisson_l2|full_noev,2025-12-16,10,104.0,152.0,116.0,Tuesday,94.0,94.0,True,2,Dec,12,0
+Tower B,poisson_l2|full_noev,2025-12-17,23,85.0,129.0,107.0,Wednesday,62.0,62.0,True,3,Dec,12,0
+Tower B,poisson_l2|full_noev,2025-12-18,14,13.0,33.0,113.0,Thursday,-1.0,1.0,True,4,Dec,12,0
+Tower B,poisson_l2|full_noev,2025-12-19,4,14.0,35.0,84.0,Friday,10.0,10.0,True,5,Dec,12,0
+Tower B,poisson_l2|full_noev,2025-12-20,0,0.0,0.0,85.0,Saturday,0.0,0.0,True,6,Dec,12,0
+Tower B,poisson_l2|full_noev,2025-12-22,8,15.0,36.0,4.0,Monday,7.0,7.0,True,1,Dec,12,0
+Tower B,poisson_l2|full_noev,2025-12-23,4,13.0,33.0,13.0,Tuesday,9.0,9.0,True,2,Dec,12,0
+Tower B,poisson_l2|full_noev,2025-12-26,3,15.0,36.0,10.0,Friday,12.0,12.0,True,5,Dec,12,0
+Tower B,poisson_l2|full_noev,2025-12-27,0,0.0,0.0,23.0,Saturday,0.0,0.0,True,6,Dec,12,0
+Tower B,poisson_l2|full_noev,2025-12-29,7,19.0,43.0,14.0,Monday,12.0,12.0,True,1,Dec,12,0
+Tower B,poisson_l2|full_noev,2025-12-30,5,17.0,40.0,4.0,Tuesday,12.0,12.0,True,2,Dec,12,0
+Tower B,poisson_l2|full_noev,2026-01-02,4,75.0,117.0,0.0,Friday,71.0,71.0,True,5,Jan,1,0
+Tower B,poisson_l2|full_noev,2026-01-03,0,6.0,20.0,8.0,Saturday,6.0,6.0,True,6,Jan,1,0
+Tower B,poisson_l2|full_noev,2026-01-05,11,80.0,123.0,4.0,Monday,69.0,69.0,True,1,Jan,1,0
+Tower B,poisson_l2|full_noev,2026-01-06,156,72.0,112.0,3.0,Tuesday,-84.0,84.0,False,2,Jan,1,1
+Tower B,poisson_l2|full_noev,2026-01-07,97,75.0,116.0,0.0,Wednesday,-22.0,22.0,True,3,Jan,1,0
+Tower B,poisson_l2|full_noev,2026-01-08,38,82.0,125.0,7.0,Thursday,44.0,44.0,True,4,Jan,1,0
+Tower B,poisson_l2|full_noev,2026-01-09,183,93.0,138.0,5.0,Friday,-90.0,90.0,False,5,Jan,1,1
+Tower B,poisson_l2|full_noev,2026-01-10,1,10.0,28.0,4.0,Saturday,9.0,9.0,True,6,Jan,1,0
+Tower B,poisson_l2|full_noev,2026-01-12,364,121.0,172.0,0.0,Monday,-243.0,243.0,False,1,Jan,1,1
+Tower B,poisson_l2|full_noev,2026-01-13,201,147.0,203.0,11.0,Tuesday,-54.0,54.0,True,2,Jan,1,0
+Tower B,poisson_l2|full_noev,2026-01-14,164,158.0,215.0,156.0,Wednesday,-6.0,6.0,True,3,Jan,1,0
+Tower B,poisson_l2|full_noev,2026-01-15,358,156.0,214.0,97.0,Thursday,-202.0,202.0,False,4,Jan,1,1
+Tower B,poisson_l2|full_noev,2026-01-16,356,212.0,278.0,38.0,Friday,-144.0,144.0,False,5,Jan,1,1
+Tower B,poisson_l2|full_noev,2026-01-17,131,33.0,63.0,183.0,Saturday,-98.0,98.0,False,6,Jan,1,1
+Tower B,poisson_l2|full_noev,2026-01-19,17,14.0,34.0,1.0,Monday,-3.0,3.0,True,1,Jan,1,0
+Tower B,poisson_l2|full_noev,2026-01-20,141,259.0,331.0,364.0,Tuesday,118.0,118.0,True,2,Jan,1,0
+Tower B,poisson_l2|full_noev,2026-01-21,281,187.0,249.0,201.0,Wednesday,-94.0,94.0,False,3,Jan,1,1
+Tower B,poisson_l2|full_noev,2026-01-22,350,196.0,259.0,164.0,Thursday,-154.0,154.0,False,4,Jan,1,1
+Tower B,poisson_l2|full_noev,2026-01-23,348,252.0,323.0,358.0,Friday,-96.0,96.0,False,5,Jan,1,1
+Tower B,poisson_l2|full_noev,2026-01-24,73,28.0,55.0,356.0,Saturday,-45.0,45.0,False,6,Jan,1,1
+Tower B,poisson_l2|full_noev,2026-01-26,1,203.0,267.0,131.0,Monday,202.0,202.0,True,1,Jan,1,0
+Tower B,poisson_l2|full_noev,2026-01-27,83,163.0,221.0,17.0,Tuesday,80.0,80.0,True,2,Jan,1,0
+Tower B,poisson_l2|full_noev,2026-01-28,204,157.0,214.0,141.0,Wednesday,-47.0,47.0,True,3,Jan,1,0
+Tower B,poisson_l2|full_noev,2026-01-29,203,172.0,232.0,281.0,Thursday,-31.0,31.0,True,4,Jan,1,0
+Tower B,poisson_l2|full_noev,2026-01-30,197,175.0,236.0,350.0,Friday,-22.0,22.0,True,5,Jan,1,0
+Tower B,poisson_l2|full_noev,2026-01-31,137,15.0,36.0,348.0,Saturday,-122.0,122.0,False,6,Jan,1,1
+Tower B,poisson_l2|full_noev,2026-02-02,239,140.0,195.0,73.0,Monday,-99.0,99.0,False,1,Feb,2,1
+Tower B,poisson_l2|full_noev,2026-02-03,325,150.0,206.0,1.0,Tuesday,-175.0,175.0,False,2,Feb,2,1
+Tower B,poisson_l2|full_noev,2026-02-04,265,184.0,245.0,83.0,Wednesday,-81.0,81.0,False,3,Feb,2,1
+Tower B,poisson_l2|full_noev,2026-02-05,335,213.0,279.0,204.0,Thursday,-122.0,122.0,False,4,Feb,2,1
+Tower B,poisson_l2|full_noev,2026-02-06,117,260.0,332.0,203.0,Friday,143.0,143.0,True,5,Feb,2,0
+Tower B,poisson_l2|full_noev,2026-02-07,143,27.0,54.0,197.0,Saturday,-116.0,116.0,False,6,Feb,2,1
+Tower B,poisson_l2|full_noev,2026-02-09,143,266.0,339.0,137.0,Monday,123.0,123.0,True,1,Feb,2,0
+Tower B,poisson_l2|full_noev,2026-02-10,366,245.0,316.0,239.0,Tuesday,-121.0,121.0,False,2,Feb,2,1
+Tower B,poisson_l2|full_noev,2026-02-11,467,244.0,314.0,325.0,Wednesday,-223.0,223.0,False,3,Feb,2,1
+Tower B,poisson_l2|full_noev,2026-02-12,266,265.0,337.0,265.0,Thursday,-1.0,1.0,True,4,Feb,2,0
+Tower B,poisson_l2|full_noev,2026-02-13,222,284.0,360.0,335.0,Friday,62.0,62.0,True,5,Feb,2,0
+Tower B,poisson_l2|full_noev,2026-02-14,175,27.0,54.0,117.0,Saturday,-148.0,148.0,False,6,Feb,2,1
+Tower B,poisson_l2|full_noev,2026-02-16,289,14.0,35.0,143.0,Monday,-275.0,275.0,False,1,Feb,2,1
+Tower B,poisson_l2|full_noev,2026-02-17,183,304.0,382.0,143.0,Tuesday,121.0,121.0,True,2,Feb,2,0
+Tower B,poisson_l2|full_noev,2026-02-18,355,287.0,362.0,366.0,Wednesday,-68.0,68.0,True,3,Feb,2,0
+Tower B,poisson_l2|full_noev,2026-02-19,232,281.0,355.0,467.0,Thursday,49.0,49.0,True,4,Feb,2,0
+Tower B,poisson_l2|full_noev,2026-02-20,151,249.0,320.0,266.0,Friday,98.0,98.0,True,5,Feb,2,0
+Tower B,poisson_l2|full_noev,2026-02-21,22,23.0,48.0,222.0,Saturday,1.0,1.0,True,6,Feb,2,0
+Tower B,poisson_l2|full_noev,2026-02-23,177,216.0,282.0,175.0,Monday,39.0,39.0,True,1,Feb,2,0
+Tower B,poisson_l2|full_noev,2026-02-24,271,191.0,254.0,289.0,Tuesday,-80.0,80.0,False,2,Feb,2,1
+Tower B,poisson_l2|full_noev,2026-02-25,121,168.0,227.0,183.0,Wednesday,47.0,47.0,True,3,Feb,2,0
+Tower B,poisson_l2|full_noev,2026-02-26,160,159.0,217.0,355.0,Thursday,-1.0,1.0,True,4,Feb,2,0
+Tower B,poisson_l2|full_noev,2026-02-27,94,149.0,205.0,232.0,Friday,55.0,55.0,True,5,Feb,2,0
+Tower B,poisson_l2|full_noev,2026-02-28,10,11.0,30.0,151.0,Saturday,1.0,1.0,True,6,Feb,2,0
+Tower B,poisson_l2|full_noev,2026-03-02,201,138.0,191.0,22.0,Monday,-63.0,63.0,False,1,Mar,3,1
+Tower B,poisson_l2|full_noev,2026-03-03,131,146.0,202.0,177.0,Tuesday,15.0,15.0,True,2,Mar,3,0
+Tower B,poisson_l2|full_noev,2026-03-04,92,128.0,181.0,271.0,Wednesday,36.0,36.0,True,3,Mar,3,0
+Tower B,poisson_l2|full_noev,2026-03-05,71,93.0,138.0,121.0,Thursday,22.0,22.0,True,4,Mar,3,0
+Tower B,poisson_l2|full_noev,2026-03-06,28,99.0,146.0,160.0,Friday,71.0,71.0,True,5,Mar,3,0
+Tower B,poisson_l2|full_noev,2026-03-07,19,6.0,20.0,94.0,Saturday,-13.0,13.0,True,6,Mar,3,0
+Tower B,poisson_l2|full_noev,2026-03-09,65,97.0,143.0,10.0,Monday,32.0,32.0,True,1,Mar,3,0
+Tower B,poisson_l2|full_noev,2026-03-10,21,92.0,137.0,201.0,Tuesday,71.0,71.0,True,2,Mar,3,0
+Tower B,poisson_l2|full_noev,2026-03-11,75,69.0,109.0,131.0,Wednesday,-6.0,6.0,True,3,Mar,3,0
+Tower B,poisson_l2|full_noev,2026-03-12,26,66.0,105.0,92.0,Thursday,40.0,40.0,True,4,Mar,3,0
+Tower B,poisson_l2|full_noev,2026-03-13,46,71.0,111.0,71.0,Friday,25.0,25.0,True,5,Mar,3,0
+Tower B,poisson_l2|full_noev,2026-03-14,1,3.0,16.0,28.0,Saturday,2.0,2.0,True,6,Mar,3,0
+Tower B,poisson_l2|full_noev,2026-03-16,334,93.0,138.0,19.0,Monday,-241.0,241.0,False,1,Mar,3,1
+Tower B,poisson_l2|full_noev,2026-03-17,123,109.0,158.0,65.0,Tuesday,-14.0,14.0,True,2,Mar,3,0
+Tower B,poisson_l2|full_noev,2026-03-18,405,104.0,151.0,21.0,Wednesday,-301.0,301.0,False,3,Mar,3,1
+Tower B,poisson_l2|full_noev,2026-03-19,180,149.0,205.0,75.0,Thursday,-31.0,31.0,True,4,Mar,3,0
+Tower B,poisson_l2|full_noev,2026-03-20,200,181.0,242.0,26.0,Friday,-19.0,19.0,True,5,Mar,3,0
+Tower B,poisson_l2|full_noev,2026-03-21,18,19.0,42.0,46.0,Saturday,1.0,1.0,True,6,Mar,3,0
+Tower B,poisson_l2|full_noev,2026-03-23,96,230.0,298.0,1.0,Monday,134.0,134.0,True,1,Mar,3,0
+Tower B,poisson_l2|full_noev,2026-03-24,189,222.0,289.0,334.0,Tuesday,33.0,33.0,True,2,Mar,3,0
+Tower B,poisson_l2|full_noev,2026-03-25,180,171.0,231.0,123.0,Wednesday,-9.0,9.0,True,3,Mar,3,0
+Tower B,poisson_l2|full_noev,2026-03-26,319,179.0,240.0,405.0,Thursday,-140.0,140.0,False,4,Mar,3,1
+Tower B,poisson_l2|full_noev,2026-03-27,289,174.0,234.0,180.0,Friday,-115.0,115.0,False,5,Mar,3,1
+Tower B,poisson_l2|full_noev,2026-03-28,12,16.0,37.0,200.0,Saturday,4.0,4.0,True,6,Mar,3,0
+Tower B,poisson_l2|full_noev,2026-03-30,741,174.0,234.0,18.0,Monday,-567.0,567.0,False,1,Mar,3,1
+Tower B,poisson_l2|full_noev,2026-03-31,83,287.0,362.0,96.0,Tuesday,204.0,204.0,True,2,Mar,3,0
+Tower B,poisson_l2|full_noev,2026-04-01,311,256.0,327.0,189.0,Wednesday,-55.0,55.0,True,3,Apr,4,0
+Tower B,poisson_l2|full_noev,2026-04-02,102,291.0,366.0,180.0,Thursday,189.0,189.0,True,4,Apr,4,0
+Tower B,poisson_l2|full_noev,2026-04-03,137,297.0,374.0,319.0,Friday,160.0,160.0,True,5,Apr,4,0
+Tower B,poisson_l2|full_noev,2026-04-04,15,23.0,48.0,289.0,Saturday,8.0,8.0,True,6,Apr,4,0
+Tower B,poisson_l2|full_noev,2026-04-06,113,225.0,293.0,12.0,Monday,112.0,112.0,True,1,Apr,4,0
+Tower B,poisson_l2|full_noev,2026-04-07,251,224.0,291.0,741.0,Tuesday,-27.0,27.0,True,2,Apr,4,0
+Tower B,poisson_l2|full_noev,2026-04-08,138,122.0,173.0,83.0,Wednesday,-16.0,16.0,True,3,Apr,4,0
+Tower B,poisson_l2|full_noev,2026-04-09,93,129.0,181.0,311.0,Thursday,36.0,36.0,True,4,Apr,4,0
+Tower B,poisson_l2|full_noev,2026-04-10,44,116.0,166.0,102.0,Friday,72.0,72.0,True,5,Apr,4,0
+Tower B,poisson_l2|full_noev,2026-04-11,18,7.0,22.0,137.0,Saturday,-11.0,11.0,True,6,Apr,4,0
+Tower B,poisson_l2|full_noev,2026-04-13,125,115.0,165.0,15.0,Monday,-10.0,10.0,True,1,Apr,4,0
+Tower B,poisson_l2|full_noev,2026-04-14,105,117.0,167.0,113.0,Tuesday,12.0,12.0,True,2,Apr,4,0
+Tower B,poisson_l2|full_noev,2026-04-15,49,104.0,152.0,251.0,Wednesday,55.0,55.0,True,3,Apr,4,0
+Tower B,poisson_l2|full_noev,2026-04-16,50,94.0,140.0,138.0,Thursday,44.0,44.0,True,4,Apr,4,0
+Tower B,poisson_l2|full_noev,2026-04-17,69,96.0,142.0,93.0,Friday,27.0,27.0,True,5,Apr,4,0
+Tower B,poisson_l2|full_noev,2026-04-18,91,5.0,19.0,44.0,Saturday,-86.0,86.0,False,6,Apr,4,1
+Tower B,poisson_l2|full_noev,2026-04-20,50,113.0,163.0,18.0,Monday,63.0,63.0,True,1,Apr,4,0
+Tower B,poisson_l2|full_noev,2026-04-21,103,105.0,153.0,125.0,Tuesday,2.0,2.0,True,2,Apr,4,0
+Tower B,poisson_l2|full_noev,2026-04-22,84,50.0,85.0,105.0,Wednesday,-34.0,34.0,True,3,Apr,4,0
+Tower B,poisson_l2|full_noev,2026-04-23,50,50.0,84.0,49.0,Thursday,0.0,0.0,True,4,Apr,4,0
+Tower B,poisson_l2|full_noev,2026-04-24,49,57.0,94.0,50.0,Friday,8.0,8.0,True,5,Apr,4,0
+Tower B,poisson_l2|full_noev,2026-04-25,31,2.0,11.0,69.0,Saturday,-29.0,29.0,False,6,Apr,4,1
+Tower B,poisson_l2|full_noev,2026-04-27,23,63.0,101.0,91.0,Monday,40.0,40.0,True,1,Apr,4,0
+Tower B,poisson_l2|full_noev,2026-04-28,97,51.0,86.0,50.0,Tuesday,-46.0,46.0,False,2,Apr,4,1
+Tower B,poisson_l2|full_noev,2026-04-29,42,48.0,82.0,103.0,Wednesday,6.0,6.0,True,3,Apr,4,0
+Tower B,poisson_l2|full_noev,2026-04-30,16,46.0,79.0,84.0,Thursday,30.0,30.0,True,4,Apr,4,0
+Tower B,poisson_l2|full_noev,2026-05-01,8,48.0,82.0,50.0,Friday,40.0,40.0,True,5,May,5,0
+Tower B,poisson_l2|full_noev,2026-05-02,0,1.0,8.0,49.0,Saturday,1.0,1.0,True,6,May,5,0
+Tower B,poisson_l2|full_noev,2026-05-04,0,32.0,61.0,31.0,Monday,32.0,32.0,True,1,May,5,0
+Tower B,poisson_l2|full_noev,2026-05-05,2,27.0,54.0,23.0,Tuesday,25.0,25.0,True,2,May,5,0
+Tower B,poisson_l2|full_noev,2026-05-06,3,24.0,49.0,97.0,Wednesday,21.0,21.0,True,3,May,5,0
+Tower B,poisson_l2|full_noev,2026-05-07,45,22.0,46.0,42.0,Thursday,-23.0,23.0,True,4,May,5,0
+Tower B,poisson_l2|full_noev,2026-05-08,8,25.0,50.0,16.0,Friday,17.0,17.0,True,5,May,5,0
+Tower B,poisson_l2|full_noev,2026-05-09,2,0.0,0.0,8.0,Saturday,-2.0,2.0,False,6,May,5,1
+Tower B,poisson_l2|full_noev,2026-05-11,28,28.0,55.0,0.0,Monday,0.0,0.0,True,1,May,5,0
+Tower B,poisson_l2|full_noev,2026-05-12,15,25.0,51.0,0.0,Tuesday,10.0,10.0,True,2,May,5,0
+Tower B,poisson_l2|full_noev,2026-05-13,12,23.0,48.0,2.0,Wednesday,11.0,11.0,True,3,May,5,0
+Tower B,poisson_l2|full_noev,2026-05-14,17,23.0,49.0,3.0,Thursday,6.0,6.0,True,4,May,5,0
+Tower B,poisson_l2|full_noev,2026-05-15,4,27.0,54.0,45.0,Friday,23.0,23.0,True,5,May,5,0
+Tower B,poisson_l2|full_noev,2026-05-16,15,0.0,0.0,8.0,Saturday,-15.0,15.0,False,6,May,5,1
+Tower B,poisson_l2|full_noev,2026-05-18,14,30.0,58.0,2.0,Monday,16.0,16.0,True,1,May,5,0
+Tower B,poisson_l2|full_noev,2026-05-19,13,26.0,53.0,28.0,Tuesday,13.0,13.0,True,2,May,5,0
+Tower B,poisson_l2|full_noev,2026-05-20,26,23.0,48.0,15.0,Wednesday,-3.0,3.0,True,3,May,5,0
+Tower B,poisson_l2|full_noev,2026-05-21,12,23.0,49.0,12.0,Thursday,11.0,11.0,True,4,May,5,0
+Tower B,poisson_l2|full_noev,2026-05-22,5,26.0,53.0,17.0,Friday,21.0,21.0,True,5,May,5,0
+Tower B,poisson_l2|full_noev,2026-05-23,5,0.0,0.0,4.0,Saturday,-5.0,5.0,False,6,May,5,1
+Tower B,poisson_l2|full_noev,2026-05-25,5,0.0,2.0,15.0,Monday,-5.0,5.0,False,1,May,5,1
+Tower B,poisson_l2|full_noev,2026-05-26,8,25.0,52.0,14.0,Tuesday,17.0,17.0,True,2,May,5,0
+Tower B,poisson_l2|full_noev,2026-05-27,20,23.0,47.0,13.0,Wednesday,3.0,3.0,True,3,May,5,0
+Tower B,poisson_l2|full_noev,2026-05-28,10,23.0,48.0,26.0,Thursday,13.0,13.0,True,4,May,5,0
+Tower B,poisson_l2|full_noev,2026-05-29,13,25.0,51.0,12.0,Friday,12.0,12.0,True,5,May,5,0
+Tower B,poisson_l2|full_noev,2026-05-30,8,0.0,0.0,5.0,Saturday,-8.0,8.0,False,6,May,5,1
+Tower B,poisson_l2|full_noev,2026-06-01,13,29.0,56.0,5.0,Monday,16.0,16.0,True,1,Jun,6,0
+Tower B,poisson_l2|full_noev,2026-06-02,20,25.0,51.0,5.0,Tuesday,5.0,5.0,True,2,Jun,6,0
+Tower B,poisson_l2|full_noev,2026-06-03,2,23.0,48.0,8.0,Wednesday,21.0,21.0,True,3,Jun,6,0
+Tower B,poisson_l2|full_noev,2026-06-04,14,23.0,48.0,20.0,Thursday,9.0,9.0,True,4,Jun,6,0
+Tower B,poisson_l2|full_noev,2026-06-05,23,26.0,52.0,10.0,Friday,3.0,3.0,True,5,Jun,6,0
+Tower B,poisson_l2|full_noev,2026-06-06,0,0.0,0.0,13.0,Saturday,0.0,0.0,True,6,Jun,6,0
+Tower B,poisson_l2|full_noev,2026-06-08,48,29.0,57.0,8.0,Monday,-19.0,19.0,True,1,Jun,6,0
+Tower B,poisson_l2|full_noev,2026-06-09,21,27.0,53.0,13.0,Tuesday,6.0,6.0,True,2,Jun,6,0
+Tower B,poisson_l2|full_noev,2026-06-10,13,24.0,49.0,20.0,Wednesday,11.0,11.0,True,3,Jun,6,0
+Tower B,poisson_l2|full_noev,2026-06-11,14,24.0,49.0,2.0,Thursday,10.0,10.0,True,4,Jun,6,0
+Tower B,poisson_l2|full_noev,2026-06-12,23,27.0,54.0,14.0,Friday,4.0,4.0,True,5,Jun,6,0
+Tower B,poisson_l2|full_noev,2026-06-13,10,0.0,0.0,23.0,Saturday,-10.0,10.0,False,6,Jun,6,1
+Tower B,poisson_l2|full_noev,2026-06-15,33,31.0,59.0,0.0,Monday,-2.0,2.0,True,1,Jun,6,0
+Tower B,poisson_l2|full_noev,2026-06-16,15,28.0,55.0,48.0,Tuesday,13.0,13.0,True,2,Jun,6,0
+Tower B,poisson_l2|full_noev,2026-06-17,17,24.0,49.0,21.0,Wednesday,7.0,7.0,True,3,Jun,6,0
+Tower B,poisson_l2|full_noev,2026-06-18,6,24.0,49.0,13.0,Thursday,18.0,18.0,True,4,Jun,6,0
+Tower B,poisson_l2|full_noev,2026-06-20,0,0.0,0.0,14.0,Saturday,0.0,0.0,True,6,Jun,6,0
+Tower B,poisson_l2|full_noev,2026-06-22,29,30.0,58.0,23.0,Monday,1.0,1.0,True,1,Jun,6,0
+Tower B,poisson_l2|full_noev,2026-06-23,22,26.0,52.0,10.0,Tuesday,4.0,4.0,True,2,Jun,6,0
+Tower B,poisson_l2|full_noev,2026-06-24,1,24.0,49.0,33.0,Wednesday,23.0,23.0,True,3,Jun,6,0
+Tower B,poisson_l2|full_noev,2026-06-25,8,23.0,48.0,15.0,Thursday,15.0,15.0,True,4,Jun,6,0
+Tower B,poisson_l2|full_noev,2026-06-26,58,26.0,52.0,17.0,Friday,-32.0,32.0,False,5,Jun,6,1
+Tower B,poisson_l2|full_noev,2026-06-27,7,0.0,0.0,6.0,Saturday,-7.0,7.0,False,6,Jun,6,1
+Tower B,poisson_l2|full_noev,2026-06-29,30,30.0,59.0,0.0,Monday,0.0,0.0,True,1,Jun,6,0
+Tower B,poisson_l2|full_noev,2026-06-30,16,27.0,54.0,29.0,Tuesday,11.0,11.0,True,2,Jun,6,0
+Tower B,poisson_l2|full_noev,2026-07-01,11,24.0,50.0,22.0,Wednesday,13.0,13.0,True,3,Jul,7,0
+Tower B,poisson_l2|full_noev,2026-07-02,9,24.0,49.0,1.0,Thursday,15.0,15.0,True,4,Jul,7,0
+Tower B,poisson_l2|full_noev,2026-07-03,3,27.0,54.0,8.0,Friday,24.0,24.0,True,5,Jul,7,0
+Tower B,poisson_l2|full_noev,2026-07-06,29,31.0,59.0,58.0,Monday,2.0,2.0,True,1,Jul,7,0
+Tower B,poisson_l2|full_noev,2026-07-07,13,26.0,52.0,7.0,Tuesday,13.0,13.0,True,2,Jul,7,0
+Tower B,poisson_l2|full_noev,2026-07-08,12,23.0,49.0,30.0,Wednesday,11.0,11.0,True,3,Jul,7,0
+Tower B,poisson_l2|full_noev,2026-07-09,7,23.0,48.0,16.0,Thursday,16.0,16.0,True,4,Jul,7,0
+Tower B,poisson_l2|full_noev,2026-07-10,7,26.0,52.0,11.0,Friday,19.0,19.0,True,5,Jul,7,0
+Tower B,poisson_l2|full_noev,2026-07-11,8,0.0,0.0,9.0,Saturday,-8.0,8.0,False,6,Jul,7,1
+Tower B,poisson_l2|full_noev,2026-07-13,7,29.0,57.0,3.0,Monday,22.0,22.0,True,1,Jul,7,0
+Tower B,poisson_l2|full_noev,2026-07-14,18,25.0,51.0,29.0,Tuesday,7.0,7.0,True,2,Jul,7,0
+Tower B,poisson_l2|full_noev,2026-07-15,15,22.0,47.0,13.0,Wednesday,7.0,7.0,True,3,Jul,7,0
+Tower B,poisson_l2|full_noev,2026-07-16,6,23.0,47.0,12.0,Thursday,17.0,17.0,True,4,Jul,7,0
+Tower B,poisson_l2|full_noev,2026-07-17,11,25.0,51.0,7.0,Friday,14.0,14.0,True,5,Jul,7,0
+Tower B,poisson_l2|full_noev,2026-07-18,10,0.0,0.0,7.0,Saturday,-10.0,10.0,False,6,Jul,7,1
+Tower B,poisson_l2|full_noev,2026-07-20,5,29.0,57.0,8.0,Monday,24.0,24.0,True,1,Jul,7,0
+Tower B,poisson_l2|full_noev,2026-07-21,8,25.0,51.0,7.0,Tuesday,17.0,17.0,True,2,Jul,7,0
+Tower B,poisson_l2|full_noev,2026-07-22,24,23.0,47.0,18.0,Wednesday,-1.0,1.0,True,3,Jul,7,0
+Tower B,poisson_l2|full_noev,2026-07-23,10,23.0,48.0,15.0,Thursday,13.0,13.0,True,4,Jul,7,0
+Tower B,poisson_l2|full_noev,2026-07-24,1,26.0,52.0,6.0,Friday,25.0,25.0,True,5,Jul,7,0
+Tower B,poisson_l2|full_noev,2026-07-25,0,0.0,0.0,11.0,Saturday,0.0,0.0,True,6,Jul,7,0
+Tower B,poisson_l2|full_noev,2026-07-27,15,29.0,56.0,10.0,Monday,14.0,14.0,True,1,Jul,7,0
+Tower B,poisson_l2|full_noev,2026-07-28,4,25.0,51.0,5.0,Tuesday,21.0,21.0,True,2,Jul,7,0
+Tower B,poisson_l2|full_noev,2026-07-29,18,22.0,47.0,8.0,Wednesday,4.0,4.0,True,3,Jul,7,0
+Tower B,poisson_l2|full_noev,2026-07-30,19,23.0,48.0,24.0,Thursday,4.0,4.0,True,4,Jul,7,0
+Tower B,poisson_l2|full_noev,2026-07-31,12,25.0,51.0,10.0,Friday,13.0,13.0,True,5,Jul,7,0
+Tower B,poisson_l2|full_noev,2026-08-01,5,0.0,0.0,1.0,Saturday,-5.0,5.0,False,6,Aug,8,1
+Tower B,poisson_l2|full_noev,2026-08-03,10,29.0,57.0,0.0,Monday,19.0,19.0,True,1,Aug,8,0
+Tower B,poisson_l2|full_noev,2026-08-04,1,26.0,52.0,15.0,Tuesday,25.0,25.0,True,2,Aug,8,0
+Tower B,poisson_l2|full_noev,2026-08-05,4,23.0,47.0,4.0,Wednesday,19.0,19.0,True,3,Aug,8,0
+Tower B,poisson_l2|full_noev,2026-08-06,4,23.0,48.0,18.0,Thursday,19.0,19.0,True,4,Aug,8,0
+Tower B,poisson_l2|full_noev,2026-08-07,18,25.0,51.0,19.0,Friday,7.0,7.0,True,5,Aug,8,0
+Tower B,poisson_l2|full_noev,2026-08-08,0,0.0,0.0,12.0,Saturday,0.0,0.0,True,6,Aug,8,0
+Tower B,poisson_l2|full_noev,2026-08-10,28,28.0,55.0,5.0,Monday,0.0,0.0,True,1,Aug,8,0
+Tower B,poisson_l2|full_noev,2026-08-11,12,25.0,51.0,10.0,Tuesday,13.0,13.0,True,2,Aug,8,0
+Tower B,poisson_l2|full_noev,2026-08-12,23,22.0,47.0,1.0,Wednesday,-1.0,1.0,True,3,Aug,8,0
+Tower B,poisson_l2|full_noev,2026-08-13,15,23.0,48.0,4.0,Thursday,8.0,8.0,True,4,Aug,8,0
+Tower B,poisson_l2|full_noev,2026-08-14,16,26.0,53.0,4.0,Friday,10.0,10.0,True,5,Aug,8,0
+Tower B,poisson_l2|full_noev,2026-08-15,13,0.0,0.0,18.0,Saturday,-13.0,13.0,False,6,Aug,8,1
+Tower B,poisson_l2|full_noev,2026-08-17,40,116.0,166.0,0.0,Monday,76.0,76.0,True,1,Aug,8,0
+Tower B,poisson_l2|full_noev,2026-08-18,69,107.0,155.0,28.0,Tuesday,38.0,38.0,True,2,Aug,8,0
+Tower B,poisson_l2|full_noev,2026-08-19,93,101.0,148.0,12.0,Wednesday,8.0,8.0,True,3,Aug,8,0
+Tower B,poisson_l2|full_noev,2026-08-20,53,109.0,157.0,23.0,Thursday,56.0,56.0,True,4,Aug,8,0
+Tower B,poisson_l2|full_noev,2026-08-21,311,123.0,174.0,15.0,Friday,-188.0,188.0,False,5,Aug,8,1
+Tower B,poisson_l2|full_noev,2026-08-22,33,6.0,21.0,16.0,Saturday,-27.0,27.0,False,6,Aug,8,1
+Tower B,poisson_l2|full_noev,2026-08-24,156,178.0,239.0,13.0,Monday,22.0,22.0,True,1,Aug,8,0
+Tower B,poisson_l2|full_noev,2026-08-25,216,179.0,240.0,40.0,Tuesday,-37.0,37.0,True,2,Aug,8,0
+Tower B,poisson_l2|full_noev,2026-08-26,280,189.0,251.0,69.0,Wednesday,-91.0,91.0,False,3,Aug,8,1
+Tower B,poisson_l2|full_noev,2026-08-27,330,226.0,293.0,93.0,Thursday,-104.0,104.0,False,4,Aug,8,1
+Tower B,poisson_l2|full_noev,2026-08-28,175,300.0,377.0,53.0,Friday,125.0,125.0,True,5,Aug,8,0
+Tower B,poisson_l2|full_noev,2026-08-29,57,18.0,40.0,311.0,Saturday,-39.0,39.0,False,6,Aug,8,1
+Tower B,poisson_l2|full_noev,2026-08-31,227,286.0,361.0,33.0,Monday,59.0,59.0,True,1,Aug,8,0
+Tower B,poisson_l2|full_noev,2026-09-01,221,299.0,376.0,156.0,Tuesday,78.0,78.0,True,2,Sep,9,0
+Tower B,poisson_l2|full_noev,2026-09-02,357,284.0,359.0,216.0,Wednesday,-73.0,73.0,True,3,Sep,9,0
+Tower B,poisson_l2|full_noev,2026-09-03,218,313.0,392.0,280.0,Thursday,95.0,95.0,True,4,Sep,9,0
+Tower B,poisson_l2|full_noev,2026-09-04,219,318.0,397.0,330.0,Friday,99.0,99.0,True,5,Sep,9,0
+Tower B,poisson_l2|full_noev,2026-09-05,44,14.0,34.0,175.0,Saturday,-30.0,30.0,False,6,Sep,9,1
+Tower B,poisson_l2|full_noev,2026-09-07,0,13.0,33.0,57.0,Monday,13.0,13.0,True,1,Sep,9,0
+Tower B,poisson_l2|full_noev,2026-09-08,209,243.0,312.0,227.0,Tuesday,34.0,34.0,True,2,Sep,9,0
+Tower B,poisson_l2|full_noev,2026-09-09,307,213.0,279.0,221.0,Wednesday,-94.0,94.0,False,3,Sep,9,1
+Tower B,poisson_l2|full_noev,2026-09-10,200,228.0,296.0,357.0,Thursday,28.0,28.0,True,4,Sep,9,0
+Tower B,poisson_l2|full_noev,2026-09-11,182,162.0,220.0,218.0,Friday,-20.0,20.0,True,5,Sep,9,0
+Tower B,poisson_l2|full_noev,2026-09-12,24,5.0,20.0,219.0,Saturday,-19.0,19.0,False,6,Sep,9,1
+Tower B,poisson_l2|full_noev,2026-09-14,169,152.0,208.0,44.0,Monday,-17.0,17.0,True,1,Sep,9,0
+Tower B,poisson_l2|full_noev,2026-09-15,255,153.0,210.0,0.0,Tuesday,-102.0,102.0,False,2,Sep,9,1
+Tower B,poisson_l2|full_noev,2026-09-16,220,175.0,235.0,209.0,Wednesday,-45.0,45.0,True,3,Sep,9,0
+Tower B,poisson_l2|full_noev,2026-09-17,120,178.0,239.0,307.0,Thursday,58.0,58.0,True,4,Sep,9,0
+Tower B,poisson_l2|full_noev,2026-09-18,100,166.0,224.0,200.0,Friday,66.0,66.0,True,5,Sep,9,0
+Tower B,poisson_l2|full_noev,2026-09-19,5,5.0,19.0,182.0,Saturday,0.0,0.0,True,6,Sep,9,0
+Sutherland,hgb_poisson|lean_noev,2025-09-19,34,20.0,31.0,109.0,Friday,-14.0,14.0,False,5,Sep,9,1
+Sutherland,hgb_poisson|lean_noev,2025-09-20,1,6.0,12.0,36.0,Saturday,5.0,5.0,True,6,Sep,9,0
+Sutherland,hgb_poisson|lean_noev,2025-09-22,61,22.0,34.0,6.0,Monday,-39.0,39.0,False,1,Sep,9,1
+Sutherland,hgb_poisson|lean_noev,2025-09-23,101,23.0,35.0,54.0,Tuesday,-78.0,78.0,False,2,Sep,9,1
+Sutherland,hgb_poisson|lean_noev,2025-09-24,11,26.0,38.0,86.0,Wednesday,15.0,15.0,True,3,Sep,9,0
+Sutherland,hgb_poisson|lean_noev,2025-09-25,36,29.0,42.0,43.0,Thursday,-7.0,7.0,True,4,Sep,9,0
+Sutherland,hgb_poisson|lean_noev,2025-09-26,45,20.0,31.0,25.0,Friday,-25.0,25.0,False,5,Sep,9,1
+Sutherland,hgb_poisson|lean_noev,2025-09-27,0,6.0,12.0,34.0,Saturday,6.0,6.0,True,6,Sep,9,0
+Sutherland,hgb_poisson|lean_noev,2025-09-29,32,22.0,34.0,1.0,Monday,-10.0,10.0,True,1,Sep,9,0
+Sutherland,hgb_poisson|lean_noev,2025-09-30,72,23.0,35.0,61.0,Tuesday,-49.0,49.0,False,2,Sep,9,1
+Sutherland,hgb_poisson|lean_noev,2025-10-01,18,26.0,38.0,101.0,Wednesday,8.0,8.0,True,3,Oct,10,0
+Sutherland,hgb_poisson|lean_noev,2025-10-02,6,29.0,42.0,11.0,Thursday,23.0,23.0,True,4,Oct,10,0
+Sutherland,hgb_poisson|lean_noev,2025-10-03,17,20.0,31.0,36.0,Friday,3.0,3.0,True,5,Oct,10,0
+Sutherland,hgb_poisson|lean_noev,2025-10-04,2,6.0,12.0,45.0,Saturday,4.0,4.0,True,6,Oct,10,0
+Sutherland,hgb_poisson|lean_noev,2025-10-06,33,38.0,53.0,0.0,Monday,5.0,5.0,True,1,Oct,10,0
+Sutherland,hgb_poisson|lean_noev,2025-10-07,107,34.0,49.0,32.0,Tuesday,-73.0,73.0,False,2,Oct,10,1
+Sutherland,hgb_poisson|lean_noev,2025-10-08,21,26.0,38.0,72.0,Wednesday,5.0,5.0,True,3,Oct,10,0
+Sutherland,hgb_poisson|lean_noev,2025-10-09,20,29.0,42.0,18.0,Thursday,9.0,9.0,True,4,Oct,10,0
+Sutherland,hgb_poisson|lean_noev,2025-10-10,36,24.0,37.0,6.0,Friday,-12.0,12.0,True,5,Oct,10,0
+Sutherland,hgb_poisson|lean_noev,2025-10-11,4,6.0,13.0,17.0,Saturday,2.0,2.0,True,6,Oct,10,0
+Sutherland,hgb_poisson|lean_noev,2025-10-13,30,29.0,43.0,2.0,Monday,-1.0,1.0,True,1,Oct,10,0
+Sutherland,hgb_poisson|lean_noev,2025-10-14,6,25.0,38.0,33.0,Tuesday,19.0,19.0,True,2,Oct,10,0
+Sutherland,hgb_poisson|lean_noev,2025-10-15,11,26.0,39.0,107.0,Wednesday,15.0,15.0,True,3,Oct,10,0
+Sutherland,hgb_poisson|lean_noev,2025-10-16,87,31.0,45.0,21.0,Thursday,-56.0,56.0,False,4,Oct,10,1
+Sutherland,hgb_poisson|lean_noev,2025-10-17,34,23.0,35.0,20.0,Friday,-11.0,11.0,True,5,Oct,10,0
+Sutherland,hgb_poisson|lean_noev,2025-10-18,2,10.0,18.0,36.0,Saturday,8.0,8.0,True,6,Oct,10,0
+Sutherland,hgb_poisson|lean_noev,2025-10-20,35,29.0,43.0,4.0,Monday,-6.0,6.0,True,1,Oct,10,0
+Sutherland,hgb_poisson|lean_noev,2025-10-21,86,34.0,49.0,30.0,Tuesday,-52.0,52.0,False,2,Oct,10,1
+Sutherland,hgb_poisson|lean_noev,2025-10-22,28,26.0,38.0,6.0,Wednesday,-2.0,2.0,True,3,Oct,10,0
+Sutherland,hgb_poisson|lean_noev,2025-10-23,36,29.0,42.0,11.0,Thursday,-7.0,7.0,True,4,Oct,10,0
+Sutherland,hgb_poisson|lean_noev,2025-10-24,47,31.0,45.0,87.0,Friday,-16.0,16.0,False,5,Oct,10,1
+Sutherland,hgb_poisson|lean_noev,2025-10-25,8,6.0,12.0,34.0,Saturday,-2.0,2.0,True,6,Oct,10,0
+Sutherland,hgb_poisson|lean_noev,2025-10-27,47,22.0,34.0,2.0,Monday,-25.0,25.0,False,1,Oct,10,1
+Sutherland,hgb_poisson|lean_noev,2025-10-28,24,23.0,35.0,35.0,Tuesday,-1.0,1.0,True,2,Oct,10,0
+Sutherland,hgb_poisson|lean_noev,2025-10-29,128,26.0,38.0,86.0,Wednesday,-102.0,102.0,False,3,Oct,10,1
+Sutherland,hgb_poisson|lean_noev,2025-10-30,32,29.0,42.0,28.0,Thursday,-3.0,3.0,True,4,Oct,10,0
+Sutherland,hgb_poisson|lean_noev,2025-10-31,43,20.0,31.0,36.0,Friday,-23.0,23.0,False,5,Oct,10,1
+Sutherland,hgb_poisson|lean_noev,2025-11-01,2,6.0,12.0,47.0,Saturday,4.0,4.0,True,6,Nov,11,0
+Sutherland,hgb_poisson|lean_noev,2025-11-03,36,22.0,34.0,8.0,Monday,-14.0,14.0,False,1,Nov,11,1
+Sutherland,hgb_poisson|lean_noev,2025-11-04,63,23.0,35.0,47.0,Tuesday,-40.0,40.0,False,2,Nov,11,1
+Sutherland,hgb_poisson|lean_noev,2025-11-05,18,26.0,38.0,24.0,Wednesday,8.0,8.0,True,3,Nov,11,0
+Sutherland,hgb_poisson|lean_noev,2025-11-06,12,29.0,42.0,128.0,Thursday,17.0,17.0,True,4,Nov,11,0
+Sutherland,hgb_poisson|lean_noev,2025-11-07,16,20.0,31.0,32.0,Friday,4.0,4.0,True,5,Nov,11,0
+Sutherland,hgb_poisson|lean_noev,2025-11-08,3,6.0,12.0,43.0,Saturday,3.0,3.0,True,6,Nov,11,0
+Sutherland,hgb_poisson|lean_noev,2025-11-10,14,22.0,34.0,2.0,Monday,8.0,8.0,True,1,Nov,11,0
+Sutherland,hgb_poisson|lean_noev,2025-11-11,41,24.0,36.0,36.0,Tuesday,-17.0,17.0,False,2,Nov,11,1
+Sutherland,hgb_poisson|lean_noev,2025-11-12,9,26.0,38.0,63.0,Wednesday,17.0,17.0,True,3,Nov,11,0
+Sutherland,hgb_poisson|lean_noev,2025-11-13,5,46.0,63.0,18.0,Thursday,41.0,41.0,True,4,Nov,11,0
+Sutherland,hgb_poisson|lean_noev,2025-11-14,19,24.0,37.0,12.0,Friday,5.0,5.0,True,5,Nov,11,0
+Sutherland,hgb_poisson|lean_noev,2025-11-15,4,7.0,14.0,16.0,Saturday,3.0,3.0,True,6,Nov,11,0
+Sutherland,hgb_poisson|lean_noev,2025-11-17,29,15.0,26.0,3.0,Monday,-14.0,14.0,False,1,Nov,11,1
+Sutherland,hgb_poisson|lean_noev,2025-11-18,13,12.0,22.0,14.0,Tuesday,-1.0,1.0,True,2,Nov,11,0
+Sutherland,hgb_poisson|lean_noev,2025-11-19,24,12.0,21.0,41.0,Wednesday,-12.0,12.0,False,3,Nov,11,1
+Sutherland,hgb_poisson|lean_noev,2025-11-20,8,17.0,27.0,9.0,Thursday,9.0,9.0,True,4,Nov,11,0
+Sutherland,hgb_poisson|lean_noev,2025-11-21,7,13.0,22.0,5.0,Friday,6.0,6.0,True,5,Nov,11,0
+Sutherland,hgb_poisson|lean_noev,2025-11-22,0,4.0,10.0,19.0,Saturday,4.0,4.0,True,6,Nov,11,0
+Sutherland,hgb_poisson|lean_noev,2025-11-24,0,7.0,15.0,4.0,Monday,7.0,7.0,True,1,Nov,11,0
+Sutherland,hgb_poisson|lean_noev,2025-11-25,0,6.0,13.0,29.0,Tuesday,6.0,6.0,True,2,Nov,11,0
+Sutherland,hgb_poisson|lean_noev,2025-11-26,0,2.0,7.0,13.0,Wednesday,2.0,2.0,True,3,Nov,11,0
+Sutherland,hgb_poisson|lean_noev,2025-11-29,0,2.0,6.0,24.0,Saturday,2.0,2.0,True,6,Nov,11,0
+Sutherland,hgb_poisson|lean_noev,2025-12-01,60,5.0,12.0,8.0,Monday,-55.0,55.0,False,1,Dec,12,1
+Sutherland,hgb_poisson|lean_noev,2025-12-02,32,3.0,7.0,7.0,Tuesday,-29.0,29.0,False,2,Dec,12,1
+Sutherland,hgb_poisson|lean_noev,2025-12-03,11,2.0,7.0,0.0,Wednesday,-9.0,9.0,False,3,Dec,12,1
+Sutherland,hgb_poisson|lean_noev,2025-12-04,25,11.0,20.0,0.0,Thursday,-14.0,14.0,False,4,Dec,12,1
+Sutherland,hgb_poisson|lean_noev,2025-12-05,14,26.0,39.0,0.0,Friday,12.0,12.0,True,5,Dec,12,0
+Sutherland,hgb_poisson|lean_noev,2025-12-06,3,4.0,10.0,0.0,Saturday,1.0,1.0,True,6,Dec,12,0
+Sutherland,hgb_poisson|lean_noev,2025-12-08,3,14.0,24.0,0.0,Monday,11.0,11.0,True,1,Dec,12,0
+Sutherland,hgb_poisson|lean_noev,2025-12-09,29,10.0,19.0,60.0,Tuesday,-19.0,19.0,False,2,Dec,12,1
+Sutherland,hgb_poisson|lean_noev,2025-12-10,6,10.0,19.0,32.0,Wednesday,4.0,4.0,True,3,Dec,12,0
+Sutherland,hgb_poisson|lean_noev,2025-12-11,10,14.0,24.0,11.0,Thursday,4.0,4.0,True,4,Dec,12,0
+Sutherland,hgb_poisson|lean_noev,2025-12-12,4,17.0,28.0,25.0,Friday,13.0,13.0,True,5,Dec,12,0
+Sutherland,hgb_poisson|lean_noev,2025-12-13,0,6.0,12.0,14.0,Saturday,6.0,6.0,True,6,Dec,12,0
+Sutherland,hgb_poisson|lean_noev,2025-12-15,0,17.0,27.0,3.0,Monday,17.0,17.0,True,1,Dec,12,0
+Sutherland,hgb_poisson|lean_noev,2025-12-16,0,12.0,21.0,3.0,Tuesday,12.0,12.0,True,2,Dec,12,0
+Sutherland,hgb_poisson|lean_noev,2025-12-17,0,13.0,22.0,29.0,Wednesday,13.0,13.0,True,3,Dec,12,0
+Sutherland,hgb_poisson|lean_noev,2026-01-03,0,4.0,10.0,6.0,Saturday,4.0,4.0,True,6,Jan,1,0
+Sutherland,hgb_poisson|lean_noev,2026-01-05,0,14.0,24.0,10.0,Monday,14.0,14.0,True,1,Jan,1,0
+Sutherland,hgb_poisson|lean_noev,2026-01-06,0,9.0,18.0,4.0,Tuesday,9.0,9.0,True,2,Jan,1,0
+Sutherland,hgb_poisson|lean_noev,2026-01-07,0,9.0,17.0,0.0,Wednesday,9.0,9.0,True,3,Jan,1,0
+Sutherland,hgb_poisson|lean_noev,2026-01-08,0,10.0,19.0,0.0,Thursday,10.0,10.0,True,4,Jan,1,0
+Sutherland,hgb_poisson|lean_noev,2026-01-09,0,12.0,21.0,0.0,Friday,12.0,12.0,True,5,Jan,1,0
+Sutherland,hgb_poisson|lean_noev,2026-01-10,0,4.0,10.0,0.0,Saturday,4.0,4.0,True,6,Jan,1,0
+Sutherland,hgb_poisson|lean_noev,2026-01-12,170,14.0,24.0,0.0,Monday,-156.0,156.0,False,1,Jan,1,1
+Sutherland,hgb_poisson|lean_noev,2026-01-13,32,11.0,20.0,0.0,Tuesday,-21.0,21.0,False,2,Jan,1,1
+Sutherland,hgb_poisson|lean_noev,2026-01-14,29,18.0,28.0,0.0,Wednesday,-11.0,11.0,False,3,Jan,1,1
+Sutherland,hgb_poisson|lean_noev,2026-01-15,23,34.0,49.0,0.0,Thursday,11.0,11.0,True,4,Jan,1,0
+Sutherland,hgb_poisson|lean_noev,2026-01-16,35,31.0,44.0,0.0,Friday,-4.0,4.0,True,5,Jan,1,0
+Sutherland,hgb_poisson|lean_noev,2026-01-17,4,9.0,18.0,0.0,Saturday,5.0,5.0,True,6,Jan,1,0
+Sutherland,hgb_poisson|lean_noev,2026-01-19,19,47.0,64.0,0.0,Monday,28.0,28.0,True,1,Jan,1,0
+Sutherland,hgb_poisson|lean_noev,2026-01-20,20,36.0,51.0,170.0,Tuesday,16.0,16.0,True,2,Jan,1,0
+Sutherland,hgb_poisson|lean_noev,2026-01-21,16,32.0,46.0,32.0,Wednesday,16.0,16.0,True,3,Jan,1,0
+Sutherland,hgb_poisson|lean_noev,2026-01-22,83,40.0,55.0,29.0,Thursday,-43.0,43.0,False,4,Jan,1,1
+Sutherland,hgb_poisson|lean_noev,2026-01-23,19,50.0,67.0,23.0,Friday,31.0,31.0,True,5,Jan,1,0
+Sutherland,hgb_poisson|lean_noev,2026-01-24,6,6.0,13.0,35.0,Saturday,0.0,0.0,True,6,Jan,1,0
+Sutherland,hgb_poisson|lean_noev,2026-01-26,1,37.0,52.0,4.0,Monday,36.0,36.0,True,1,Jan,1,0
+Sutherland,hgb_poisson|lean_noev,2026-01-27,29,34.0,49.0,19.0,Tuesday,5.0,5.0,True,2,Jan,1,0
+Sutherland,hgb_poisson|lean_noev,2026-01-28,40,35.0,49.0,20.0,Wednesday,-5.0,5.0,True,3,Jan,1,0
+Sutherland,hgb_poisson|lean_noev,2026-01-29,61,16.0,26.0,16.0,Thursday,-45.0,45.0,False,4,Jan,1,1
+Sutherland,hgb_poisson|lean_noev,2026-01-30,31,19.0,30.0,83.0,Friday,-12.0,12.0,False,5,Jan,1,1
+Sutherland,hgb_poisson|lean_noev,2026-01-31,3,9.0,16.0,19.0,Saturday,6.0,6.0,True,6,Jan,1,0
+Sutherland,hgb_poisson|lean_noev,2026-02-02,19,15.0,25.0,6.0,Monday,-4.0,4.0,True,1,Feb,2,0
+Sutherland,hgb_poisson|lean_noev,2026-02-03,60,11.0,20.0,1.0,Tuesday,-49.0,49.0,False,2,Feb,2,1
+Sutherland,hgb_poisson|lean_noev,2026-02-04,35,42.0,58.0,29.0,Wednesday,7.0,7.0,True,3,Feb,2,0
+Sutherland,hgb_poisson|lean_noev,2026-02-05,27,39.0,54.0,40.0,Thursday,12.0,12.0,True,4,Feb,2,0
+Sutherland,hgb_poisson|lean_noev,2026-02-06,34,34.0,48.0,61.0,Friday,0.0,0.0,True,5,Feb,2,0
+Sutherland,hgb_poisson|lean_noev,2026-02-07,3,6.0,13.0,31.0,Saturday,3.0,3.0,True,6,Feb,2,0
+Sutherland,hgb_poisson|lean_noev,2026-02-09,11,17.0,27.0,3.0,Monday,6.0,6.0,True,1,Feb,2,0
+Sutherland,hgb_poisson|lean_noev,2026-02-10,115,14.0,23.0,19.0,Tuesday,-101.0,101.0,False,2,Feb,2,1
+Sutherland,hgb_poisson|lean_noev,2026-02-11,29,26.0,38.0,60.0,Wednesday,-3.0,3.0,True,3,Feb,2,0
+Sutherland,hgb_poisson|lean_noev,2026-02-12,48,29.0,42.0,35.0,Thursday,-19.0,19.0,False,4,Feb,2,1
+Sutherland,hgb_poisson|lean_noev,2026-02-13,106,20.0,31.0,27.0,Friday,-86.0,86.0,False,5,Feb,2,1
+Sutherland,hgb_poisson|lean_noev,2026-02-14,81,6.0,12.0,34.0,Saturday,-75.0,75.0,False,6,Feb,2,1
+Sutherland,hgb_poisson|lean_noev,2026-02-16,6,22.0,34.0,3.0,Monday,16.0,16.0,True,1,Feb,2,0
+Sutherland,hgb_poisson|lean_noev,2026-02-17,10,23.0,35.0,11.0,Tuesday,13.0,13.0,True,2,Feb,2,0
+Sutherland,hgb_poisson|lean_noev,2026-02-18,115,26.0,38.0,115.0,Wednesday,-89.0,89.0,False,3,Feb,2,1
+Sutherland,hgb_poisson|lean_noev,2026-02-19,44,29.0,42.0,29.0,Thursday,-15.0,15.0,False,4,Feb,2,1
+Sutherland,hgb_poisson|lean_noev,2026-02-20,29,20.0,31.0,48.0,Friday,-9.0,9.0,True,5,Feb,2,0
+Sutherland,hgb_poisson|lean_noev,2026-02-21,3,6.0,12.0,106.0,Saturday,3.0,3.0,True,6,Feb,2,0
+Sutherland,hgb_poisson|lean_noev,2026-02-23,13,22.0,34.0,81.0,Monday,9.0,9.0,True,1,Feb,2,0
+Sutherland,hgb_poisson|lean_noev,2026-02-24,53,23.0,35.0,6.0,Tuesday,-30.0,30.0,False,2,Feb,2,1
+Sutherland,hgb_poisson|lean_noev,2026-02-25,39,26.0,38.0,10.0,Wednesday,-13.0,13.0,False,3,Feb,2,1
+Sutherland,hgb_poisson|lean_noev,2026-02-26,20,29.0,42.0,115.0,Thursday,9.0,9.0,True,4,Feb,2,0
+Sutherland,hgb_poisson|lean_noev,2026-02-27,19,20.0,31.0,44.0,Friday,1.0,1.0,True,5,Feb,2,0
+Sutherland,hgb_poisson|lean_noev,2026-02-28,1,6.0,12.0,29.0,Saturday,5.0,5.0,True,6,Feb,2,0
+Sutherland,hgb_poisson|lean_noev,2026-03-02,28,22.0,34.0,3.0,Monday,-6.0,6.0,True,1,Mar,3,0
+Sutherland,hgb_poisson|lean_noev,2026-03-03,33,23.0,35.0,13.0,Tuesday,-10.0,10.0,True,2,Mar,3,0
+Sutherland,hgb_poisson|lean_noev,2026-03-04,16,26.0,39.0,53.0,Wednesday,10.0,10.0,True,3,Mar,3,0
+Sutherland,hgb_poisson|lean_noev,2026-03-05,10,36.0,50.0,39.0,Thursday,26.0,26.0,True,4,Mar,3,0
+Sutherland,hgb_poisson|lean_noev,2026-03-06,9,24.0,37.0,20.0,Friday,15.0,15.0,True,5,Mar,3,0
+Sutherland,hgb_poisson|lean_noev,2026-03-07,0,7.0,14.0,19.0,Saturday,7.0,7.0,True,6,Mar,3,0
+Sutherland,hgb_poisson|lean_noev,2026-03-09,0,15.0,25.0,1.0,Monday,15.0,15.0,True,1,Mar,3,0
+Sutherland,hgb_poisson|lean_noev,2026-03-10,0,11.0,20.0,28.0,Tuesday,11.0,11.0,True,2,Mar,3,0
+Sutherland,hgb_poisson|lean_noev,2026-03-11,0,11.0,20.0,33.0,Wednesday,11.0,11.0,True,3,Mar,3,0
+Sutherland,hgb_poisson|lean_noev,2026-03-12,0,16.0,27.0,16.0,Thursday,16.0,16.0,True,4,Mar,3,0
+Sutherland,hgb_poisson|lean_noev,2026-03-13,0,8.0,15.0,10.0,Friday,8.0,8.0,True,5,Mar,3,0
+Sutherland,hgb_poisson|lean_noev,2026-03-14,0,4.0,10.0,9.0,Saturday,4.0,4.0,True,6,Mar,3,0
+Sutherland,hgb_poisson|lean_noev,2026-03-16,73,11.0,20.0,0.0,Monday,-62.0,62.0,False,1,Mar,3,1
+Sutherland,hgb_poisson|lean_noev,2026-03-17,10,6.0,13.0,0.0,Tuesday,-4.0,4.0,True,2,Mar,3,0
+Sutherland,hgb_poisson|lean_noev,2026-03-18,68,6.0,13.0,0.0,Wednesday,-62.0,62.0,False,3,Mar,3,1
+Sutherland,hgb_poisson|lean_noev,2026-03-19,14,9.0,18.0,0.0,Thursday,-5.0,5.0,True,4,Mar,3,0
+Sutherland,hgb_poisson|lean_noev,2026-03-20,32,4.0,10.0,0.0,Friday,-28.0,28.0,False,5,Mar,3,1
+Sutherland,hgb_poisson|lean_noev,2026-03-21,0,3.0,8.0,0.0,Saturday,3.0,3.0,True,6,Mar,3,0
+Sutherland,hgb_poisson|lean_noev,2026-03-23,27,6.0,12.0,0.0,Monday,-21.0,21.0,False,1,Mar,3,1
+Sutherland,hgb_poisson|lean_noev,2026-03-24,49,8.0,16.0,73.0,Tuesday,-41.0,41.0,False,2,Mar,3,1
+Sutherland,hgb_poisson|lean_noev,2026-03-25,22,9.0,17.0,10.0,Wednesday,-13.0,13.0,False,3,Mar,3,1
+Sutherland,hgb_poisson|lean_noev,2026-03-26,19,14.0,23.0,68.0,Thursday,-5.0,5.0,True,4,Mar,3,0
+Sutherland,hgb_poisson|lean_noev,2026-03-27,22,14.0,24.0,14.0,Friday,-8.0,8.0,True,5,Mar,3,0
+Sutherland,hgb_poisson|lean_noev,2026-03-28,1,6.0,13.0,32.0,Saturday,5.0,5.0,True,6,Mar,3,0
+Sutherland,hgb_poisson|lean_noev,2026-03-30,34,38.0,53.0,0.0,Monday,4.0,4.0,True,1,Mar,3,0
+Sutherland,hgb_poisson|lean_noev,2026-03-31,5,28.0,42.0,27.0,Tuesday,23.0,23.0,True,2,Mar,3,0
+Sutherland,hgb_poisson|lean_noev,2026-04-01,62,29.0,43.0,49.0,Wednesday,-33.0,33.0,False,3,Apr,4,1
+Sutherland,hgb_poisson|lean_noev,2026-04-02,59,16.0,26.0,22.0,Thursday,-43.0,43.0,False,4,Apr,4,1
+Sutherland,hgb_poisson|lean_noev,2026-04-03,40,21.0,32.0,19.0,Friday,-19.0,19.0,False,5,Apr,4,1
+Sutherland,hgb_poisson|lean_noev,2026-04-04,3,9.0,16.0,22.0,Saturday,6.0,6.0,True,6,Apr,4,0
+Sutherland,hgb_poisson|lean_noev,2026-04-06,47,15.0,25.0,1.0,Monday,-32.0,32.0,False,1,Apr,4,1
+Sutherland,hgb_poisson|lean_noev,2026-04-07,37,21.0,33.0,34.0,Tuesday,-16.0,16.0,False,2,Apr,4,1
+Sutherland,hgb_poisson|lean_noev,2026-04-08,27,25.0,38.0,5.0,Wednesday,-2.0,2.0,True,3,Apr,4,0
+Sutherland,hgb_poisson|lean_noev,2026-04-09,27,33.0,47.0,62.0,Thursday,6.0,6.0,True,4,Apr,4,0
+Sutherland,hgb_poisson|lean_noev,2026-04-10,8,21.0,32.0,59.0,Friday,13.0,13.0,True,5,Apr,4,0
+Sutherland,hgb_poisson|lean_noev,2026-04-11,2,8.0,16.0,40.0,Saturday,6.0,6.0,True,6,Apr,4,0
+Sutherland,hgb_poisson|lean_noev,2026-04-13,35,29.0,42.0,3.0,Monday,-6.0,6.0,True,1,Apr,4,0
+Sutherland,hgb_poisson|lean_noev,2026-04-14,37,26.0,38.0,47.0,Tuesday,-11.0,11.0,True,2,Apr,4,0
+Sutherland,hgb_poisson|lean_noev,2026-04-15,18,29.0,42.0,37.0,Wednesday,11.0,11.0,True,3,Apr,4,0
+Sutherland,hgb_poisson|lean_noev,2026-04-16,18,37.0,52.0,27.0,Thursday,19.0,19.0,True,4,Apr,4,0
+Sutherland,hgb_poisson|lean_noev,2026-04-17,8,25.0,38.0,27.0,Friday,17.0,17.0,True,5,Apr,4,0
+Sutherland,hgb_poisson|lean_noev,2026-04-18,4,8.0,16.0,8.0,Saturday,4.0,4.0,True,6,Apr,4,0
+Sutherland,hgb_poisson|lean_noev,2026-04-20,13,16.0,27.0,2.0,Monday,3.0,3.0,True,1,Apr,4,0
+Sutherland,hgb_poisson|lean_noev,2026-04-21,29,8.0,16.0,35.0,Tuesday,-21.0,21.0,False,2,Apr,4,1
+Sutherland,hgb_poisson|lean_noev,2026-04-22,9,10.0,18.0,37.0,Wednesday,1.0,1.0,True,3,Apr,4,0
+Sutherland,hgb_poisson|lean_noev,2026-04-23,13,11.0,20.0,18.0,Thursday,-2.0,2.0,True,4,Apr,4,0
+Sutherland,hgb_poisson|lean_noev,2026-04-24,16,9.0,17.0,18.0,Friday,-7.0,7.0,True,5,Apr,4,0
+Sutherland,hgb_poisson|lean_noev,2026-04-25,0,4.0,9.0,8.0,Saturday,4.0,4.0,True,6,Apr,4,0
+Sutherland,hgb_poisson|lean_noev,2026-04-27,5,9.0,18.0,4.0,Monday,4.0,4.0,True,1,Apr,4,0
+Sutherland,hgb_poisson|lean_noev,2026-04-28,19,7.0,14.0,13.0,Tuesday,-12.0,12.0,False,2,Apr,4,1
+Sutherland,hgb_poisson|lean_noev,2026-04-29,18,8.0,16.0,29.0,Wednesday,-10.0,10.0,False,3,Apr,4,1
+Sutherland,hgb_poisson|lean_noev,2026-04-30,5,9.0,18.0,9.0,Thursday,4.0,4.0,True,4,Apr,4,0
+Sutherland,hgb_poisson|lean_noev,2026-05-01,3,4.0,9.0,13.0,Friday,1.0,1.0,True,5,May,5,0
+Sutherland,hgb_poisson|lean_noev,2026-05-02,0,2.0,6.0,16.0,Saturday,2.0,2.0,True,6,May,5,0
+Sutherland,hgb_poisson|lean_noev,2026-08-17,14,23.0,35.0,0.0,Monday,9.0,9.0,True,1,Aug,8,0
+Sutherland,hgb_poisson|lean_noev,2026-08-18,21,24.0,36.0,5.0,Tuesday,3.0,3.0,True,2,Aug,8,0
+Sutherland,hgb_poisson|lean_noev,2026-08-19,19,20.0,32.0,19.0,Wednesday,1.0,1.0,True,3,Aug,8,0
+Sutherland,hgb_poisson|lean_noev,2026-08-20,26,25.0,38.0,18.0,Thursday,-1.0,1.0,True,4,Aug,8,0
+Sutherland,hgb_poisson|lean_noev,2026-08-21,31,31.0,45.0,5.0,Friday,0.0,0.0,True,5,Aug,8,0
+Sutherland,hgb_poisson|lean_noev,2026-08-22,0,8.0,16.0,3.0,Saturday,8.0,8.0,True,6,Aug,8,0
+Sutherland,hgb_poisson|lean_noev,2026-08-24,40,30.0,43.0,0.0,Monday,-10.0,10.0,True,1,Aug,8,0
+Sutherland,hgb_poisson|lean_noev,2026-08-25,69,23.0,35.0,14.0,Tuesday,-46.0,46.0,False,2,Aug,8,1
+Sutherland,hgb_poisson|lean_noev,2026-08-26,47,53.0,70.0,21.0,Wednesday,6.0,6.0,True,3,Aug,8,0
+Sutherland,hgb_poisson|lean_noev,2026-08-27,27,69.0,89.0,19.0,Thursday,42.0,42.0,True,4,Aug,8,0
+Sutherland,hgb_poisson|lean_noev,2026-08-28,39,43.0,59.0,26.0,Friday,4.0,4.0,True,5,Aug,8,0
+Sutherland,hgb_poisson|lean_noev,2026-08-29,6,17.0,28.0,31.0,Saturday,11.0,11.0,True,6,Aug,8,0
+Sutherland,hgb_poisson|lean_noev,2026-08-31,37,71.0,91.0,0.0,Monday,34.0,34.0,True,1,Aug,8,0
+Sutherland,hgb_poisson|lean_noev,2026-09-01,55,35.0,50.0,40.0,Tuesday,-20.0,20.0,False,2,Sep,9,1
+Sutherland,hgb_poisson|lean_noev,2026-09-02,8,52.0,70.0,69.0,Wednesday,44.0,44.0,True,3,Sep,9,0
+Sutherland,hgb_poisson|lean_noev,2026-09-03,36,68.0,87.0,47.0,Thursday,32.0,32.0,True,4,Sep,9,0
+Sutherland,hgb_poisson|lean_noev,2026-09-04,25,50.0,67.0,27.0,Friday,25.0,25.0,True,5,Sep,9,0
+Sutherland,hgb_poisson|lean_noev,2026-09-05,3,10.0,19.0,39.0,Saturday,7.0,7.0,True,6,Sep,9,0
+Sutherland,hgb_poisson|lean_noev,2026-09-07,3,56.0,74.0,6.0,Monday,53.0,53.0,True,1,Sep,9,0
+Sutherland,hgb_poisson|lean_noev,2026-09-08,25,46.0,62.0,37.0,Tuesday,21.0,21.0,True,2,Sep,9,0
+Sutherland,hgb_poisson|lean_noev,2026-09-09,33,46.0,63.0,55.0,Wednesday,13.0,13.0,True,3,Sep,9,0
+Sutherland,hgb_poisson|lean_noev,2026-09-10,49,59.0,78.0,8.0,Thursday,10.0,10.0,True,4,Sep,9,0
+Sutherland,hgb_poisson|lean_noev,2026-09-11,29,20.0,31.0,36.0,Friday,-9.0,9.0,True,5,Sep,9,0
+Sutherland,hgb_poisson|lean_noev,2026-09-12,6,11.0,20.0,25.0,Saturday,5.0,5.0,True,6,Sep,9,0
+Sutherland,hgb_poisson|lean_noev,2026-09-14,87,15.0,25.0,3.0,Monday,-72.0,72.0,False,1,Sep,9,1
+Sutherland,hgb_poisson|lean_noev,2026-09-15,16,28.0,41.0,3.0,Tuesday,12.0,12.0,True,2,Sep,9,0
+Sutherland,hgb_poisson|lean_noev,2026-09-16,59,28.0,42.0,25.0,Wednesday,-31.0,31.0,False,3,Sep,9,1
+Sutherland,hgb_poisson|lean_noev,2026-09-17,18,46.0,63.0,33.0,Thursday,28.0,28.0,True,4,Sep,9,0
+Sutherland,hgb_poisson|lean_noev,2026-09-18,35,23.0,35.0,49.0,Friday,-12.0,12.0,True,5,Sep,9,0
+Bouquet Gardens,tweedie|full,2025-09-19,18,7.0,18.0,2.0,Friday,-11.0,11.0,True,5,Sep,9,0
+Bouquet Gardens,tweedie|full,2025-09-20,0,2.0,9.0,41.0,Saturday,2.0,2.0,True,6,Sep,9,0
+Bouquet Gardens,tweedie|full,2025-09-22,5,7.0,19.0,1.0,Monday,2.0,2.0,True,1,Sep,9,0
+Bouquet Gardens,tweedie|full,2025-09-23,24,8.0,20.0,10.0,Tuesday,-16.0,16.0,False,2,Sep,9,1
+Bouquet Gardens,tweedie|full,2025-09-24,17,8.0,20.0,14.0,Wednesday,-9.0,9.0,True,3,Sep,9,0
+Bouquet Gardens,tweedie|full,2025-09-25,0,7.0,19.0,18.0,Thursday,7.0,7.0,True,4,Sep,9,0
+Bouquet Gardens,tweedie|full,2025-09-26,12,6.0,17.0,8.0,Friday,-6.0,6.0,True,5,Sep,9,0
+Bouquet Gardens,tweedie|full,2025-09-27,0,2.0,8.0,18.0,Saturday,2.0,2.0,True,6,Sep,9,0
+Bouquet Gardens,tweedie|full,2025-09-29,23,7.0,18.0,0.0,Monday,-16.0,16.0,False,1,Sep,9,1
+Bouquet Gardens,tweedie|full,2025-09-30,8,8.0,20.0,5.0,Tuesday,0.0,0.0,True,2,Sep,9,0
+Bouquet Gardens,tweedie|full,2025-10-01,1,8.0,20.0,24.0,Wednesday,7.0,7.0,True,3,Oct,10,0
+Bouquet Gardens,tweedie|full,2025-10-02,0,6.0,17.0,17.0,Thursday,6.0,6.0,True,4,Oct,10,0
+Bouquet Gardens,tweedie|full,2025-10-03,27,5.0,15.0,0.0,Friday,-22.0,22.0,False,5,Oct,10,1
+Bouquet Gardens,tweedie|full,2025-10-04,0,1.0,8.0,12.0,Saturday,1.0,1.0,True,6,Oct,10,0
+Bouquet Gardens,tweedie|full,2025-10-06,57,7.0,18.0,0.0,Monday,-50.0,50.0,False,1,Oct,10,1
+Bouquet Gardens,tweedie|full,2025-10-07,7,9.0,23.0,23.0,Tuesday,2.0,2.0,True,2,Oct,10,0
+Bouquet Gardens,tweedie|full,2025-10-08,9,8.0,21.0,8.0,Wednesday,-1.0,1.0,True,3,Oct,10,0
+Bouquet Gardens,tweedie|full,2025-10-09,7,8.0,20.0,1.0,Thursday,1.0,1.0,True,4,Oct,10,0
+Bouquet Gardens,tweedie|full,2025-10-10,3,7.0,19.0,0.0,Friday,4.0,4.0,True,5,Oct,10,0
+Bouquet Gardens,tweedie|full,2025-10-11,0,2.0,9.0,27.0,Saturday,2.0,2.0,True,6,Oct,10,0
+Bouquet Gardens,tweedie|full,2025-10-13,9,7.0,19.0,0.0,Monday,-2.0,2.0,True,1,Oct,10,0
+Bouquet Gardens,tweedie|full,2025-10-14,1,8.0,21.0,57.0,Tuesday,7.0,7.0,True,2,Oct,10,0
+Bouquet Gardens,tweedie|full,2025-10-15,5,6.0,17.0,7.0,Wednesday,1.0,1.0,True,3,Oct,10,0
+Bouquet Gardens,tweedie|full,2025-10-16,40,5.0,16.0,9.0,Thursday,-35.0,35.0,False,4,Oct,10,1
+Bouquet Gardens,tweedie|full,2025-10-17,9,6.0,16.0,7.0,Friday,-3.0,3.0,True,5,Oct,10,0
+Bouquet Gardens,tweedie|full,2025-10-18,0,1.0,8.0,3.0,Saturday,1.0,1.0,True,6,Oct,10,0
+Bouquet Gardens,tweedie|full,2025-10-20,12,7.0,18.0,0.0,Monday,-5.0,5.0,True,1,Oct,10,0
+Bouquet Gardens,tweedie|full,2025-10-21,9,8.0,20.0,9.0,Tuesday,-1.0,1.0,True,2,Oct,10,0
+Bouquet Gardens,tweedie|full,2025-10-22,26,7.0,19.0,1.0,Wednesday,-19.0,19.0,False,3,Oct,10,1
+Bouquet Gardens,tweedie|full,2025-10-23,8,8.0,20.0,5.0,Thursday,0.0,0.0,True,4,Oct,10,0
+Bouquet Gardens,tweedie|full,2025-10-24,21,7.0,19.0,40.0,Friday,-14.0,14.0,False,5,Oct,10,1
+Bouquet Gardens,tweedie|full,2025-10-25,2,2.0,8.0,9.0,Saturday,0.0,0.0,True,6,Oct,10,0
+Bouquet Gardens,tweedie|full,2025-10-27,4,7.0,19.0,0.0,Monday,3.0,3.0,True,1,Oct,10,0
+Bouquet Gardens,tweedie|full,2025-10-28,6,8.0,20.0,12.0,Tuesday,2.0,2.0,True,2,Oct,10,0
+Bouquet Gardens,tweedie|full,2025-10-29,49,7.0,19.0,9.0,Wednesday,-42.0,42.0,False,3,Oct,10,1
+Bouquet Gardens,tweedie|full,2025-10-30,17,8.0,21.0,26.0,Thursday,-9.0,9.0,True,4,Oct,10,0
+Bouquet Gardens,tweedie|full,2025-10-31,8,7.0,19.0,8.0,Friday,-1.0,1.0,True,5,Oct,10,0
+Bouquet Gardens,tweedie|full,2025-11-01,0,2.0,9.0,21.0,Saturday,2.0,2.0,True,6,Nov,11,0
+Bouquet Gardens,tweedie|full,2025-11-03,17,7.0,20.0,2.0,Monday,-10.0,10.0,True,1,Nov,11,0
+Bouquet Gardens,tweedie|full,2025-11-04,27,9.0,21.0,4.0,Tuesday,-18.0,18.0,False,2,Nov,11,1
+Bouquet Gardens,tweedie|full,2025-11-05,32,9.0,23.0,6.0,Wednesday,-23.0,23.0,False,3,Nov,11,1
+Bouquet Gardens,tweedie|full,2025-11-06,12,10.0,23.0,49.0,Thursday,-2.0,2.0,True,4,Nov,11,0
+Bouquet Gardens,tweedie|full,2025-11-07,11,7.0,19.0,17.0,Friday,-4.0,4.0,True,5,Nov,11,0
+Bouquet Gardens,tweedie|full,2025-11-08,0,2.0,9.0,8.0,Saturday,2.0,2.0,True,6,Nov,11,0
+Bouquet Gardens,tweedie|full,2025-11-10,3,8.0,21.0,0.0,Monday,5.0,5.0,True,1,Nov,11,0
+Bouquet Gardens,tweedie|full,2025-11-11,15,9.0,22.0,17.0,Tuesday,-6.0,6.0,True,2,Nov,11,0
+Bouquet Gardens,tweedie|full,2025-11-12,4,8.0,21.0,27.0,Wednesday,4.0,4.0,True,3,Nov,11,0
+Bouquet Gardens,tweedie|full,2025-11-13,1,7.0,18.0,32.0,Thursday,6.0,6.0,True,4,Nov,11,0
+Bouquet Gardens,tweedie|full,2025-11-14,26,5.0,15.0,12.0,Friday,-21.0,21.0,False,5,Nov,11,1
+Bouquet Gardens,tweedie|full,2025-11-15,1,1.0,7.0,11.0,Saturday,0.0,0.0,True,6,Nov,11,0
+Bouquet Gardens,tweedie|full,2025-11-17,4,6.0,17.0,0.0,Monday,2.0,2.0,True,1,Nov,11,0
+Bouquet Gardens,tweedie|full,2025-11-18,9,7.0,18.0,3.0,Tuesday,-2.0,2.0,True,2,Nov,11,0
+Bouquet Gardens,tweedie|full,2025-11-19,6,7.0,18.0,15.0,Wednesday,1.0,1.0,True,3,Nov,11,0
+Bouquet Gardens,tweedie|full,2025-11-20,6,0.0,2.0,4.0,Thursday,-6.0,6.0,False,4,Nov,11,1
+Bouquet Gardens,tweedie|full,2025-11-21,4,0.0,2.0,1.0,Friday,-4.0,4.0,False,5,Nov,11,1
+Bouquet Gardens,tweedie|full,2025-11-22,0,0.0,1.0,26.0,Saturday,0.0,0.0,True,6,Nov,11,0
+Bouquet Gardens,tweedie|full,2025-11-24,0,0.0,5.0,1.0,Monday,0.0,0.0,True,1,Nov,11,0
+Bouquet Gardens,tweedie|full,2025-11-25,0,1.0,6.0,4.0,Tuesday,1.0,1.0,True,2,Nov,11,0
+Bouquet Gardens,tweedie|full,2025-11-26,0,2.0,10.0,9.0,Wednesday,2.0,2.0,True,3,Nov,11,0
+Bouquet Gardens,tweedie|full,2025-11-29,0,2.0,10.0,6.0,Saturday,2.0,2.0,True,6,Nov,11,0
+Bouquet Gardens,tweedie|full,2025-12-01,18,8.0,21.0,6.0,Monday,-10.0,10.0,True,1,Dec,12,0
+Bouquet Gardens,tweedie|full,2025-12-02,16,9.0,22.0,4.0,Tuesday,-7.0,7.0,True,2,Dec,12,0
+Bouquet Gardens,tweedie|full,2025-12-03,9,9.0,22.0,0.0,Wednesday,0.0,0.0,True,3,Dec,12,0
+Bouquet Gardens,tweedie|full,2025-12-04,5,10.0,24.0,0.0,Thursday,5.0,5.0,True,4,Dec,12,0
+Bouquet Gardens,tweedie|full,2025-12-05,6,5.0,16.0,0.0,Friday,-1.0,1.0,True,5,Dec,12,0
+Bouquet Gardens,tweedie|full,2025-12-06,0,1.0,7.0,0.0,Saturday,1.0,1.0,True,6,Dec,12,0
+Bouquet Gardens,tweedie|full,2025-12-08,7,6.0,18.0,0.0,Monday,-1.0,1.0,True,1,Dec,12,0
+Bouquet Gardens,tweedie|full,2025-12-09,9,7.0,19.0,18.0,Tuesday,-2.0,2.0,True,2,Dec,12,0
+Bouquet Gardens,tweedie|full,2025-12-10,5,7.0,18.0,16.0,Wednesday,2.0,2.0,True,3,Dec,12,0
+Bouquet Gardens,tweedie|full,2025-12-11,3,6.0,17.0,9.0,Thursday,3.0,3.0,True,4,Dec,12,0
+Bouquet Gardens,tweedie|full,2025-12-12,8,5.0,15.0,5.0,Friday,-3.0,3.0,True,5,Dec,12,0
+Bouquet Gardens,tweedie|full,2025-12-13,0,1.0,7.0,6.0,Saturday,1.0,1.0,True,6,Dec,12,0
+Bouquet Gardens,tweedie|full,2025-12-15,0,6.0,17.0,0.0,Monday,6.0,6.0,True,1,Dec,12,0
+Bouquet Gardens,tweedie|full,2025-12-16,0,6.0,18.0,7.0,Tuesday,6.0,6.0,True,2,Dec,12,0
+Bouquet Gardens,tweedie|full,2025-12-17,0,6.0,17.0,9.0,Wednesday,6.0,6.0,True,3,Dec,12,0
+Bouquet Gardens,tweedie|full,2026-01-03,0,1.0,6.0,5.0,Saturday,1.0,1.0,True,6,Jan,1,0
+Bouquet Gardens,tweedie|full,2026-01-05,0,5.0,16.0,3.0,Monday,5.0,5.0,True,1,Jan,1,0
+Bouquet Gardens,tweedie|full,2026-01-06,0,6.0,16.0,8.0,Tuesday,6.0,6.0,True,2,Jan,1,0
+Bouquet Gardens,tweedie|full,2026-01-07,1,5.0,16.0,0.0,Wednesday,4.0,4.0,True,3,Jan,1,0
+Bouquet Gardens,tweedie|full,2026-01-08,0,5.0,15.0,0.0,Thursday,5.0,5.0,True,4,Jan,1,0
+Bouquet Gardens,tweedie|full,2026-01-09,0,4.0,14.0,0.0,Friday,4.0,4.0,True,5,Jan,1,0
+Bouquet Gardens,tweedie|full,2026-01-10,0,1.0,6.0,0.0,Saturday,1.0,1.0,True,6,Jan,1,0
+Bouquet Gardens,tweedie|full,2026-01-12,9,5.0,15.0,0.0,Monday,-4.0,4.0,True,1,Jan,1,0
+Bouquet Gardens,tweedie|full,2026-01-13,60,6.0,16.0,0.0,Tuesday,-54.0,54.0,False,2,Jan,1,1
+Bouquet Gardens,tweedie|full,2026-01-14,16,7.0,20.0,0.0,Wednesday,-9.0,9.0,True,3,Jan,1,0
+Bouquet Gardens,tweedie|full,2026-01-15,6,7.0,19.0,1.0,Thursday,1.0,1.0,True,4,Jan,1,0
+Bouquet Gardens,tweedie|full,2026-01-16,7,7.0,18.0,0.0,Friday,0.0,0.0,True,5,Jan,1,0
+Bouquet Gardens,tweedie|full,2026-01-17,3,2.0,8.0,0.0,Saturday,-1.0,1.0,True,6,Jan,1,0
+Bouquet Gardens,tweedie|full,2026-01-19,2,0.0,2.0,0.0,Monday,-2.0,2.0,True,1,Jan,1,0
+Bouquet Gardens,tweedie|full,2026-01-20,19,9.0,22.0,9.0,Tuesday,-10.0,10.0,True,2,Jan,1,0
+Bouquet Gardens,tweedie|full,2026-01-21,25,9.0,23.0,60.0,Wednesday,-16.0,16.0,False,3,Jan,1,1
+Bouquet Gardens,tweedie|full,2026-01-22,20,7.0,19.0,16.0,Thursday,-13.0,13.0,False,4,Jan,1,1
+Bouquet Gardens,tweedie|full,2026-01-23,19,6.0,18.0,6.0,Friday,-13.0,13.0,False,5,Jan,1,1
+Bouquet Gardens,tweedie|full,2026-01-24,0,2.0,8.0,7.0,Saturday,2.0,2.0,True,6,Jan,1,0
+Bouquet Gardens,tweedie|full,2026-01-26,0,8.0,20.0,3.0,Monday,8.0,8.0,True,1,Jan,1,0
+Bouquet Gardens,tweedie|full,2026-01-27,18,8.0,21.0,2.0,Tuesday,-10.0,10.0,True,2,Jan,1,0
+Bouquet Gardens,tweedie|full,2026-01-28,21,9.0,22.0,19.0,Wednesday,-12.0,12.0,True,3,Jan,1,0
+Bouquet Gardens,tweedie|full,2026-01-29,8,8.0,20.0,25.0,Thursday,0.0,0.0,True,4,Jan,1,0
+Bouquet Gardens,tweedie|full,2026-01-30,24,7.0,18.0,20.0,Friday,-17.0,17.0,False,5,Jan,1,1
+Bouquet Gardens,tweedie|full,2026-01-31,0,1.0,8.0,19.0,Saturday,1.0,1.0,True,6,Jan,1,0
+Bouquet Gardens,tweedie|full,2026-02-02,8,8.0,20.0,0.0,Monday,0.0,0.0,True,1,Feb,2,0
+Bouquet Gardens,tweedie|full,2026-02-03,25,8.0,21.0,0.0,Tuesday,-17.0,17.0,False,2,Feb,2,1
+Bouquet Gardens,tweedie|full,2026-02-04,29,9.0,21.0,18.0,Wednesday,-20.0,20.0,False,3,Feb,2,1
+Bouquet Gardens,tweedie|full,2026-02-05,20,8.0,21.0,21.0,Thursday,-12.0,12.0,True,4,Feb,2,0
+Bouquet Gardens,tweedie|full,2026-02-06,12,7.0,19.0,8.0,Friday,-5.0,5.0,True,5,Feb,2,0
+Bouquet Gardens,tweedie|full,2026-02-07,0,2.0,9.0,24.0,Saturday,2.0,2.0,True,6,Feb,2,0
+Bouquet Gardens,tweedie|full,2026-02-09,15,10.0,24.0,0.0,Monday,-5.0,5.0,True,1,Feb,2,0
+Bouquet Gardens,tweedie|full,2026-02-10,35,13.0,28.0,8.0,Tuesday,-22.0,22.0,False,2,Feb,2,1
+Bouquet Gardens,tweedie|full,2026-02-11,28,16.0,32.0,25.0,Wednesday,-12.0,12.0,True,3,Feb,2,0
+Bouquet Gardens,tweedie|full,2026-02-12,9,17.0,33.0,29.0,Thursday,8.0,8.0,True,4,Feb,2,0
+Bouquet Gardens,tweedie|full,2026-02-13,30,16.0,32.0,20.0,Friday,-14.0,14.0,True,5,Feb,2,0
+Bouquet Gardens,tweedie|full,2026-02-14,4,6.0,17.0,12.0,Saturday,2.0,2.0,True,6,Feb,2,0
+Bouquet Gardens,tweedie|full,2026-02-16,30,0.0,3.0,0.0,Monday,-30.0,30.0,False,1,Feb,2,1
+Bouquet Gardens,tweedie|full,2026-02-17,28,11.0,25.0,15.0,Tuesday,-17.0,17.0,False,2,Feb,2,1
+Bouquet Gardens,tweedie|full,2026-02-18,1,11.0,25.0,35.0,Wednesday,10.0,10.0,True,3,Feb,2,0
+Bouquet Gardens,tweedie|full,2026-02-19,32,9.0,21.0,28.0,Thursday,-23.0,23.0,False,4,Feb,2,1
+Bouquet Gardens,tweedie|full,2026-02-20,9,8.0,20.0,9.0,Friday,-1.0,1.0,True,5,Feb,2,0
+Bouquet Gardens,tweedie|full,2026-02-21,2,2.0,9.0,30.0,Saturday,0.0,0.0,True,6,Feb,2,0
+Bouquet Gardens,tweedie|full,2026-02-23,16,8.0,21.0,4.0,Monday,-8.0,8.0,True,1,Feb,2,0
+Bouquet Gardens,tweedie|full,2026-02-24,19,9.0,22.0,30.0,Tuesday,-10.0,10.0,True,2,Feb,2,0
+Bouquet Gardens,tweedie|full,2026-02-25,12,8.0,21.0,28.0,Wednesday,-4.0,4.0,True,3,Feb,2,0
+Bouquet Gardens,tweedie|full,2026-02-26,8,7.0,19.0,1.0,Thursday,-1.0,1.0,True,4,Feb,2,0
+Bouquet Gardens,tweedie|full,2026-02-27,3,6.0,18.0,32.0,Friday,3.0,3.0,True,5,Feb,2,0
+Bouquet Gardens,tweedie|full,2026-02-28,1,1.0,7.0,9.0,Saturday,0.0,0.0,True,6,Feb,2,0
+Bouquet Gardens,tweedie|full,2026-03-02,6,6.0,18.0,2.0,Monday,0.0,0.0,True,1,Mar,3,0
+Bouquet Gardens,tweedie|full,2026-03-03,5,7.0,19.0,16.0,Tuesday,2.0,2.0,True,2,Mar,3,0
+Bouquet Gardens,tweedie|full,2026-03-04,12,6.0,18.0,19.0,Wednesday,-6.0,6.0,True,3,Mar,3,0
+Bouquet Gardens,tweedie|full,2026-03-05,12,8.0,20.0,12.0,Thursday,-4.0,4.0,True,4,Mar,3,0
+Bouquet Gardens,tweedie|full,2026-03-06,1,7.0,19.0,8.0,Friday,6.0,6.0,True,5,Mar,3,0
+Bouquet Gardens,tweedie|full,2026-03-07,0,1.0,8.0,3.0,Saturday,1.0,1.0,True,6,Mar,3,0
+Bouquet Gardens,tweedie|full,2026-03-09,1,8.0,20.0,1.0,Monday,7.0,7.0,True,1,Mar,3,0
+Bouquet Gardens,tweedie|full,2026-03-10,0,9.0,21.0,6.0,Tuesday,9.0,9.0,True,2,Mar,3,0
+Bouquet Gardens,tweedie|full,2026-03-11,0,8.0,21.0,5.0,Wednesday,8.0,8.0,True,3,Mar,3,0
+Bouquet Gardens,tweedie|full,2026-03-12,0,7.0,19.0,12.0,Thursday,7.0,7.0,True,4,Mar,3,0
+Bouquet Gardens,tweedie|full,2026-03-13,0,6.0,17.0,12.0,Friday,6.0,6.0,True,5,Mar,3,0
+Bouquet Gardens,tweedie|full,2026-03-14,0,1.0,7.0,1.0,Saturday,1.0,1.0,True,6,Mar,3,0
+Bouquet Gardens,tweedie|full,2026-03-16,37,5.0,15.0,0.0,Monday,-32.0,32.0,False,1,Mar,3,1
+Bouquet Gardens,tweedie|full,2026-03-17,17,6.0,18.0,1.0,Tuesday,-11.0,11.0,True,2,Mar,3,0
+Bouquet Gardens,tweedie|full,2026-03-18,27,7.0,18.0,0.0,Wednesday,-20.0,20.0,False,3,Mar,3,1
+Bouquet Gardens,tweedie|full,2026-03-19,12,7.0,19.0,0.0,Thursday,-5.0,5.0,True,4,Mar,3,0
+Bouquet Gardens,tweedie|full,2026-03-20,0,7.0,18.0,0.0,Friday,7.0,7.0,True,5,Mar,3,0
+Bouquet Gardens,tweedie|full,2026-03-21,1,1.0,8.0,0.0,Saturday,0.0,0.0,True,6,Mar,3,0
+Bouquet Gardens,tweedie|full,2026-03-23,10,8.0,20.0,0.0,Monday,-2.0,2.0,True,1,Mar,3,0
+Bouquet Gardens,tweedie|full,2026-03-24,22,9.0,22.0,37.0,Tuesday,-13.0,13.0,True,2,Mar,3,0
+Bouquet Gardens,tweedie|full,2026-03-25,31,8.0,21.0,17.0,Wednesday,-23.0,23.0,False,3,Mar,3,1
+Bouquet Gardens,tweedie|full,2026-03-26,16,8.0,20.0,27.0,Thursday,-8.0,8.0,True,4,Mar,3,0
+Bouquet Gardens,tweedie|full,2026-03-27,2,7.0,18.0,12.0,Friday,5.0,5.0,True,5,Mar,3,0
+Bouquet Gardens,tweedie|full,2026-03-28,2,1.0,7.0,0.0,Saturday,-1.0,1.0,True,6,Mar,3,0
+Bouquet Gardens,tweedie|full,2026-03-30,14,8.0,20.0,1.0,Monday,-6.0,6.0,True,1,Mar,3,0
+Bouquet Gardens,tweedie|full,2026-03-31,2,9.0,22.0,10.0,Tuesday,7.0,7.0,True,2,Mar,3,0
+Bouquet Gardens,tweedie|full,2026-04-01,29,8.0,21.0,22.0,Wednesday,-21.0,21.0,False,3,Apr,4,1
+Bouquet Gardens,tweedie|full,2026-04-02,2,8.0,20.0,31.0,Thursday,6.0,6.0,True,4,Apr,4,0
+Bouquet Gardens,tweedie|full,2026-04-03,23,6.0,17.0,16.0,Friday,-17.0,17.0,False,5,Apr,4,1
+Bouquet Gardens,tweedie|full,2026-04-04,0,1.0,7.0,2.0,Saturday,1.0,1.0,True,6,Apr,4,0
+Bouquet Gardens,tweedie|full,2026-04-06,5,7.0,19.0,2.0,Monday,2.0,2.0,True,1,Apr,4,0
+Bouquet Gardens,tweedie|full,2026-04-07,14,8.0,20.0,14.0,Tuesday,-6.0,6.0,True,2,Apr,4,0
+Bouquet Gardens,tweedie|full,2026-04-08,35,7.0,20.0,2.0,Wednesday,-28.0,28.0,False,3,Apr,4,1
+Bouquet Gardens,tweedie|full,2026-04-09,0,8.0,20.0,29.0,Thursday,8.0,8.0,True,4,Apr,4,0
+Bouquet Gardens,tweedie|full,2026-04-10,2,6.0,17.0,2.0,Friday,4.0,4.0,True,5,Apr,4,0
+Bouquet Gardens,tweedie|full,2026-04-11,1,1.0,7.0,23.0,Saturday,0.0,0.0,True,6,Apr,4,0
+Bouquet Gardens,tweedie|full,2026-04-13,14,6.0,18.0,0.0,Monday,-8.0,8.0,True,1,Apr,4,0
+Bouquet Gardens,tweedie|full,2026-04-14,6,7.0,19.0,5.0,Tuesday,1.0,1.0,True,2,Apr,4,0
+Bouquet Gardens,tweedie|full,2026-04-15,13,7.0,19.0,14.0,Wednesday,-6.0,6.0,True,3,Apr,4,0
+Bouquet Gardens,tweedie|full,2026-04-16,12,6.0,18.0,35.0,Thursday,-6.0,6.0,True,4,Apr,4,0
+Bouquet Gardens,tweedie|full,2026-04-17,0,5.0,15.0,0.0,Friday,5.0,5.0,True,5,Apr,4,0
+Bouquet Gardens,tweedie|full,2026-04-18,0,1.0,6.0,2.0,Saturday,1.0,1.0,True,6,Apr,4,0
+Bouquet Gardens,tweedie|full,2026-04-20,6,6.0,17.0,1.0,Monday,0.0,0.0,True,1,Apr,4,0
+Bouquet Gardens,tweedie|full,2026-04-21,8,7.0,18.0,14.0,Tuesday,-1.0,1.0,True,2,Apr,4,0
+Bouquet Gardens,tweedie|full,2026-04-22,8,1.0,7.0,6.0,Wednesday,-7.0,7.0,False,3,Apr,4,1
+Bouquet Gardens,tweedie|full,2026-04-23,12,1.0,6.0,13.0,Thursday,-11.0,11.0,False,4,Apr,4,1
+Bouquet Gardens,tweedie|full,2026-04-24,14,1.0,6.0,12.0,Friday,-13.0,13.0,False,5,Apr,4,1
+Bouquet Gardens,tweedie|full,2026-04-25,0,0.0,1.0,0.0,Saturday,0.0,0.0,True,6,Apr,4,0
+Bouquet Gardens,tweedie|full,2026-04-27,0,1.0,7.0,0.0,Monday,1.0,1.0,True,1,Apr,4,0
+Bouquet Gardens,tweedie|full,2026-04-28,4,1.0,7.0,6.0,Tuesday,-3.0,3.0,True,2,Apr,4,0
+Bouquet Gardens,tweedie|full,2026-04-29,3,1.0,7.0,8.0,Wednesday,-2.0,2.0,True,3,Apr,4,0
+Bouquet Gardens,tweedie|full,2026-04-30,0,1.0,6.0,8.0,Thursday,1.0,1.0,True,4,Apr,4,0
+Bouquet Gardens,tweedie|full,2026-05-01,0,1.0,5.0,12.0,Friday,1.0,1.0,True,5,May,5,0
+Bouquet Gardens,tweedie|full,2026-05-02,0,0.0,1.0,14.0,Saturday,0.0,0.0,True,6,May,5,0
+Bouquet Gardens,tweedie|full,2026-08-17,0,4.0,14.0,0.0,Monday,4.0,4.0,True,1,Aug,8,0
+Bouquet Gardens,tweedie|full,2026-08-18,0,4.0,14.0,0.0,Tuesday,4.0,4.0,True,2,Aug,8,0
+Bouquet Gardens,tweedie|full,2026-08-19,15,4.0,14.0,4.0,Wednesday,-11.0,11.0,False,3,Aug,8,1
+Bouquet Gardens,tweedie|full,2026-08-20,0,4.0,14.0,3.0,Thursday,4.0,4.0,True,4,Aug,8,0
+Bouquet Gardens,tweedie|full,2026-08-21,14,3.0,13.0,0.0,Friday,-11.0,11.0,False,5,Aug,8,1
+Bouquet Gardens,tweedie|full,2026-08-22,0,0.0,4.0,0.0,Saturday,0.0,0.0,True,6,Aug,8,0
+Bouquet Gardens,tweedie|full,2026-08-24,7,5.0,15.0,0.0,Monday,-2.0,2.0,True,1,Aug,8,0
+Bouquet Gardens,tweedie|full,2026-08-25,63,5.0,16.0,0.0,Tuesday,-58.0,58.0,False,2,Aug,8,1
+Bouquet Gardens,tweedie|full,2026-08-26,21,7.0,19.0,0.0,Wednesday,-14.0,14.0,False,3,Aug,8,1
+Bouquet Gardens,tweedie|full,2026-08-27,6,7.0,19.0,15.0,Thursday,1.0,1.0,True,4,Aug,8,0
+Bouquet Gardens,tweedie|full,2026-08-28,19,6.0,17.0,0.0,Friday,-13.0,13.0,False,5,Aug,8,1
+Bouquet Gardens,tweedie|full,2026-08-29,4,1.0,7.0,14.0,Saturday,-3.0,3.0,True,6,Aug,8,0
+Bouquet Gardens,tweedie|full,2026-08-31,11,8.0,20.0,0.0,Monday,-3.0,3.0,True,1,Aug,8,0
+Bouquet Gardens,tweedie|full,2026-09-01,12,9.0,22.0,7.0,Tuesday,-3.0,3.0,True,2,Sep,9,0
+Bouquet Gardens,tweedie|full,2026-09-02,18,9.0,22.0,63.0,Wednesday,-9.0,9.0,True,3,Sep,9,0
+Bouquet Gardens,tweedie|full,2026-09-03,7,6.0,17.0,21.0,Thursday,-1.0,1.0,True,4,Sep,9,0
+Bouquet Gardens,tweedie|full,2026-09-04,9,5.0,15.0,6.0,Friday,-4.0,4.0,True,5,Sep,9,0
+Bouquet Gardens,tweedie|full,2026-09-05,0,1.0,5.0,19.0,Saturday,1.0,1.0,True,6,Sep,9,0
+Bouquet Gardens,tweedie|full,2026-09-07,0,0.0,1.0,4.0,Monday,0.0,0.0,True,1,Sep,9,0
+Bouquet Gardens,tweedie|full,2026-09-08,17,6.0,17.0,11.0,Tuesday,-11.0,11.0,True,2,Sep,9,0
+Bouquet Gardens,tweedie|full,2026-09-09,9,6.0,17.0,12.0,Wednesday,-3.0,3.0,True,3,Sep,9,0
+Bouquet Gardens,tweedie|full,2026-09-10,18,5.0,16.0,18.0,Thursday,-13.0,13.0,False,4,Sep,9,1
+Bouquet Gardens,tweedie|full,2026-09-11,16,6.0,16.0,7.0,Friday,-10.0,10.0,True,5,Sep,9,0
+Bouquet Gardens,tweedie|full,2026-09-12,1,1.0,6.0,9.0,Saturday,0.0,0.0,True,6,Sep,9,0
+Bouquet Gardens,tweedie|full,2026-09-14,1,7.0,18.0,0.0,Monday,6.0,6.0,True,1,Sep,9,0
+Bouquet Gardens,tweedie|full,2026-09-15,2,7.0,19.0,0.0,Tuesday,5.0,5.0,True,2,Sep,9,0
+Bouquet Gardens,tweedie|full,2026-09-16,2,7.0,19.0,17.0,Wednesday,5.0,5.0,True,3,Sep,9,0
+Bouquet Gardens,tweedie|full,2026-09-17,0,6.0,17.0,9.0,Thursday,6.0,6.0,True,4,Sep,9,0
+Bouquet Gardens,tweedie|full,2026-09-18,11,5.0,15.0,18.0,Friday,-6.0,6.0,True,5,Sep,9,0
+Lothrop,bayes_ridge|lean_noev,2025-09-19,4,13.0,24.0,4.0,Friday,9.0,9.0,True,5,Sep,9,0
+Lothrop,bayes_ridge|lean_noev,2025-09-20,0,0.0,4.0,47.0,Saturday,0.0,0.0,True,6,Sep,9,0
+Lothrop,bayes_ridge|lean_noev,2025-09-22,18,13.0,25.0,0.0,Monday,-5.0,5.0,True,1,Sep,9,0
+Lothrop,bayes_ridge|lean_noev,2025-09-23,21,13.0,25.0,13.0,Tuesday,-8.0,8.0,True,2,Sep,9,0
+Lothrop,bayes_ridge|lean_noev,2025-09-24,11,13.0,25.0,24.0,Wednesday,2.0,2.0,True,3,Sep,9,0
+Lothrop,bayes_ridge|lean_noev,2025-09-25,0,13.0,24.0,4.0,Thursday,13.0,13.0,True,4,Sep,9,0
+Lothrop,bayes_ridge|lean_noev,2025-09-26,6,13.0,24.0,9.0,Friday,7.0,7.0,True,5,Sep,9,0
+Lothrop,bayes_ridge|lean_noev,2025-09-27,0,0.0,4.0,4.0,Saturday,0.0,0.0,True,6,Sep,9,0
+Lothrop,bayes_ridge|lean_noev,2025-09-29,29,13.0,25.0,0.0,Monday,-16.0,16.0,False,1,Sep,9,1
+Lothrop,bayes_ridge|lean_noev,2025-09-30,34,12.0,23.0,18.0,Tuesday,-22.0,22.0,False,2,Sep,9,1
+Lothrop,bayes_ridge|lean_noev,2025-10-01,11,13.0,24.0,21.0,Wednesday,2.0,2.0,True,3,Oct,10,0
+Lothrop,bayes_ridge|lean_noev,2025-10-02,10,12.0,23.0,11.0,Thursday,2.0,2.0,True,4,Oct,10,0
+Lothrop,bayes_ridge|lean_noev,2025-10-03,19,12.0,23.0,0.0,Friday,-7.0,7.0,True,5,Oct,10,0
+Lothrop,bayes_ridge|lean_noev,2025-10-04,1,0.0,4.0,6.0,Saturday,-1.0,1.0,True,6,Oct,10,0
+Lothrop,bayes_ridge|lean_noev,2025-10-06,13,13.0,25.0,0.0,Monday,0.0,0.0,True,1,Oct,10,0
+Lothrop,bayes_ridge|lean_noev,2025-10-07,22,13.0,25.0,29.0,Tuesday,-9.0,9.0,True,2,Oct,10,0
+Lothrop,bayes_ridge|lean_noev,2025-10-08,22,13.0,25.0,34.0,Wednesday,-9.0,9.0,True,3,Oct,10,0
+Lothrop,bayes_ridge|lean_noev,2025-10-09,4,13.0,24.0,11.0,Thursday,9.0,9.0,True,4,Oct,10,0
+Lothrop,bayes_ridge|lean_noev,2025-10-10,12,13.0,24.0,10.0,Friday,1.0,1.0,True,5,Oct,10,0
+Lothrop,bayes_ridge|lean_noev,2025-10-11,0,1.0,4.0,19.0,Saturday,1.0,1.0,True,6,Oct,10,0
+Lothrop,bayes_ridge|lean_noev,2025-10-13,19,14.0,26.0,1.0,Monday,-5.0,5.0,True,1,Oct,10,0
+Lothrop,bayes_ridge|lean_noev,2025-10-14,6,14.0,26.0,13.0,Tuesday,8.0,8.0,True,2,Oct,10,0
+Lothrop,bayes_ridge|lean_noev,2025-10-15,4,13.0,25.0,22.0,Wednesday,9.0,9.0,True,3,Oct,10,0
+Lothrop,bayes_ridge|lean_noev,2025-10-16,30,12.0,23.0,22.0,Thursday,-18.0,18.0,False,4,Oct,10,1
+Lothrop,bayes_ridge|lean_noev,2025-10-17,15,12.0,24.0,4.0,Friday,-3.0,3.0,True,5,Oct,10,0
+Lothrop,bayes_ridge|lean_noev,2025-10-18,0,0.0,4.0,12.0,Saturday,0.0,0.0,True,6,Oct,10,0
+Lothrop,bayes_ridge|lean_noev,2025-10-20,24,13.0,25.0,0.0,Monday,-11.0,11.0,True,1,Oct,10,0
+Lothrop,bayes_ridge|lean_noev,2025-10-21,44,13.0,25.0,19.0,Tuesday,-31.0,31.0,False,2,Oct,10,1
+Lothrop,bayes_ridge|lean_noev,2025-10-22,8,14.0,26.0,6.0,Wednesday,6.0,6.0,True,3,Oct,10,0
+Lothrop,bayes_ridge|lean_noev,2025-10-23,6,13.0,25.0,4.0,Thursday,7.0,7.0,True,4,Oct,10,0
+Lothrop,bayes_ridge|lean_noev,2025-10-24,17,13.0,25.0,30.0,Friday,-4.0,4.0,True,5,Oct,10,0
+Lothrop,bayes_ridge|lean_noev,2025-10-25,1,1.0,4.0,15.0,Saturday,0.0,0.0,True,6,Oct,10,0
+Lothrop,bayes_ridge|lean_noev,2025-10-27,57,14.0,26.0,0.0,Monday,-43.0,43.0,False,1,Oct,10,1
+Lothrop,bayes_ridge|lean_noev,2025-10-28,5,15.0,27.0,24.0,Tuesday,10.0,10.0,True,2,Oct,10,0
+Lothrop,bayes_ridge|lean_noev,2025-10-29,59,15.0,26.0,44.0,Wednesday,-44.0,44.0,False,3,Oct,10,1
+Lothrop,bayes_ridge|lean_noev,2025-10-30,10,16.0,28.0,8.0,Thursday,6.0,6.0,True,4,Oct,10,0
+Lothrop,bayes_ridge|lean_noev,2025-10-31,38,16.0,28.0,6.0,Friday,-22.0,22.0,False,5,Oct,10,1
+Lothrop,bayes_ridge|lean_noev,2025-11-01,2,4.0,11.0,17.0,Saturday,2.0,2.0,True,6,Nov,11,0
+Lothrop,bayes_ridge|lean_noev,2025-11-03,17,17.0,30.0,1.0,Monday,0.0,0.0,True,1,Nov,11,0
+Lothrop,bayes_ridge|lean_noev,2025-11-04,29,17.0,29.0,57.0,Tuesday,-12.0,12.0,True,2,Nov,11,0
+Lothrop,bayes_ridge|lean_noev,2025-11-05,5,17.0,30.0,5.0,Wednesday,12.0,12.0,True,3,Nov,11,0
+Lothrop,bayes_ridge|lean_noev,2025-11-06,2,16.0,28.0,59.0,Thursday,14.0,14.0,True,4,Nov,11,0
+Lothrop,bayes_ridge|lean_noev,2025-11-07,5,15.0,27.0,10.0,Friday,10.0,10.0,True,5,Nov,11,0
+Lothrop,bayes_ridge|lean_noev,2025-11-08,2,2.0,8.0,38.0,Saturday,0.0,0.0,True,6,Nov,11,0
+Lothrop,bayes_ridge|lean_noev,2025-11-10,20,16.0,28.0,2.0,Monday,-4.0,4.0,True,1,Nov,11,0
+Lothrop,bayes_ridge|lean_noev,2025-11-11,18,16.0,28.0,17.0,Tuesday,-2.0,2.0,True,2,Nov,11,0
+Lothrop,bayes_ridge|lean_noev,2025-11-12,0,16.0,28.0,29.0,Wednesday,16.0,16.0,True,3,Nov,11,0
+Lothrop,bayes_ridge|lean_noev,2025-11-13,8,14.0,25.0,5.0,Thursday,6.0,6.0,True,4,Nov,11,0
+Lothrop,bayes_ridge|lean_noev,2025-11-14,23,14.0,26.0,2.0,Friday,-9.0,9.0,True,5,Nov,11,0
+Lothrop,bayes_ridge|lean_noev,2025-11-15,0,0.0,4.0,5.0,Saturday,0.0,0.0,True,6,Nov,11,0
+Lothrop,bayes_ridge|lean_noev,2025-11-17,13,14.0,26.0,2.0,Monday,1.0,1.0,True,1,Nov,11,0
+Lothrop,bayes_ridge|lean_noev,2025-11-18,16,13.0,24.0,20.0,Tuesday,-3.0,3.0,True,2,Nov,11,0
+Lothrop,bayes_ridge|lean_noev,2025-11-19,8,13.0,24.0,18.0,Wednesday,5.0,5.0,True,3,Nov,11,0
+Lothrop,bayes_ridge|lean_noev,2025-11-20,7,12.0,23.0,0.0,Thursday,5.0,5.0,True,4,Nov,11,0
+Lothrop,bayes_ridge|lean_noev,2025-11-21,0,12.0,22.0,8.0,Friday,12.0,12.0,True,5,Nov,11,0
+Lothrop,bayes_ridge|lean_noev,2025-11-22,5,0.0,0.0,23.0,Saturday,-5.0,5.0,False,6,Nov,11,1
+Lothrop,bayes_ridge|lean_noev,2025-11-24,0,12.0,24.0,0.0,Monday,12.0,12.0,True,1,Nov,11,0
+Lothrop,bayes_ridge|lean_noev,2025-11-25,0,12.0,23.0,13.0,Tuesday,12.0,12.0,True,2,Nov,11,0
+Lothrop,bayes_ridge|lean_noev,2025-11-26,0,11.0,22.0,16.0,Wednesday,11.0,11.0,True,3,Nov,11,0
+Lothrop,bayes_ridge|lean_noev,2025-11-29,0,0.0,0.0,8.0,Saturday,0.0,0.0,True,6,Nov,11,0
+Lothrop,bayes_ridge|lean_noev,2025-12-01,25,11.0,22.0,7.0,Monday,-14.0,14.0,False,1,Dec,12,1
+Lothrop,bayes_ridge|lean_noev,2025-12-02,17,11.0,22.0,0.0,Tuesday,-6.0,6.0,True,2,Dec,12,0
+Lothrop,bayes_ridge|lean_noev,2025-12-03,11,11.0,21.0,5.0,Wednesday,0.0,0.0,True,3,Dec,12,0
+Lothrop,bayes_ridge|lean_noev,2025-12-04,6,10.0,20.0,0.0,Thursday,4.0,4.0,True,4,Dec,12,0
+Lothrop,bayes_ridge|lean_noev,2025-12-05,10,10.0,21.0,0.0,Friday,0.0,0.0,True,5,Dec,12,0
+Lothrop,bayes_ridge|lean_noev,2025-12-06,0,0.0,0.0,0.0,Saturday,0.0,0.0,True,6,Dec,12,0
+Lothrop,bayes_ridge|lean_noev,2025-12-08,2,11.0,22.0,0.0,Monday,9.0,9.0,True,1,Dec,12,0
+Lothrop,bayes_ridge|lean_noev,2025-12-09,13,10.0,21.0,25.0,Tuesday,-3.0,3.0,True,2,Dec,12,0
+Lothrop,bayes_ridge|lean_noev,2025-12-10,0,10.0,20.0,17.0,Wednesday,10.0,10.0,True,3,Dec,12,0
+Lothrop,bayes_ridge|lean_noev,2025-12-11,19,9.0,19.0,11.0,Thursday,-10.0,10.0,True,4,Dec,12,0
+Lothrop,bayes_ridge|lean_noev,2025-12-12,0,10.0,20.0,6.0,Friday,10.0,10.0,True,5,Dec,12,0
+Lothrop,bayes_ridge|lean_noev,2025-12-13,2,0.0,0.0,10.0,Saturday,-2.0,2.0,False,6,Dec,12,1
+Lothrop,bayes_ridge|lean_noev,2025-12-15,0,11.0,22.0,0.0,Monday,11.0,11.0,True,1,Dec,12,0
+Lothrop,bayes_ridge|lean_noev,2025-12-16,0,11.0,21.0,2.0,Tuesday,11.0,11.0,True,2,Dec,12,0
+Lothrop,bayes_ridge|lean_noev,2025-12-17,0,10.0,20.0,13.0,Wednesday,10.0,10.0,True,3,Dec,12,0
+Lothrop,bayes_ridge|lean_noev,2026-01-03,0,0.0,0.0,0.0,Saturday,0.0,0.0,True,6,Jan,1,0
+Lothrop,bayes_ridge|lean_noev,2026-01-05,0,10.0,20.0,19.0,Monday,10.0,10.0,True,1,Jan,1,0
+Lothrop,bayes_ridge|lean_noev,2026-01-06,0,9.0,19.0,0.0,Tuesday,9.0,9.0,True,2,Jan,1,0
+Lothrop,bayes_ridge|lean_noev,2026-01-07,0,8.0,18.0,2.0,Wednesday,8.0,8.0,True,3,Jan,1,0
+Lothrop,bayes_ridge|lean_noev,2026-01-08,0,8.0,17.0,0.0,Thursday,8.0,8.0,True,4,Jan,1,0
+Lothrop,bayes_ridge|lean_noev,2026-01-09,0,8.0,17.0,0.0,Friday,8.0,8.0,True,5,Jan,1,0
+Lothrop,bayes_ridge|lean_noev,2026-01-10,0,0.0,0.0,0.0,Saturday,0.0,0.0,True,6,Jan,1,0
+Lothrop,bayes_ridge|lean_noev,2026-01-12,100,9.0,18.0,0.0,Monday,-91.0,91.0,False,1,Jan,1,1
+Lothrop,bayes_ridge|lean_noev,2026-01-13,34,11.0,22.0,0.0,Tuesday,-23.0,23.0,False,2,Jan,1,1
+Lothrop,bayes_ridge|lean_noev,2026-01-14,13,11.0,22.0,0.0,Wednesday,-2.0,2.0,True,3,Jan,1,0
+Lothrop,bayes_ridge|lean_noev,2026-01-15,13,11.0,22.0,0.0,Thursday,-2.0,2.0,True,4,Jan,1,0
+Lothrop,bayes_ridge|lean_noev,2026-01-16,17,12.0,23.0,0.0,Friday,-5.0,5.0,True,5,Jan,1,0
+Lothrop,bayes_ridge|lean_noev,2026-01-17,5,0.0,0.0,0.0,Saturday,-5.0,5.0,False,6,Jan,1,1
+Lothrop,bayes_ridge|lean_noev,2026-01-19,4,14.0,25.0,0.0,Monday,10.0,10.0,True,1,Jan,1,0
+Lothrop,bayes_ridge|lean_noev,2026-01-20,23,13.0,25.0,100.0,Tuesday,-10.0,10.0,True,2,Jan,1,0
+Lothrop,bayes_ridge|lean_noev,2026-01-21,28,13.0,25.0,34.0,Wednesday,-15.0,15.0,False,3,Jan,1,1
+Lothrop,bayes_ridge|lean_noev,2026-01-22,26,14.0,25.0,13.0,Thursday,-12.0,12.0,False,4,Jan,1,1
+Lothrop,bayes_ridge|lean_noev,2026-01-23,20,15.0,27.0,13.0,Friday,-5.0,5.0,True,5,Jan,1,0
+Lothrop,bayes_ridge|lean_noev,2026-01-24,5,1.0,6.0,17.0,Saturday,-4.0,4.0,True,6,Jan,1,0
+Lothrop,bayes_ridge|lean_noev,2026-01-26,3,17.0,29.0,5.0,Monday,14.0,14.0,True,1,Jan,1,0
+Lothrop,bayes_ridge|lean_noev,2026-01-27,8,16.0,29.0,4.0,Tuesday,8.0,8.0,True,2,Jan,1,0
+Lothrop,bayes_ridge|lean_noev,2026-01-28,34,16.0,28.0,23.0,Wednesday,-18.0,18.0,False,3,Jan,1,1
+Lothrop,bayes_ridge|lean_noev,2026-01-29,17,14.0,26.0,28.0,Thursday,-3.0,3.0,True,4,Jan,1,0
+Lothrop,bayes_ridge|lean_noev,2026-01-30,5,14.0,25.0,26.0,Friday,9.0,9.0,True,5,Jan,1,0
+Lothrop,bayes_ridge|lean_noev,2026-01-31,6,0.0,2.0,20.0,Saturday,-6.0,6.0,False,6,Jan,1,1
+Lothrop,bayes_ridge|lean_noev,2026-02-02,5,14.0,26.0,5.0,Monday,9.0,9.0,True,1,Feb,2,0
+Lothrop,bayes_ridge|lean_noev,2026-02-03,35,14.0,25.0,3.0,Tuesday,-21.0,21.0,False,2,Feb,2,1
+Lothrop,bayes_ridge|lean_noev,2026-02-04,36,14.0,26.0,8.0,Wednesday,-22.0,22.0,False,3,Feb,2,1
+Lothrop,bayes_ridge|lean_noev,2026-02-05,2,15.0,27.0,34.0,Thursday,13.0,13.0,True,4,Feb,2,0
+Lothrop,bayes_ridge|lean_noev,2026-02-06,22,14.0,26.0,17.0,Friday,-8.0,8.0,True,5,Feb,2,0
+Lothrop,bayes_ridge|lean_noev,2026-02-07,2,0.0,3.0,5.0,Saturday,-2.0,2.0,True,6,Feb,2,0
+Lothrop,bayes_ridge|lean_noev,2026-02-09,34,15.0,27.0,6.0,Monday,-19.0,19.0,False,1,Feb,2,1
+Lothrop,bayes_ridge|lean_noev,2026-02-10,49,15.0,27.0,5.0,Tuesday,-34.0,34.0,False,2,Feb,2,1
+Lothrop,bayes_ridge|lean_noev,2026-02-11,39,16.0,28.0,35.0,Wednesday,-23.0,23.0,False,3,Feb,2,1
+Lothrop,bayes_ridge|lean_noev,2026-02-12,17,16.0,29.0,36.0,Thursday,-1.0,1.0,True,4,Feb,2,0
+Lothrop,bayes_ridge|lean_noev,2026-02-13,33,17.0,30.0,2.0,Friday,-16.0,16.0,False,5,Feb,2,1
+Lothrop,bayes_ridge|lean_noev,2026-02-14,17,2.0,8.0,22.0,Saturday,-15.0,15.0,False,6,Feb,2,1
+Lothrop,bayes_ridge|lean_noev,2026-02-16,33,18.0,31.0,2.0,Monday,-15.0,15.0,False,1,Feb,2,1
+Lothrop,bayes_ridge|lean_noev,2026-02-17,4,18.0,31.0,34.0,Tuesday,14.0,14.0,True,2,Feb,2,0
+Lothrop,bayes_ridge|lean_noev,2026-02-18,55,18.0,30.0,49.0,Wednesday,-37.0,37.0,False,3,Feb,2,1
+Lothrop,bayes_ridge|lean_noev,2026-02-19,20,19.0,32.0,39.0,Thursday,-1.0,1.0,True,4,Feb,2,0
+Lothrop,bayes_ridge|lean_noev,2026-02-20,13,18.0,32.0,17.0,Friday,5.0,5.0,True,5,Feb,2,0
+Lothrop,bayes_ridge|lean_noev,2026-02-21,1,3.0,9.0,33.0,Saturday,2.0,2.0,True,6,Feb,2,0
+Lothrop,bayes_ridge|lean_noev,2026-02-23,25,19.0,32.0,17.0,Monday,-6.0,6.0,True,1,Feb,2,0
+Lothrop,bayes_ridge|lean_noev,2026-02-24,25,19.0,32.0,33.0,Tuesday,-6.0,6.0,True,2,Feb,2,0
+Lothrop,bayes_ridge|lean_noev,2026-02-25,10,19.0,32.0,4.0,Wednesday,9.0,9.0,True,3,Feb,2,0
+Lothrop,bayes_ridge|lean_noev,2026-02-26,9,18.0,30.0,55.0,Thursday,9.0,9.0,True,4,Feb,2,0
+Lothrop,bayes_ridge|lean_noev,2026-02-27,14,17.0,29.0,20.0,Friday,3.0,3.0,True,5,Feb,2,0
+Lothrop,bayes_ridge|lean_noev,2026-02-28,2,1.0,6.0,13.0,Saturday,-1.0,1.0,True,6,Feb,2,0
+Lothrop,bayes_ridge|lean_noev,2026-03-02,20,17.0,29.0,1.0,Monday,-3.0,3.0,True,1,Mar,3,0
+Lothrop,bayes_ridge|lean_noev,2026-03-03,31,16.0,28.0,25.0,Tuesday,-15.0,15.0,False,2,Mar,3,1
+Lothrop,bayes_ridge|lean_noev,2026-03-04,9,16.0,28.0,25.0,Wednesday,7.0,7.0,True,3,Mar,3,0
+Lothrop,bayes_ridge|lean_noev,2026-03-05,23,12.0,23.0,10.0,Thursday,-11.0,11.0,True,4,Mar,3,0
+Lothrop,bayes_ridge|lean_noev,2026-03-06,5,13.0,24.0,9.0,Friday,8.0,8.0,True,5,Mar,3,0
+Lothrop,bayes_ridge|lean_noev,2026-03-07,0,0.0,0.0,14.0,Saturday,0.0,0.0,True,6,Mar,3,0
+Lothrop,bayes_ridge|lean_noev,2026-03-09,0,12.0,23.0,2.0,Monday,12.0,12.0,True,1,Mar,3,0
+Lothrop,bayes_ridge|lean_noev,2026-03-10,0,11.0,22.0,20.0,Tuesday,11.0,11.0,True,2,Mar,3,0
+Lothrop,bayes_ridge|lean_noev,2026-03-11,0,11.0,21.0,31.0,Wednesday,11.0,11.0,True,3,Mar,3,0
+Lothrop,bayes_ridge|lean_noev,2026-03-12,0,9.0,19.0,9.0,Thursday,9.0,9.0,True,4,Mar,3,0
+Lothrop,bayes_ridge|lean_noev,2026-03-13,0,9.0,19.0,23.0,Friday,9.0,9.0,True,5,Mar,3,0
+Lothrop,bayes_ridge|lean_noev,2026-03-14,0,0.0,0.0,5.0,Saturday,0.0,0.0,True,6,Mar,3,0
+Lothrop,bayes_ridge|lean_noev,2026-03-16,43,12.0,23.0,0.0,Monday,-31.0,31.0,False,1,Mar,3,1
+Lothrop,bayes_ridge|lean_noev,2026-03-17,7,12.0,23.0,0.0,Tuesday,5.0,5.0,True,2,Mar,3,0
+Lothrop,bayes_ridge|lean_noev,2026-03-18,30,12.0,23.0,0.0,Wednesday,-18.0,18.0,False,3,Mar,3,1
+Lothrop,bayes_ridge|lean_noev,2026-03-19,14,12.0,23.0,0.0,Thursday,-2.0,2.0,True,4,Mar,3,0
+Lothrop,bayes_ridge|lean_noev,2026-03-20,13,11.0,22.0,0.0,Friday,-2.0,2.0,True,5,Mar,3,0
+Lothrop,bayes_ridge|lean_noev,2026-03-21,0,0.0,0.0,0.0,Saturday,0.0,0.0,True,6,Mar,3,0
+Lothrop,bayes_ridge|lean_noev,2026-03-23,18,12.0,23.0,0.0,Monday,-6.0,6.0,True,1,Mar,3,0
+Lothrop,bayes_ridge|lean_noev,2026-03-24,27,12.0,23.0,43.0,Tuesday,-15.0,15.0,False,2,Mar,3,1
+Lothrop,bayes_ridge|lean_noev,2026-03-25,13,12.0,23.0,7.0,Wednesday,-1.0,1.0,True,3,Mar,3,0
+Lothrop,bayes_ridge|lean_noev,2026-03-26,12,12.0,23.0,30.0,Thursday,0.0,0.0,True,4,Mar,3,0
+Lothrop,bayes_ridge|lean_noev,2026-03-27,15,13.0,24.0,14.0,Friday,-2.0,2.0,True,5,Mar,3,0
+Lothrop,bayes_ridge|lean_noev,2026-03-28,0,0.0,0.0,13.0,Saturday,0.0,0.0,True,6,Mar,3,0
+Lothrop,bayes_ridge|lean_noev,2026-03-30,11,14.0,26.0,0.0,Monday,3.0,3.0,True,1,Mar,3,0
+Lothrop,bayes_ridge|lean_noev,2026-03-31,6,14.0,26.0,18.0,Tuesday,8.0,8.0,True,2,Mar,3,0
+Lothrop,bayes_ridge|lean_noev,2026-04-01,28,13.0,25.0,27.0,Wednesday,-15.0,15.0,False,3,Apr,4,1
+Lothrop,bayes_ridge|lean_noev,2026-04-02,34,13.0,24.0,13.0,Thursday,-21.0,21.0,False,4,Apr,4,1
+Lothrop,bayes_ridge|lean_noev,2026-04-03,0,14.0,25.0,12.0,Friday,14.0,14.0,True,5,Apr,4,0
+Lothrop,bayes_ridge|lean_noev,2026-04-04,12,0.0,0.0,15.0,Saturday,-12.0,12.0,False,6,Apr,4,1
+Lothrop,bayes_ridge|lean_noev,2026-04-06,18,14.0,26.0,0.0,Monday,-4.0,4.0,True,1,Apr,4,0
+Lothrop,bayes_ridge|lean_noev,2026-04-07,31,14.0,25.0,11.0,Tuesday,-17.0,17.0,False,2,Apr,4,1
+Lothrop,bayes_ridge|lean_noev,2026-04-08,15,14.0,26.0,6.0,Wednesday,-1.0,1.0,True,3,Apr,4,0
+Lothrop,bayes_ridge|lean_noev,2026-04-09,2,14.0,25.0,28.0,Thursday,12.0,12.0,True,4,Apr,4,0
+Lothrop,bayes_ridge|lean_noev,2026-04-10,2,13.0,24.0,34.0,Friday,11.0,11.0,True,5,Apr,4,0
+Lothrop,bayes_ridge|lean_noev,2026-04-11,0,0.0,0.0,0.0,Saturday,0.0,0.0,True,6,Apr,4,0
+Lothrop,bayes_ridge|lean_noev,2026-04-13,24,14.0,25.0,12.0,Monday,-10.0,10.0,True,1,Apr,4,0
+Lothrop,bayes_ridge|lean_noev,2026-04-14,18,14.0,25.0,18.0,Tuesday,-4.0,4.0,True,2,Apr,4,0
+Lothrop,bayes_ridge|lean_noev,2026-04-15,16,14.0,25.0,31.0,Wednesday,-2.0,2.0,True,3,Apr,4,0
+Lothrop,bayes_ridge|lean_noev,2026-04-16,14,13.0,25.0,15.0,Thursday,-1.0,1.0,True,4,Apr,4,0
+Lothrop,bayes_ridge|lean_noev,2026-04-17,8,14.0,25.0,2.0,Friday,6.0,6.0,True,5,Apr,4,0
+Lothrop,bayes_ridge|lean_noev,2026-04-18,0,0.0,0.0,2.0,Saturday,0.0,0.0,True,6,Apr,4,0
+Lothrop,bayes_ridge|lean_noev,2026-04-20,10,13.0,25.0,0.0,Monday,3.0,3.0,True,1,Apr,4,0
+Lothrop,bayes_ridge|lean_noev,2026-04-21,21,13.0,25.0,24.0,Tuesday,-8.0,8.0,True,2,Apr,4,0
+Lothrop,bayes_ridge|lean_noev,2026-04-22,9,5.0,12.0,18.0,Wednesday,-4.0,4.0,True,3,Apr,4,0
+Lothrop,bayes_ridge|lean_noev,2026-04-23,3,4.0,11.0,16.0,Thursday,1.0,1.0,True,4,Apr,4,0
+Lothrop,bayes_ridge|lean_noev,2026-04-24,1,3.0,10.0,14.0,Friday,2.0,2.0,True,5,Apr,4,0
+Lothrop,bayes_ridge|lean_noev,2026-04-25,9,0.0,0.0,8.0,Saturday,-9.0,9.0,False,6,Apr,4,1
+Lothrop,bayes_ridge|lean_noev,2026-04-27,2,4.0,12.0,0.0,Monday,2.0,2.0,True,1,Apr,4,0
+Lothrop,bayes_ridge|lean_noev,2026-04-28,7,4.0,11.0,10.0,Tuesday,-3.0,3.0,True,2,Apr,4,0
+Lothrop,bayes_ridge|lean_noev,2026-04-29,8,3.0,10.0,21.0,Wednesday,-5.0,5.0,True,3,Apr,4,0
+Lothrop,bayes_ridge|lean_noev,2026-04-30,0,3.0,9.0,9.0,Thursday,3.0,3.0,True,4,Apr,4,0
+Lothrop,bayes_ridge|lean_noev,2026-05-01,0,2.0,8.0,3.0,Friday,2.0,2.0,True,5,May,5,0
+Lothrop,bayes_ridge|lean_noev,2026-05-02,3,0.0,0.0,1.0,Saturday,-3.0,3.0,False,6,May,5,1
+Lothrop,bayes_ridge|lean_noev,2026-08-17,0,11.0,22.0,9.0,Monday,11.0,11.0,True,1,Aug,8,0
+Lothrop,bayes_ridge|lean_noev,2026-08-18,6,11.0,21.0,2.0,Tuesday,5.0,5.0,True,2,Aug,8,0
+Lothrop,bayes_ridge|lean_noev,2026-08-19,21,10.0,20.0,7.0,Wednesday,-11.0,11.0,False,3,Aug,8,1
+Lothrop,bayes_ridge|lean_noev,2026-08-20,5,10.0,20.0,8.0,Thursday,5.0,5.0,True,4,Aug,8,0
+Lothrop,bayes_ridge|lean_noev,2026-08-21,14,10.0,20.0,0.0,Friday,-4.0,4.0,True,5,Aug,8,0
+Lothrop,bayes_ridge|lean_noev,2026-08-22,0,0.0,0.0,0.0,Saturday,0.0,0.0,True,6,Aug,8,0
+Lothrop,bayes_ridge|lean_noev,2026-08-24,22,11.0,22.0,3.0,Monday,-11.0,11.0,True,1,Aug,8,0
+Lothrop,bayes_ridge|lean_noev,2026-08-25,45,11.0,22.0,0.0,Tuesday,-34.0,34.0,False,2,Aug,8,1
+Lothrop,bayes_ridge|lean_noev,2026-08-26,20,12.0,23.0,6.0,Wednesday,-8.0,8.0,True,3,Aug,8,0
+Lothrop,bayes_ridge|lean_noev,2026-08-27,44,12.0,23.0,21.0,Thursday,-32.0,32.0,False,4,Aug,8,1
+Lothrop,bayes_ridge|lean_noev,2026-08-28,12,13.0,25.0,5.0,Friday,1.0,1.0,True,5,Aug,8,0
+Lothrop,bayes_ridge|lean_noev,2026-08-29,0,0.0,0.0,14.0,Saturday,0.0,0.0,True,6,Aug,8,0
+Lothrop,bayes_ridge|lean_noev,2026-08-31,13,14.0,26.0,0.0,Monday,1.0,1.0,True,1,Aug,8,0
+Lothrop,bayes_ridge|lean_noev,2026-09-01,8,14.0,26.0,22.0,Tuesday,6.0,6.0,True,2,Sep,9,0
+Lothrop,bayes_ridge|lean_noev,2026-09-02,29,14.0,25.0,45.0,Wednesday,-15.0,15.0,False,3,Sep,9,1
+Lothrop,bayes_ridge|lean_noev,2026-09-03,4,14.0,26.0,20.0,Thursday,10.0,10.0,True,4,Sep,9,0
+Lothrop,bayes_ridge|lean_noev,2026-09-04,26,15.0,26.0,44.0,Friday,-11.0,11.0,True,5,Sep,9,0
+Lothrop,bayes_ridge|lean_noev,2026-09-05,0,0.0,0.0,12.0,Saturday,0.0,0.0,True,6,Sep,9,0
+Lothrop,bayes_ridge|lean_noev,2026-09-07,0,16.0,28.0,0.0,Monday,16.0,16.0,True,1,Sep,9,0
+Lothrop,bayes_ridge|lean_noev,2026-09-08,10,15.0,27.0,13.0,Tuesday,5.0,5.0,True,2,Sep,9,0
+Lothrop,bayes_ridge|lean_noev,2026-09-09,14,15.0,26.0,8.0,Wednesday,1.0,1.0,True,3,Sep,9,0
+Lothrop,bayes_ridge|lean_noev,2026-09-10,16,14.0,26.0,29.0,Thursday,-2.0,2.0,True,4,Sep,9,0
+Lothrop,bayes_ridge|lean_noev,2026-09-11,2,13.0,24.0,4.0,Friday,11.0,11.0,True,5,Sep,9,0
+Lothrop,bayes_ridge|lean_noev,2026-09-12,2,0.0,0.0,26.0,Saturday,-2.0,2.0,False,6,Sep,9,1
+Lothrop,bayes_ridge|lean_noev,2026-09-14,6,13.0,24.0,0.0,Monday,7.0,7.0,True,1,Sep,9,0
+Lothrop,bayes_ridge|lean_noev,2026-09-15,5,12.0,23.0,0.0,Tuesday,7.0,7.0,True,2,Sep,9,0
+Lothrop,bayes_ridge|lean_noev,2026-09-16,30,12.0,22.0,10.0,Wednesday,-18.0,18.0,False,3,Sep,9,1
+Lothrop,bayes_ridge|lean_noev,2026-09-17,3,12.0,23.0,14.0,Thursday,9.0,9.0,True,4,Sep,9,0
+Lothrop,bayes_ridge|lean_noev,2026-09-18,7,12.0,23.0,16.0,Friday,5.0,5.0,True,5,Sep,9,0
+Nordenberg,bayes_ridge|full,2025-09-19,1,4.0,11.0,6.0,Friday,3.0,3.0,True,5,Sep,9,0
+Nordenberg,bayes_ridge|full,2025-09-20,0,0.0,4.0,3.0,Saturday,0.0,0.0,True,6,Sep,9,0
+Nordenberg,bayes_ridge|full,2025-09-22,5,4.0,11.0,0.0,Monday,-1.0,1.0,True,1,Sep,9,0
+Nordenberg,bayes_ridge|full,2025-09-23,1,4.0,10.0,2.0,Tuesday,3.0,3.0,True,2,Sep,9,0
+Nordenberg,bayes_ridge|full,2025-09-24,3,4.0,10.0,0.0,Wednesday,1.0,1.0,True,3,Sep,9,0
+Nordenberg,bayes_ridge|full,2025-09-25,1,4.0,10.0,5.0,Thursday,3.0,3.0,True,4,Sep,9,0
+Nordenberg,bayes_ridge|full,2025-09-26,2,4.0,11.0,2.0,Friday,2.0,2.0,True,5,Sep,9,0
+Nordenberg,bayes_ridge|full,2025-09-27,0,0.0,3.0,1.0,Saturday,0.0,0.0,True,6,Sep,9,0
+Nordenberg,bayes_ridge|full,2025-09-29,0,4.0,10.0,0.0,Monday,4.0,4.0,True,1,Sep,9,0
+Nordenberg,bayes_ridge|full,2025-09-30,1,3.0,10.0,5.0,Tuesday,2.0,2.0,True,2,Sep,9,0
+Nordenberg,bayes_ridge|full,2025-10-01,3,3.0,9.0,1.0,Wednesday,0.0,0.0,True,3,Oct,10,0
+Nordenberg,bayes_ridge|full,2025-10-02,0,3.0,10.0,3.0,Thursday,3.0,3.0,True,4,Oct,10,0
+Nordenberg,bayes_ridge|full,2025-10-03,3,3.0,10.0,1.0,Friday,0.0,0.0,True,5,Oct,10,0
+Nordenberg,bayes_ridge|full,2025-10-04,0,0.0,2.0,2.0,Saturday,0.0,0.0,True,6,Oct,10,0
+Nordenberg,bayes_ridge|full,2025-10-06,3,3.0,10.0,0.0,Monday,0.0,0.0,True,1,Oct,10,0
+Nordenberg,bayes_ridge|full,2025-10-07,1,3.0,10.0,0.0,Tuesday,2.0,2.0,True,2,Oct,10,0
+Nordenberg,bayes_ridge|full,2025-10-08,1,3.0,9.0,1.0,Wednesday,2.0,2.0,True,3,Oct,10,0
+Nordenberg,bayes_ridge|full,2025-10-09,0,3.0,10.0,3.0,Thursday,3.0,3.0,True,4,Oct,10,0
+Nordenberg,bayes_ridge|full,2025-10-10,0,3.0,10.0,0.0,Friday,3.0,3.0,True,5,Oct,10,0
+Nordenberg,bayes_ridge|full,2025-10-11,0,0.0,2.0,3.0,Saturday,0.0,0.0,True,6,Oct,10,0
+Nordenberg,bayes_ridge|full,2025-10-13,0,3.0,10.0,0.0,Monday,3.0,3.0,True,1,Oct,10,0
+Nordenberg,bayes_ridge|full,2025-10-14,0,3.0,9.0,3.0,Tuesday,3.0,3.0,True,2,Oct,10,0
+Nordenberg,bayes_ridge|full,2025-10-15,2,3.0,9.0,1.0,Wednesday,1.0,1.0,True,3,Oct,10,0
+Nordenberg,bayes_ridge|full,2025-10-16,1,3.0,9.0,1.0,Thursday,2.0,2.0,True,4,Oct,10,0
+Nordenberg,bayes_ridge|full,2025-10-17,0,3.0,10.0,0.0,Friday,3.0,3.0,True,5,Oct,10,0
+Nordenberg,bayes_ridge|full,2025-10-18,0,0.0,2.0,0.0,Saturday,0.0,0.0,True,6,Oct,10,0
+Nordenberg,bayes_ridge|full,2025-10-20,6,3.0,9.0,0.0,Monday,-3.0,3.0,True,1,Oct,10,0
+Nordenberg,bayes_ridge|full,2025-10-21,0,3.0,9.0,0.0,Tuesday,3.0,3.0,True,2,Oct,10,0
+Nordenberg,bayes_ridge|full,2025-10-22,3,4.0,11.0,0.0,Wednesday,1.0,1.0,True,3,Oct,10,0
+Nordenberg,bayes_ridge|full,2025-10-23,2,5.0,13.0,2.0,Thursday,3.0,3.0,True,4,Oct,10,0
+Nordenberg,bayes_ridge|full,2025-10-24,1,7.0,15.0,1.0,Friday,6.0,6.0,True,5,Oct,10,0
+Nordenberg,bayes_ridge|full,2025-10-25,0,4.0,10.0,0.0,Saturday,4.0,4.0,True,6,Oct,10,0
+Nordenberg,bayes_ridge|full,2025-10-27,5,10.0,20.0,0.0,Monday,5.0,5.0,True,1,Oct,10,0
+Nordenberg,bayes_ridge|full,2025-10-28,3,11.0,21.0,6.0,Tuesday,8.0,8.0,True,2,Oct,10,0
+Nordenberg,bayes_ridge|full,2025-10-29,17,12.0,23.0,0.0,Wednesday,-5.0,5.0,True,3,Oct,10,0
+Nordenberg,bayes_ridge|full,2025-10-30,1,14.0,25.0,3.0,Thursday,13.0,13.0,True,4,Oct,10,0
+Nordenberg,bayes_ridge|full,2025-10-31,0,15.0,27.0,2.0,Friday,15.0,15.0,True,5,Oct,10,0
+Nordenberg,bayes_ridge|full,2025-11-01,0,9.0,18.0,1.0,Saturday,9.0,9.0,True,6,Nov,11,0
+Nordenberg,bayes_ridge|full,2025-11-03,2,8.0,18.0,0.0,Monday,6.0,6.0,True,1,Nov,11,0
+Nordenberg,bayes_ridge|full,2025-11-04,1,6.0,14.0,5.0,Tuesday,5.0,5.0,True,2,Nov,11,0
+Nordenberg,bayes_ridge|full,2025-11-05,0,4.0,10.0,3.0,Wednesday,4.0,4.0,True,3,Nov,11,0
+Nordenberg,bayes_ridge|full,2025-11-06,0,4.0,10.0,17.0,Thursday,4.0,4.0,True,4,Nov,11,0
+Nordenberg,bayes_ridge|full,2025-11-07,1,3.0,10.0,1.0,Friday,2.0,2.0,True,5,Nov,11,0
+Nordenberg,bayes_ridge|full,2025-11-08,0,0.0,2.0,0.0,Saturday,0.0,0.0,True,6,Nov,11,0
+Nordenberg,bayes_ridge|full,2025-11-10,0,3.0,10.0,0.0,Monday,3.0,3.0,True,1,Nov,11,0
+Nordenberg,bayes_ridge|full,2025-11-11,0,3.0,9.0,2.0,Tuesday,3.0,3.0,True,2,Nov,11,0
+Nordenberg,bayes_ridge|full,2025-11-12,0,3.0,9.0,1.0,Wednesday,3.0,3.0,True,3,Nov,11,0
+Nordenberg,bayes_ridge|full,2025-11-13,0,3.0,9.0,0.0,Thursday,3.0,3.0,True,4,Nov,11,0
+Nordenberg,bayes_ridge|full,2025-11-14,0,3.0,10.0,0.0,Friday,3.0,3.0,True,5,Nov,11,0
+Nordenberg,bayes_ridge|full,2025-11-15,0,0.0,1.0,1.0,Saturday,0.0,0.0,True,6,Nov,11,0
+Nordenberg,bayes_ridge|full,2025-11-17,3,3.0,9.0,0.0,Monday,0.0,0.0,True,1,Nov,11,0
+Nordenberg,bayes_ridge|full,2025-11-18,0,3.0,9.0,0.0,Tuesday,3.0,3.0,True,2,Nov,11,0
+Nordenberg,bayes_ridge|full,2025-11-19,1,3.0,9.0,0.0,Wednesday,2.0,2.0,True,3,Nov,11,0
+Nordenberg,bayes_ridge|full,2025-11-20,0,0.0,0.0,0.0,Thursday,0.0,0.0,True,4,Nov,11,0
+Nordenberg,bayes_ridge|full,2025-11-21,0,0.0,0.0,0.0,Friday,0.0,0.0,True,5,Nov,11,0
+Nordenberg,bayes_ridge|full,2025-11-22,0,0.0,0.0,0.0,Saturday,0.0,0.0,True,6,Nov,11,0
+Nordenberg,bayes_ridge|full,2025-11-24,0,0.0,0.0,0.0,Monday,0.0,0.0,True,1,Nov,11,0
+Nordenberg,bayes_ridge|full,2025-11-25,0,0.0,0.0,3.0,Tuesday,0.0,0.0,True,2,Nov,11,0
+Nordenberg,bayes_ridge|full,2025-11-26,0,0.0,0.0,0.0,Wednesday,0.0,0.0,True,3,Nov,11,0
+Nordenberg,bayes_ridge|full,2025-11-29,0,0.0,0.0,1.0,Saturday,0.0,0.0,True,6,Nov,11,0
+Nordenberg,bayes_ridge|full,2025-12-01,0,2.0,7.0,0.0,Monday,2.0,2.0,True,1,Dec,12,0
+Nordenberg,bayes_ridge|full,2025-12-02,0,3.0,9.0,0.0,Tuesday,3.0,3.0,True,2,Dec,12,0
+Nordenberg,bayes_ridge|full,2025-12-03,1,3.0,10.0,0.0,Wednesday,2.0,2.0,True,3,Dec,12,0
+Nordenberg,bayes_ridge|full,2025-12-04,0,4.0,11.0,0.0,Thursday,4.0,4.0,True,4,Dec,12,0
+Nordenberg,bayes_ridge|full,2025-12-05,0,3.0,9.0,0.0,Friday,3.0,3.0,True,5,Dec,12,0
+Nordenberg,bayes_ridge|full,2025-12-06,1,0.0,1.0,0.0,Saturday,-1.0,1.0,True,6,Dec,12,0
+Nordenberg,bayes_ridge|full,2025-12-08,2,3.0,9.0,0.0,Monday,1.0,1.0,True,1,Dec,12,0
+Nordenberg,bayes_ridge|full,2025-12-09,0,3.0,9.0,0.0,Tuesday,3.0,3.0,True,2,Dec,12,0
+Nordenberg,bayes_ridge|full,2025-12-10,0,3.0,9.0,0.0,Wednesday,3.0,3.0,True,3,Dec,12,0
+Nordenberg,bayes_ridge|full,2025-12-11,0,3.0,9.0,1.0,Thursday,3.0,3.0,True,4,Dec,12,0
+Nordenberg,bayes_ridge|full,2025-12-12,0,3.0,9.0,0.0,Friday,3.0,3.0,True,5,Dec,12,0
+Nordenberg,bayes_ridge|full,2025-12-13,0,0.0,1.0,0.0,Saturday,0.0,0.0,True,6,Dec,12,0
+Nordenberg,bayes_ridge|full,2025-12-15,0,3.0,9.0,1.0,Monday,3.0,3.0,True,1,Dec,12,0
+Nordenberg,bayes_ridge|full,2025-12-16,0,3.0,9.0,2.0,Tuesday,3.0,3.0,True,2,Dec,12,0
+Nordenberg,bayes_ridge|full,2025-12-17,0,3.0,8.0,0.0,Wednesday,3.0,3.0,True,3,Dec,12,0
+Nordenberg,bayes_ridge|full,2026-01-03,0,0.0,1.0,0.0,Saturday,0.0,0.0,True,6,Jan,1,0
+Nordenberg,bayes_ridge|full,2026-01-05,0,3.0,9.0,0.0,Monday,3.0,3.0,True,1,Jan,1,0
+Nordenberg,bayes_ridge|full,2026-01-06,0,3.0,9.0,0.0,Tuesday,3.0,3.0,True,2,Jan,1,0
+Nordenberg,bayes_ridge|full,2026-01-07,0,3.0,8.0,0.0,Wednesday,3.0,3.0,True,3,Jan,1,0
+Nordenberg,bayes_ridge|full,2026-01-08,0,3.0,9.0,0.0,Thursday,3.0,3.0,True,4,Jan,1,0
+Nordenberg,bayes_ridge|full,2026-01-09,0,3.0,9.0,0.0,Friday,3.0,3.0,True,5,Jan,1,0
+Nordenberg,bayes_ridge|full,2026-01-10,0,0.0,1.0,0.0,Saturday,0.0,0.0,True,6,Jan,1,0
+Nordenberg,bayes_ridge|full,2026-01-12,3,3.0,9.0,0.0,Monday,0.0,0.0,True,1,Jan,1,0
+Nordenberg,bayes_ridge|full,2026-01-13,8,3.0,9.0,0.0,Tuesday,-5.0,5.0,True,2,Jan,1,0
+Nordenberg,bayes_ridge|full,2026-01-14,17,3.0,9.0,0.0,Wednesday,-14.0,14.0,False,3,Jan,1,1
+Nordenberg,bayes_ridge|full,2026-01-15,6,4.0,10.0,0.0,Thursday,-2.0,2.0,True,4,Jan,1,0
+Nordenberg,bayes_ridge|full,2026-01-16,5,4.0,11.0,0.0,Friday,-1.0,1.0,True,5,Jan,1,0
+Nordenberg,bayes_ridge|full,2026-01-17,0,0.0,4.0,0.0,Saturday,0.0,0.0,True,6,Jan,1,0
+Nordenberg,bayes_ridge|full,2026-01-19,0,0.0,0.0,0.0,Monday,0.0,0.0,True,1,Jan,1,0
+Nordenberg,bayes_ridge|full,2026-01-20,1,4.0,11.0,3.0,Tuesday,3.0,3.0,True,2,Jan,1,0
+Nordenberg,bayes_ridge|full,2026-01-21,0,4.0,11.0,8.0,Wednesday,4.0,4.0,True,3,Jan,1,0
+Nordenberg,bayes_ridge|full,2026-01-22,3,4.0,11.0,17.0,Thursday,1.0,1.0,True,4,Jan,1,0
+Nordenberg,bayes_ridge|full,2026-01-23,3,4.0,11.0,6.0,Friday,1.0,1.0,True,5,Jan,1,0
+Nordenberg,bayes_ridge|full,2026-01-24,2,0.0,3.0,5.0,Saturday,-2.0,2.0,True,6,Jan,1,0
+Nordenberg,bayes_ridge|full,2026-01-26,0,4.0,11.0,0.0,Monday,4.0,4.0,True,1,Jan,1,0
+Nordenberg,bayes_ridge|full,2026-01-27,4,3.0,10.0,0.0,Tuesday,-1.0,1.0,True,2,Jan,1,0
+Nordenberg,bayes_ridge|full,2026-01-28,0,3.0,10.0,1.0,Wednesday,3.0,3.0,True,3,Jan,1,0
+Nordenberg,bayes_ridge|full,2026-01-29,2,5.0,12.0,0.0,Thursday,3.0,3.0,True,4,Jan,1,0
+Nordenberg,bayes_ridge|full,2026-01-30,5,6.0,15.0,3.0,Friday,1.0,1.0,True,5,Jan,1,0
+Nordenberg,bayes_ridge|full,2026-01-31,8,3.0,10.0,3.0,Saturday,-5.0,5.0,True,6,Jan,1,0
+Nordenberg,bayes_ridge|full,2026-02-02,1,11.0,21.0,2.0,Monday,10.0,10.0,True,1,Feb,2,0
+Nordenberg,bayes_ridge|full,2026-02-03,6,7.0,15.0,0.0,Tuesday,1.0,1.0,True,2,Feb,2,0
+Nordenberg,bayes_ridge|full,2026-02-04,6,4.0,10.0,4.0,Wednesday,-2.0,2.0,True,3,Feb,2,0
+Nordenberg,bayes_ridge|full,2026-02-05,1,4.0,11.0,0.0,Thursday,3.0,3.0,True,4,Feb,2,0
+Nordenberg,bayes_ridge|full,2026-02-06,4,4.0,11.0,2.0,Friday,0.0,0.0,True,5,Feb,2,0
+Nordenberg,bayes_ridge|full,2026-02-07,0,0.0,4.0,5.0,Saturday,0.0,0.0,True,6,Feb,2,0
+Nordenberg,bayes_ridge|full,2026-02-09,2,6.0,14.0,8.0,Monday,4.0,4.0,True,1,Feb,2,0
+Nordenberg,bayes_ridge|full,2026-02-10,2,7.0,15.0,1.0,Tuesday,5.0,5.0,True,2,Feb,2,0
+Nordenberg,bayes_ridge|full,2026-02-11,7,8.0,17.0,6.0,Wednesday,1.0,1.0,True,3,Feb,2,0
+Nordenberg,bayes_ridge|full,2026-02-12,0,9.0,19.0,6.0,Thursday,9.0,9.0,True,4,Feb,2,0
+Nordenberg,bayes_ridge|full,2026-02-13,6,10.0,20.0,1.0,Friday,4.0,4.0,True,5,Feb,2,0
+Nordenberg,bayes_ridge|full,2026-02-14,0,7.0,16.0,4.0,Saturday,7.0,7.0,True,6,Feb,2,0
+Nordenberg,bayes_ridge|full,2026-02-16,1,0.0,0.0,0.0,Monday,-1.0,1.0,False,1,Feb,2,1
+Nordenberg,bayes_ridge|full,2026-02-17,3,4.0,10.0,2.0,Tuesday,1.0,1.0,True,2,Feb,2,0
+Nordenberg,bayes_ridge|full,2026-02-18,5,3.0,10.0,2.0,Wednesday,-2.0,2.0,True,3,Feb,2,0
+Nordenberg,bayes_ridge|full,2026-02-19,1,4.0,10.0,7.0,Thursday,3.0,3.0,True,4,Feb,2,0
+Nordenberg,bayes_ridge|full,2026-02-20,0,4.0,11.0,0.0,Friday,4.0,4.0,True,5,Feb,2,0
+Nordenberg,bayes_ridge|full,2026-02-21,2,0.0,3.0,6.0,Saturday,-2.0,2.0,True,6,Feb,2,0
+Nordenberg,bayes_ridge|full,2026-02-23,11,4.0,10.0,0.0,Monday,-7.0,7.0,False,1,Feb,2,1
+Nordenberg,bayes_ridge|full,2026-02-24,1,4.0,11.0,1.0,Tuesday,3.0,3.0,True,2,Feb,2,0
+Nordenberg,bayes_ridge|full,2026-02-25,4,4.0,10.0,3.0,Wednesday,0.0,0.0,True,3,Feb,2,0
+Nordenberg,bayes_ridge|full,2026-02-26,1,4.0,11.0,5.0,Thursday,3.0,3.0,True,4,Feb,2,0
+Nordenberg,bayes_ridge|full,2026-02-27,2,4.0,11.0,1.0,Friday,2.0,2.0,True,5,Feb,2,0
+Nordenberg,bayes_ridge|full,2026-02-28,0,0.0,3.0,0.0,Saturday,0.0,0.0,True,6,Feb,2,0
+Nordenberg,bayes_ridge|full,2026-03-02,1,4.0,11.0,2.0,Monday,3.0,3.0,True,1,Mar,3,0
+Nordenberg,bayes_ridge|full,2026-03-03,1,4.0,10.0,11.0,Tuesday,3.0,3.0,True,2,Mar,3,0
+Nordenberg,bayes_ridge|full,2026-03-04,0,3.0,10.0,1.0,Wednesday,3.0,3.0,True,3,Mar,3,0
+Nordenberg,bayes_ridge|full,2026-03-05,0,2.0,8.0,4.0,Thursday,2.0,2.0,True,4,Mar,3,0
+Nordenberg,bayes_ridge|full,2026-03-06,1,3.0,8.0,1.0,Friday,2.0,2.0,True,5,Mar,3,0
+Nordenberg,bayes_ridge|full,2026-03-07,0,0.0,0.0,2.0,Saturday,0.0,0.0,True,6,Mar,3,0
+Nordenberg,bayes_ridge|full,2026-03-09,0,2.0,8.0,0.0,Monday,2.0,2.0,True,1,Mar,3,0
+Nordenberg,bayes_ridge|full,2026-03-10,0,2.0,8.0,1.0,Tuesday,2.0,2.0,True,2,Mar,3,0
+Nordenberg,bayes_ridge|full,2026-03-11,0,2.0,7.0,1.0,Wednesday,2.0,2.0,True,3,Mar,3,0
+Nordenberg,bayes_ridge|full,2026-03-12,0,2.0,7.0,0.0,Thursday,2.0,2.0,True,4,Mar,3,0
+Nordenberg,bayes_ridge|full,2026-03-13,0,2.0,8.0,0.0,Friday,2.0,2.0,True,5,Mar,3,0
+Nordenberg,bayes_ridge|full,2026-03-14,0,0.0,0.0,1.0,Saturday,0.0,0.0,True,6,Mar,3,0
+Nordenberg,bayes_ridge|full,2026-03-16,8,3.0,9.0,0.0,Monday,-5.0,5.0,True,1,Mar,3,0
+Nordenberg,bayes_ridge|full,2026-03-17,24,3.0,9.0,0.0,Tuesday,-21.0,21.0,False,2,Mar,3,1
+Nordenberg,bayes_ridge|full,2026-03-18,75,4.0,10.0,0.0,Wednesday,-71.0,71.0,False,3,Mar,3,1
+Nordenberg,bayes_ridge|full,2026-03-19,0,7.0,15.0,0.0,Thursday,7.0,7.0,True,4,Mar,3,0
+Nordenberg,bayes_ridge|full,2026-03-20,3,7.0,15.0,0.0,Friday,4.0,4.0,True,5,Mar,3,0
+Nordenberg,bayes_ridge|full,2026-03-21,0,3.0,9.0,0.0,Saturday,3.0,3.0,True,6,Mar,3,0
+Nordenberg,bayes_ridge|full,2026-03-23,0,7.0,16.0,0.0,Monday,7.0,7.0,True,1,Mar,3,0
+Nordenberg,bayes_ridge|full,2026-03-24,1,7.0,15.0,8.0,Tuesday,6.0,6.0,True,2,Mar,3,0
+Nordenberg,bayes_ridge|full,2026-03-25,3,6.0,15.0,24.0,Wednesday,3.0,3.0,True,3,Mar,3,0
+Nordenberg,bayes_ridge|full,2026-03-26,1,6.0,14.0,75.0,Thursday,5.0,5.0,True,4,Mar,3,0
+Nordenberg,bayes_ridge|full,2026-03-27,3,5.0,12.0,0.0,Friday,2.0,2.0,True,5,Mar,3,0
+Nordenberg,bayes_ridge|full,2026-03-28,1,1.0,5.0,3.0,Saturday,0.0,0.0,True,6,Mar,3,0
+Nordenberg,bayes_ridge|full,2026-03-30,4,5.0,12.0,0.0,Monday,1.0,1.0,True,1,Mar,3,0
+Nordenberg,bayes_ridge|full,2026-03-31,2,5.0,12.0,0.0,Tuesday,3.0,3.0,True,2,Mar,3,0
+Nordenberg,bayes_ridge|full,2026-04-01,0,5.0,12.0,1.0,Wednesday,5.0,5.0,True,3,Apr,4,0
+Nordenberg,bayes_ridge|full,2026-04-02,1,5.0,12.0,3.0,Thursday,4.0,4.0,True,4,Apr,4,0
+Nordenberg,bayes_ridge|full,2026-04-03,7,5.0,12.0,1.0,Friday,-2.0,2.0,True,5,Apr,4,0
+Nordenberg,bayes_ridge|full,2026-04-04,0,0.0,3.0,3.0,Saturday,0.0,0.0,True,6,Apr,4,0
+Nordenberg,bayes_ridge|full,2026-04-06,1,4.0,11.0,1.0,Monday,3.0,3.0,True,1,Apr,4,0
+Nordenberg,bayes_ridge|full,2026-04-07,0,4.0,10.0,4.0,Tuesday,4.0,4.0,True,2,Apr,4,0
+Nordenberg,bayes_ridge|full,2026-04-08,10,3.0,10.0,2.0,Wednesday,-7.0,7.0,True,3,Apr,4,0
+Nordenberg,bayes_ridge|full,2026-04-09,1,4.0,11.0,0.0,Thursday,3.0,3.0,True,4,Apr,4,0
+Nordenberg,bayes_ridge|full,2026-04-10,1,4.0,11.0,1.0,Friday,3.0,3.0,True,5,Apr,4,0
+Nordenberg,bayes_ridge|full,2026-04-11,1,0.0,3.0,7.0,Saturday,-1.0,1.0,True,6,Apr,4,0
+Nordenberg,bayes_ridge|full,2026-04-13,1,4.0,11.0,0.0,Monday,3.0,3.0,True,1,Apr,4,0
+Nordenberg,bayes_ridge|full,2026-04-14,2,4.0,10.0,1.0,Tuesday,2.0,2.0,True,2,Apr,4,0
+Nordenberg,bayes_ridge|full,2026-04-15,0,4.0,10.0,0.0,Wednesday,4.0,4.0,True,3,Apr,4,0
+Nordenberg,bayes_ridge|full,2026-04-16,1,4.0,10.0,10.0,Thursday,3.0,3.0,True,4,Apr,4,0
+Nordenberg,bayes_ridge|full,2026-04-17,6,4.0,10.0,1.0,Friday,-2.0,2.0,True,5,Apr,4,0
+Nordenberg,bayes_ridge|full,2026-04-18,1,0.0,3.0,1.0,Saturday,-1.0,1.0,True,6,Apr,4,0
+Nordenberg,bayes_ridge|full,2026-04-20,0,4.0,11.0,1.0,Monday,4.0,4.0,True,1,Apr,4,0
+Nordenberg,bayes_ridge|full,2026-04-21,1,3.0,10.0,1.0,Tuesday,2.0,2.0,True,2,Apr,4,0
+Nordenberg,bayes_ridge|full,2026-04-22,2,0.0,0.0,2.0,Wednesday,-2.0,2.0,False,3,Apr,4,1
+Nordenberg,bayes_ridge|full,2026-04-23,1,0.0,0.0,0.0,Thursday,-1.0,1.0,False,4,Apr,4,1
+Nordenberg,bayes_ridge|full,2026-04-24,4,0.0,1.0,1.0,Friday,-4.0,4.0,False,5,Apr,4,1
+Nordenberg,bayes_ridge|full,2026-04-25,0,0.0,0.0,6.0,Saturday,0.0,0.0,True,6,Apr,4,0
+Nordenberg,bayes_ridge|full,2026-04-27,1,0.0,0.0,1.0,Monday,-1.0,1.0,False,1,Apr,4,1
+Nordenberg,bayes_ridge|full,2026-04-28,1,0.0,0.0,0.0,Tuesday,-1.0,1.0,False,2,Apr,4,1
+Nordenberg,bayes_ridge|full,2026-04-29,1,0.0,0.0,1.0,Wednesday,-1.0,1.0,False,3,Apr,4,1
+Nordenberg,bayes_ridge|full,2026-04-30,0,0.0,0.0,2.0,Thursday,0.0,0.0,True,4,Apr,4,0
+Nordenberg,bayes_ridge|full,2026-05-01,0,0.0,0.0,1.0,Friday,0.0,0.0,True,5,May,5,0
+Nordenberg,bayes_ridge|full,2026-05-02,0,0.0,0.0,4.0,Saturday,0.0,0.0,True,6,May,5,0
+Nordenberg,bayes_ridge|full,2026-08-17,5,2.0,8.0,0.0,Monday,-3.0,3.0,True,1,Aug,8,0
+Nordenberg,bayes_ridge|full,2026-08-18,26,2.0,8.0,1.0,Tuesday,-24.0,24.0,False,2,Aug,8,1
+Nordenberg,bayes_ridge|full,2026-08-19,4,3.0,9.0,1.0,Wednesday,-1.0,1.0,True,3,Aug,8,0
+Nordenberg,bayes_ridge|full,2026-08-20,5,3.0,10.0,1.0,Thursday,-2.0,2.0,True,4,Aug,8,0
+Nordenberg,bayes_ridge|full,2026-08-21,1,4.0,10.0,0.0,Friday,3.0,3.0,True,5,Aug,8,0
+Nordenberg,bayes_ridge|full,2026-08-22,0,0.0,2.0,0.0,Saturday,0.0,0.0,True,6,Aug,8,0
+Nordenberg,bayes_ridge|full,2026-08-24,5,4.0,10.0,0.0,Monday,-1.0,1.0,True,1,Aug,8,0
+Nordenberg,bayes_ridge|full,2026-08-25,4,4.0,10.0,5.0,Tuesday,0.0,0.0,True,2,Aug,8,0
+Nordenberg,bayes_ridge|full,2026-08-26,5,3.0,10.0,26.0,Wednesday,-2.0,2.0,True,3,Aug,8,0
+Nordenberg,bayes_ridge|full,2026-08-27,0,3.0,10.0,4.0,Thursday,3.0,3.0,True,4,Aug,8,0
+Nordenberg,bayes_ridge|full,2026-08-28,6,3.0,10.0,5.0,Friday,-3.0,3.0,True,5,Aug,8,0
+Nordenberg,bayes_ridge|full,2026-08-29,5,0.0,2.0,1.0,Saturday,-5.0,5.0,False,6,Aug,8,1
+Nordenberg,bayes_ridge|full,2026-08-31,4,4.0,10.0,0.0,Monday,0.0,0.0,True,1,Aug,8,0
+Nordenberg,bayes_ridge|full,2026-09-01,3,3.0,10.0,5.0,Tuesday,0.0,0.0,True,2,Sep,9,0
+Nordenberg,bayes_ridge|full,2026-09-02,4,3.0,10.0,4.0,Wednesday,-1.0,1.0,True,3,Sep,9,0
+Nordenberg,bayes_ridge|full,2026-09-03,5,3.0,10.0,5.0,Thursday,-2.0,2.0,True,4,Sep,9,0
+Nordenberg,bayes_ridge|full,2026-09-04,1,3.0,10.0,0.0,Friday,2.0,2.0,True,5,Sep,9,0
+Nordenberg,bayes_ridge|full,2026-09-05,0,0.0,2.0,6.0,Saturday,0.0,0.0,True,6,Sep,9,0
+Nordenberg,bayes_ridge|full,2026-09-07,0,0.0,0.0,5.0,Monday,0.0,0.0,True,1,Sep,9,0
+Nordenberg,bayes_ridge|full,2026-09-08,1,3.0,9.0,4.0,Tuesday,2.0,2.0,True,2,Sep,9,0
+Nordenberg,bayes_ridge|full,2026-09-09,5,3.0,9.0,3.0,Wednesday,-2.0,2.0,True,3,Sep,9,0
+Nordenberg,bayes_ridge|full,2026-09-10,2,3.0,9.0,4.0,Thursday,1.0,1.0,True,4,Sep,9,0
+Nordenberg,bayes_ridge|full,2026-09-11,1,4.0,11.0,5.0,Friday,3.0,3.0,True,5,Sep,9,0
+Nordenberg,bayes_ridge|full,2026-09-12,1,0.0,2.0,1.0,Saturday,-1.0,1.0,True,6,Sep,9,0
+Nordenberg,bayes_ridge|full,2026-09-14,1,4.0,11.0,0.0,Monday,3.0,3.0,True,1,Sep,9,0
+Nordenberg,bayes_ridge|full,2026-09-15,9,3.0,10.0,0.0,Tuesday,-6.0,6.0,True,2,Sep,9,0
+Nordenberg,bayes_ridge|full,2026-09-16,14,4.0,10.0,1.0,Wednesday,-10.0,10.0,False,3,Sep,9,1
+Residences on Bigelow,bayes_ridge|lean_noev,2025-09-19,12,8.0,13.0,3.0,Friday,-4.0,4.0,True,5,Sep,9,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-09-20,0,4.0,7.0,14.0,Saturday,4.0,4.0,True,6,Sep,9,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-09-22,14,9.0,14.0,4.0,Monday,-5.0,5.0,True,1,Sep,9,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-09-23,7,10.0,15.0,11.0,Tuesday,3.0,3.0,True,2,Sep,9,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-09-24,2,9.0,14.0,2.0,Wednesday,7.0,7.0,True,3,Sep,9,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-09-25,3,8.0,13.0,9.0,Thursday,5.0,5.0,True,4,Sep,9,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-09-26,6,8.0,13.0,10.0,Friday,2.0,2.0,True,5,Sep,9,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-09-27,0,3.0,6.0,12.0,Saturday,3.0,3.0,True,6,Sep,9,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-09-29,11,9.0,14.0,0.0,Monday,-2.0,2.0,True,1,Sep,9,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-09-30,3,9.0,13.0,14.0,Tuesday,6.0,6.0,True,2,Sep,9,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-10-01,0,8.0,13.0,7.0,Wednesday,8.0,8.0,True,3,Oct,10,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-10-02,0,7.0,12.0,2.0,Thursday,7.0,7.0,True,4,Oct,10,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-10-03,0,7.0,11.0,3.0,Friday,7.0,7.0,True,5,Oct,10,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-10-04,0,2.0,4.0,6.0,Saturday,2.0,2.0,True,6,Oct,10,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-10-06,14,8.0,12.0,0.0,Monday,-6.0,6.0,False,1,Oct,10,1
+Residences on Bigelow,bayes_ridge|lean_noev,2025-10-07,11,8.0,12.0,11.0,Tuesday,-3.0,3.0,True,2,Oct,10,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-10-08,2,8.0,12.0,3.0,Wednesday,6.0,6.0,True,3,Oct,10,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-10-09,4,7.0,11.0,0.0,Thursday,3.0,3.0,True,4,Oct,10,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-10-10,0,7.0,11.0,0.0,Friday,7.0,7.0,True,5,Oct,10,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-10-11,0,1.0,4.0,0.0,Saturday,1.0,1.0,True,6,Oct,10,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-10-13,14,7.0,12.0,0.0,Monday,-7.0,7.0,False,1,Oct,10,1
+Residences on Bigelow,bayes_ridge|lean_noev,2025-10-14,9,7.0,11.0,14.0,Tuesday,-2.0,2.0,True,2,Oct,10,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-10-15,6,6.0,11.0,11.0,Wednesday,0.0,0.0,True,3,Oct,10,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-10-16,9,5.0,9.0,2.0,Thursday,-4.0,4.0,True,4,Oct,10,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-10-17,8,6.0,10.0,4.0,Friday,-2.0,2.0,True,5,Oct,10,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-10-18,0,1.0,3.0,0.0,Saturday,1.0,1.0,True,6,Oct,10,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-10-20,9,7.0,12.0,0.0,Monday,-2.0,2.0,True,1,Oct,10,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-10-21,6,7.0,11.0,14.0,Tuesday,1.0,1.0,True,2,Oct,10,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-10-22,0,6.0,11.0,9.0,Wednesday,6.0,6.0,True,3,Oct,10,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-10-23,11,5.0,9.0,6.0,Thursday,-6.0,6.0,False,4,Oct,10,1
+Residences on Bigelow,bayes_ridge|lean_noev,2025-10-24,1,5.0,9.0,9.0,Friday,4.0,4.0,True,5,Oct,10,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-10-25,4,0.0,1.0,8.0,Saturday,-4.0,4.0,False,6,Oct,10,1
+Residences on Bigelow,bayes_ridge|lean_noev,2025-10-27,35,6.0,11.0,0.0,Monday,-29.0,29.0,False,1,Oct,10,1
+Residences on Bigelow,bayes_ridge|lean_noev,2025-10-28,2,8.0,13.0,9.0,Tuesday,6.0,6.0,True,2,Oct,10,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-10-29,6,7.0,12.0,6.0,Wednesday,1.0,1.0,True,3,Oct,10,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-10-30,4,7.0,11.0,0.0,Thursday,3.0,3.0,True,4,Oct,10,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-10-31,3,6.0,11.0,11.0,Friday,3.0,3.0,True,5,Oct,10,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-11-01,6,1.0,3.0,1.0,Saturday,-5.0,5.0,False,6,Nov,11,1
+Residences on Bigelow,bayes_ridge|lean_noev,2025-11-03,10,8.0,12.0,4.0,Monday,-2.0,2.0,True,1,Nov,11,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-11-04,5,8.0,12.0,35.0,Tuesday,3.0,3.0,True,2,Nov,11,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-11-05,3,7.0,12.0,2.0,Wednesday,4.0,4.0,True,3,Nov,11,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-11-06,16,7.0,11.0,6.0,Thursday,-9.0,9.0,False,4,Nov,11,1
+Residences on Bigelow,bayes_ridge|lean_noev,2025-11-07,8,7.0,12.0,4.0,Friday,-1.0,1.0,True,5,Nov,11,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-11-08,2,2.0,5.0,3.0,Saturday,0.0,0.0,True,6,Nov,11,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-11-10,19,8.0,13.0,6.0,Monday,-11.0,11.0,False,1,Nov,11,1
+Residences on Bigelow,bayes_ridge|lean_noev,2025-11-11,0,9.0,14.0,10.0,Tuesday,9.0,9.0,True,2,Nov,11,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-11-12,8,8.0,13.0,5.0,Wednesday,0.0,0.0,True,3,Nov,11,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-11-13,3,7.0,12.0,3.0,Thursday,4.0,4.0,True,4,Nov,11,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-11-14,0,7.0,12.0,16.0,Friday,7.0,7.0,True,5,Nov,11,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-11-15,0,1.0,4.0,8.0,Saturday,1.0,1.0,True,6,Nov,11,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-11-17,21,8.0,13.0,2.0,Monday,-13.0,13.0,False,1,Nov,11,1
+Residences on Bigelow,bayes_ridge|lean_noev,2025-11-18,5,9.0,13.0,19.0,Tuesday,4.0,4.0,True,2,Nov,11,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-11-19,1,8.0,13.0,0.0,Wednesday,7.0,7.0,True,3,Nov,11,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-11-20,5,7.0,11.0,8.0,Thursday,2.0,2.0,True,4,Nov,11,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-11-21,4,7.0,11.0,3.0,Friday,3.0,3.0,True,5,Nov,11,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-11-22,1,1.0,3.0,0.0,Saturday,0.0,0.0,True,6,Nov,11,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-11-24,22,8.0,13.0,0.0,Monday,-14.0,14.0,False,1,Nov,11,1
+Residences on Bigelow,bayes_ridge|lean_noev,2025-11-25,1,9.0,13.0,21.0,Tuesday,8.0,8.0,True,2,Nov,11,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-11-26,1,8.0,12.0,5.0,Wednesday,7.0,7.0,True,3,Nov,11,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-11-29,0,1.0,3.0,1.0,Saturday,1.0,1.0,True,6,Nov,11,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-12-01,21,8.0,13.0,5.0,Monday,-13.0,13.0,False,1,Dec,12,1
+Residences on Bigelow,bayes_ridge|lean_noev,2025-12-02,5,8.0,12.0,4.0,Tuesday,3.0,3.0,True,2,Dec,12,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-12-03,3,7.0,12.0,1.0,Wednesday,4.0,4.0,True,3,Dec,12,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-12-04,8,7.0,11.0,22.0,Thursday,-1.0,1.0,True,4,Dec,12,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-12-05,3,7.0,11.0,1.0,Friday,4.0,4.0,True,5,Dec,12,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-12-06,1,0.0,2.0,1.0,Saturday,-1.0,1.0,True,6,Dec,12,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-12-08,3,8.0,12.0,0.0,Monday,5.0,5.0,True,1,Dec,12,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-12-09,5,7.0,12.0,21.0,Tuesday,2.0,2.0,True,2,Dec,12,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-12-10,0,7.0,11.0,5.0,Wednesday,7.0,7.0,True,3,Dec,12,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-12-11,12,6.0,10.0,3.0,Thursday,-6.0,6.0,False,4,Dec,12,1
+Residences on Bigelow,bayes_ridge|lean_noev,2025-12-12,0,6.0,10.0,8.0,Friday,6.0,6.0,True,5,Dec,12,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-12-13,2,0.0,0.0,3.0,Saturday,-2.0,2.0,False,6,Dec,12,1
+Residences on Bigelow,bayes_ridge|lean_noev,2025-12-15,16,7.0,11.0,1.0,Monday,-9.0,9.0,False,1,Dec,12,1
+Residences on Bigelow,bayes_ridge|lean_noev,2025-12-16,0,7.0,11.0,3.0,Tuesday,7.0,7.0,True,2,Dec,12,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-12-17,0,6.0,10.0,5.0,Wednesday,6.0,6.0,True,3,Dec,12,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-12-18,0,5.0,9.0,0.0,Thursday,5.0,5.0,True,4,Dec,12,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-12-19,0,5.0,8.0,12.0,Friday,5.0,5.0,True,5,Dec,12,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-12-20,0,0.0,2.0,0.0,Saturday,0.0,0.0,True,6,Dec,12,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-12-22,0,6.0,10.0,2.0,Monday,6.0,6.0,True,1,Dec,12,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-12-23,0,5.0,9.0,16.0,Tuesday,5.0,5.0,True,2,Dec,12,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-12-26,0,4.0,7.0,0.0,Friday,4.0,4.0,True,5,Dec,12,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-12-27,0,0.0,0.0,0.0,Saturday,0.0,0.0,True,6,Dec,12,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-12-29,0,5.0,9.0,0.0,Monday,5.0,5.0,True,1,Dec,12,0
+Residences on Bigelow,bayes_ridge|lean_noev,2025-12-30,47,5.0,8.0,0.0,Tuesday,-42.0,42.0,False,2,Dec,12,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-01-02,15,5.0,9.0,0.0,Friday,-10.0,10.0,False,5,Jan,1,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-01-03,1,0.0,0.0,0.0,Saturday,-1.0,1.0,False,6,Jan,1,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-01-05,0,7.0,11.0,0.0,Monday,7.0,7.0,True,1,Jan,1,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-01-06,1,6.0,10.0,0.0,Tuesday,5.0,5.0,True,2,Jan,1,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-01-07,0,6.0,10.0,0.0,Wednesday,6.0,6.0,True,3,Jan,1,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-01-08,15,4.0,8.0,0.0,Thursday,-11.0,11.0,False,4,Jan,1,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-01-09,0,5.0,9.0,47.0,Friday,5.0,5.0,True,5,Jan,1,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-01-10,9,0.0,0.0,15.0,Saturday,-9.0,9.0,False,6,Jan,1,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-01-12,5,7.0,11.0,1.0,Monday,2.0,2.0,True,1,Jan,1,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-01-13,0,7.0,11.0,0.0,Tuesday,7.0,7.0,True,2,Jan,1,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-01-14,14,6.0,10.0,1.0,Wednesday,-8.0,8.0,False,3,Jan,1,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-01-15,8,6.0,10.0,0.0,Thursday,-2.0,2.0,True,4,Jan,1,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-01-16,8,6.0,10.0,15.0,Friday,-2.0,2.0,True,5,Jan,1,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-01-17,22,0.0,0.0,0.0,Saturday,-22.0,22.0,False,6,Jan,1,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-01-19,5,8.0,12.0,9.0,Monday,3.0,3.0,True,1,Jan,1,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-01-20,3,7.0,12.0,5.0,Tuesday,4.0,4.0,True,2,Jan,1,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-01-21,23,7.0,11.0,0.0,Wednesday,-16.0,16.0,False,3,Jan,1,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-01-22,7,7.0,11.0,14.0,Thursday,0.0,0.0,True,4,Jan,1,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-01-23,9,7.0,12.0,8.0,Friday,-2.0,2.0,True,5,Jan,1,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-01-24,10,0.0,2.0,8.0,Saturday,-10.0,10.0,False,6,Jan,1,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-01-26,0,9.0,14.0,22.0,Monday,9.0,9.0,True,1,Jan,1,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-01-27,0,9.0,14.0,5.0,Tuesday,9.0,9.0,True,2,Jan,1,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-01-28,4,8.0,13.0,3.0,Wednesday,4.0,4.0,True,3,Jan,1,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-01-29,1,8.0,12.0,23.0,Thursday,7.0,7.0,True,4,Jan,1,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-01-30,0,8.0,12.0,7.0,Friday,8.0,8.0,True,5,Jan,1,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-01-31,1,0.0,2.0,9.0,Saturday,-1.0,1.0,True,6,Jan,1,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-02-02,38,9.0,14.0,10.0,Monday,-29.0,29.0,False,1,Feb,2,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-02-03,2,10.0,16.0,0.0,Tuesday,8.0,8.0,True,2,Feb,2,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-02-04,17,8.0,13.0,0.0,Wednesday,-9.0,9.0,False,3,Feb,2,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-02-05,3,8.0,12.0,4.0,Thursday,5.0,5.0,True,4,Feb,2,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-02-06,10,8.0,12.0,1.0,Friday,-2.0,2.0,True,5,Feb,2,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-02-07,3,0.0,2.0,0.0,Saturday,-3.0,3.0,False,6,Feb,2,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-02-09,12,9.0,14.0,1.0,Monday,-3.0,3.0,True,1,Feb,2,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-02-10,2,9.0,15.0,38.0,Tuesday,7.0,7.0,True,2,Feb,2,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-02-11,7,8.0,13.0,2.0,Wednesday,1.0,1.0,True,3,Feb,2,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-02-12,8,8.0,13.0,17.0,Thursday,0.0,0.0,True,4,Feb,2,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-02-13,12,8.0,13.0,3.0,Friday,-4.0,4.0,True,5,Feb,2,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-02-14,8,1.0,3.0,10.0,Saturday,-7.0,7.0,False,6,Feb,2,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-02-16,2,10.0,16.0,3.0,Monday,8.0,8.0,True,1,Feb,2,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-02-17,1,10.0,15.0,12.0,Tuesday,9.0,9.0,True,2,Feb,2,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-02-18,15,9.0,14.0,2.0,Wednesday,-6.0,6.0,False,3,Feb,2,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-02-19,5,8.0,13.0,7.0,Thursday,3.0,3.0,True,4,Feb,2,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-02-20,5,8.0,12.0,8.0,Friday,3.0,3.0,True,5,Feb,2,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-02-21,6,0.0,0.0,12.0,Saturday,-6.0,6.0,False,6,Feb,2,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-02-23,7,9.0,14.0,8.0,Monday,2.0,2.0,True,1,Feb,2,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-02-24,3,8.0,13.0,2.0,Tuesday,5.0,5.0,True,2,Feb,2,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-02-25,5,8.0,12.0,1.0,Wednesday,3.0,3.0,True,3,Feb,2,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-02-26,5,7.0,11.0,15.0,Thursday,2.0,2.0,True,4,Feb,2,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-02-27,9,7.0,11.0,5.0,Friday,-2.0,2.0,True,5,Feb,2,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-02-28,4,0.0,0.0,5.0,Saturday,-4.0,4.0,False,6,Feb,2,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-03-02,3,8.0,13.0,6.0,Monday,5.0,5.0,True,1,Mar,3,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-03-03,3,8.0,13.0,7.0,Tuesday,5.0,5.0,True,2,Mar,3,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-03-04,6,7.0,12.0,3.0,Wednesday,1.0,1.0,True,3,Mar,3,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-03-05,15,7.0,11.0,5.0,Thursday,-8.0,8.0,False,4,Mar,3,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-03-06,0,8.0,12.0,5.0,Friday,8.0,8.0,True,5,Mar,3,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-03-07,10,0.0,0.0,9.0,Saturday,-10.0,10.0,False,6,Mar,3,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-03-09,5,8.0,13.0,4.0,Monday,3.0,3.0,True,1,Mar,3,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-03-10,5,7.0,12.0,3.0,Tuesday,2.0,2.0,True,2,Mar,3,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-03-11,1,7.0,11.0,3.0,Wednesday,6.0,6.0,True,3,Mar,3,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-03-12,6,6.0,10.0,6.0,Thursday,0.0,0.0,True,4,Mar,3,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-03-13,15,6.0,10.0,15.0,Friday,-9.0,9.0,False,5,Mar,3,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-03-14,3,0.0,0.0,0.0,Saturday,-3.0,3.0,False,6,Mar,3,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-03-16,11,8.0,12.0,10.0,Monday,-3.0,3.0,True,1,Mar,3,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-03-17,2,8.0,12.0,5.0,Tuesday,6.0,6.0,True,2,Mar,3,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-03-18,1,7.0,11.0,5.0,Wednesday,6.0,6.0,True,3,Mar,3,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-03-19,12,6.0,10.0,1.0,Thursday,-6.0,6.0,False,4,Mar,3,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-03-20,11,6.0,10.0,6.0,Friday,-5.0,5.0,False,5,Mar,3,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-03-21,4,0.0,0.0,15.0,Saturday,-4.0,4.0,False,6,Mar,3,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-03-23,5,8.0,13.0,3.0,Monday,3.0,3.0,True,1,Mar,3,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-03-24,5,7.0,12.0,11.0,Tuesday,2.0,2.0,True,2,Mar,3,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-03-25,8,7.0,11.0,2.0,Wednesday,-1.0,1.0,True,3,Mar,3,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-03-26,1,6.0,11.0,1.0,Thursday,5.0,5.0,True,4,Mar,3,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-03-27,2,6.0,10.0,12.0,Friday,4.0,4.0,True,5,Mar,3,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-03-28,0,0.0,0.0,11.0,Saturday,0.0,0.0,True,6,Mar,3,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-03-30,8,7.0,12.0,4.0,Monday,-1.0,1.0,True,1,Mar,3,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-03-31,0,7.0,11.0,5.0,Tuesday,7.0,7.0,True,2,Mar,3,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-04-01,21,6.0,10.0,5.0,Wednesday,-15.0,15.0,False,3,Apr,4,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-04-02,15,6.0,10.0,8.0,Thursday,-9.0,9.0,False,4,Apr,4,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-04-03,4,7.0,11.0,1.0,Friday,3.0,3.0,True,5,Apr,4,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-04-04,13,0.0,0.0,2.0,Saturday,-13.0,13.0,False,6,Apr,4,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-04-06,6,8.0,13.0,0.0,Monday,2.0,2.0,True,1,Apr,4,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-04-07,0,8.0,13.0,8.0,Tuesday,8.0,8.0,True,2,Apr,4,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-04-08,2,7.0,11.0,0.0,Wednesday,5.0,5.0,True,3,Apr,4,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-04-09,4,6.0,11.0,21.0,Thursday,2.0,2.0,True,4,Apr,4,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-04-10,10,6.0,10.0,15.0,Friday,-4.0,4.0,True,5,Apr,4,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-04-11,11,0.0,0.0,4.0,Saturday,-11.0,11.0,False,6,Apr,4,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-04-13,2,8.0,13.0,13.0,Monday,6.0,6.0,True,1,Apr,4,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-04-14,3,8.0,13.0,6.0,Tuesday,5.0,5.0,True,2,Apr,4,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-04-15,0,7.0,12.0,0.0,Wednesday,7.0,7.0,True,3,Apr,4,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-04-16,6,6.0,10.0,2.0,Thursday,0.0,0.0,True,4,Apr,4,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-04-17,7,6.0,11.0,4.0,Friday,-1.0,1.0,True,5,Apr,4,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-04-18,10,0.0,0.0,10.0,Saturday,-10.0,10.0,False,6,Apr,4,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-04-20,8,8.0,12.0,11.0,Monday,0.0,0.0,True,1,Apr,4,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-04-21,0,8.0,12.0,2.0,Tuesday,8.0,8.0,True,2,Apr,4,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-04-22,6,6.0,10.0,3.0,Wednesday,0.0,0.0,True,3,Apr,4,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-04-23,7,6.0,10.0,0.0,Thursday,-1.0,1.0,True,4,Apr,4,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-04-24,4,6.0,10.0,6.0,Friday,2.0,2.0,True,5,Apr,4,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-04-25,10,0.0,0.0,7.0,Saturday,-10.0,10.0,False,6,Apr,4,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-04-27,1,7.0,12.0,10.0,Monday,6.0,6.0,True,1,Apr,4,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-04-28,1,7.0,11.0,8.0,Tuesday,6.0,6.0,True,2,Apr,4,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-04-29,2,6.0,10.0,0.0,Wednesday,4.0,4.0,True,3,Apr,4,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-04-30,4,5.0,9.0,6.0,Thursday,1.0,1.0,True,4,Apr,4,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-05-01,0,5.0,9.0,7.0,Friday,5.0,5.0,True,5,May,5,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-05-02,0,0.0,0.0,4.0,Saturday,0.0,0.0,True,6,May,5,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-05-04,0,6.0,10.0,10.0,Monday,6.0,6.0,True,1,May,5,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-05-05,7,5.0,9.0,1.0,Tuesday,-2.0,2.0,True,2,May,5,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-05-06,9,4.0,8.0,1.0,Wednesday,-5.0,5.0,False,3,May,5,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-05-07,4,4.0,7.0,2.0,Thursday,0.0,0.0,True,4,May,5,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-05-08,6,4.0,7.0,4.0,Friday,-2.0,2.0,True,5,May,5,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-05-09,8,0.0,0.0,0.0,Saturday,-8.0,8.0,False,6,May,5,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-05-11,7,5.0,9.0,0.0,Monday,-2.0,2.0,True,1,May,5,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-05-12,5,5.0,9.0,0.0,Tuesday,0.0,0.0,True,2,May,5,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-05-13,0,5.0,8.0,7.0,Wednesday,5.0,5.0,True,3,May,5,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-05-14,2,4.0,7.0,9.0,Thursday,2.0,2.0,True,4,May,5,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-05-15,0,3.0,7.0,4.0,Friday,3.0,3.0,True,5,May,5,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-05-16,5,0.0,0.0,6.0,Saturday,-5.0,5.0,False,6,May,5,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-05-18,2,5.0,9.0,8.0,Monday,3.0,3.0,True,1,May,5,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-05-19,1,5.0,9.0,7.0,Tuesday,4.0,4.0,True,2,May,5,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-05-20,5,4.0,8.0,5.0,Wednesday,-1.0,1.0,True,3,May,5,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-05-21,1,4.0,7.0,0.0,Thursday,3.0,3.0,True,4,May,5,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-05-22,0,3.0,6.0,2.0,Friday,3.0,3.0,True,5,May,5,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-05-23,0,0.0,0.0,0.0,Saturday,0.0,0.0,True,6,May,5,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-05-25,0,4.0,8.0,5.0,Monday,4.0,4.0,True,1,May,5,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-05-26,2,4.0,7.0,2.0,Tuesday,2.0,2.0,True,2,May,5,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-05-27,2,3.0,6.0,1.0,Wednesday,1.0,1.0,True,3,May,5,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-05-28,2,2.0,5.0,5.0,Thursday,0.0,0.0,True,4,May,5,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-05-29,2,2.0,4.0,1.0,Friday,0.0,0.0,True,5,May,5,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-05-30,4,0.0,0.0,0.0,Saturday,-4.0,4.0,False,6,May,5,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-06-01,0,3.0,7.0,0.0,Monday,3.0,3.0,True,1,Jun,6,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-06-02,2,3.0,6.0,0.0,Tuesday,1.0,1.0,True,2,Jun,6,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-06-03,2,2.0,5.0,2.0,Wednesday,0.0,0.0,True,3,Jun,6,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-06-04,0,2.0,4.0,2.0,Thursday,2.0,2.0,True,4,Jun,6,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-06-05,3,2.0,4.0,2.0,Friday,-1.0,1.0,True,5,Jun,6,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-06-06,0,0.0,0.0,2.0,Saturday,0.0,0.0,True,6,Jun,6,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-06-08,7,3.0,6.0,4.0,Monday,-4.0,4.0,False,1,Jun,6,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-06-09,3,3.0,6.0,0.0,Tuesday,0.0,0.0,True,2,Jun,6,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-06-10,1,2.0,5.0,2.0,Wednesday,1.0,1.0,True,3,Jun,6,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-06-11,0,2.0,4.0,2.0,Thursday,2.0,2.0,True,4,Jun,6,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-06-12,4,1.0,3.0,0.0,Friday,-3.0,3.0,False,5,Jun,6,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-06-13,0,0.0,0.0,3.0,Saturday,0.0,0.0,True,6,Jun,6,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-06-15,5,2.0,5.0,0.0,Monday,-3.0,3.0,True,1,Jun,6,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-06-16,1,2.0,5.0,7.0,Tuesday,1.0,1.0,True,2,Jun,6,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-06-17,0,2.0,4.0,3.0,Wednesday,2.0,2.0,True,3,Jun,6,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-06-18,0,1.0,3.0,1.0,Thursday,1.0,1.0,True,4,Jun,6,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-06-20,0,0.0,0.0,0.0,Saturday,0.0,0.0,True,6,Jun,6,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-06-22,1,2.0,5.0,4.0,Monday,1.0,1.0,True,1,Jun,6,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-06-23,1,2.0,5.0,0.0,Tuesday,1.0,1.0,True,2,Jun,6,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-06-24,0,1.0,4.0,5.0,Wednesday,1.0,1.0,True,3,Jun,6,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-06-25,0,1.0,3.0,1.0,Thursday,1.0,1.0,True,4,Jun,6,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-06-26,0,1.0,2.0,0.0,Friday,1.0,1.0,True,5,Jun,6,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-06-27,0,0.0,0.0,0.0,Saturday,0.0,0.0,True,6,Jun,6,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-06-29,0,2.0,5.0,0.0,Monday,2.0,2.0,True,1,Jun,6,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-06-30,0,2.0,4.0,1.0,Tuesday,2.0,2.0,True,2,Jun,6,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-07-01,1,1.0,3.0,1.0,Wednesday,0.0,0.0,True,3,Jul,7,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-07-02,1,0.0,2.0,0.0,Thursday,-1.0,1.0,True,4,Jul,7,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-07-03,1,0.0,2.0,0.0,Friday,-1.0,1.0,True,5,Jul,7,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-07-06,1,2.0,4.0,0.0,Monday,1.0,1.0,True,1,Jul,7,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-07-07,0,1.0,4.0,0.0,Tuesday,1.0,1.0,True,2,Jul,7,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-07-08,1,1.0,3.0,0.0,Wednesday,0.0,0.0,True,3,Jul,7,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-07-09,0,0.0,2.0,0.0,Thursday,0.0,0.0,True,4,Jul,7,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-07-10,0,0.0,1.0,1.0,Friday,0.0,0.0,True,5,Jul,7,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-07-11,2,0.0,0.0,1.0,Saturday,-2.0,2.0,False,6,Jul,7,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-07-13,0,2.0,4.0,1.0,Monday,2.0,2.0,True,1,Jul,7,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-07-14,0,1.0,3.0,1.0,Tuesday,1.0,1.0,True,2,Jul,7,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-07-15,2,0.0,2.0,0.0,Wednesday,-2.0,2.0,True,3,Jul,7,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-07-16,0,0.0,1.0,1.0,Thursday,0.0,0.0,True,4,Jul,7,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-07-17,0,0.0,1.0,0.0,Friday,0.0,0.0,True,5,Jul,7,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-07-18,2,0.0,0.0,0.0,Saturday,-2.0,2.0,False,6,Jul,7,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-07-20,1,1.0,4.0,2.0,Monday,0.0,0.0,True,1,Jul,7,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-07-21,0,1.0,3.0,0.0,Tuesday,1.0,1.0,True,2,Jul,7,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-07-22,0,0.0,2.0,0.0,Wednesday,0.0,0.0,True,3,Jul,7,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-07-23,0,0.0,1.0,2.0,Thursday,0.0,0.0,True,4,Jul,7,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-07-24,0,0.0,0.0,0.0,Friday,0.0,0.0,True,5,Jul,7,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-07-25,0,0.0,0.0,0.0,Saturday,0.0,0.0,True,6,Jul,7,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-07-27,0,1.0,3.0,2.0,Monday,1.0,1.0,True,1,Jul,7,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-07-28,0,1.0,3.0,1.0,Tuesday,1.0,1.0,True,2,Jul,7,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-07-29,0,0.0,2.0,0.0,Wednesday,0.0,0.0,True,3,Jul,7,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-07-30,0,0.0,0.0,0.0,Thursday,0.0,0.0,True,4,Jul,7,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-07-31,0,0.0,0.0,0.0,Friday,0.0,0.0,True,5,Jul,7,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-08-01,0,0.0,0.0,0.0,Saturday,0.0,0.0,True,6,Aug,8,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-08-03,6,1.0,3.0,0.0,Monday,-5.0,5.0,False,1,Aug,8,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-08-04,0,1.0,3.0,0.0,Tuesday,1.0,1.0,True,2,Aug,8,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-08-05,0,0.0,2.0,0.0,Wednesday,0.0,0.0,True,3,Aug,8,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-08-06,5,0.0,1.0,0.0,Thursday,-5.0,5.0,False,4,Aug,8,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-08-07,0,0.0,1.0,0.0,Friday,0.0,0.0,True,5,Aug,8,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-08-08,0,0.0,0.0,0.0,Saturday,0.0,0.0,True,6,Aug,8,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-08-10,1,1.0,4.0,0.0,Monday,0.0,0.0,True,1,Aug,8,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-08-11,1,1.0,3.0,6.0,Tuesday,0.0,0.0,True,2,Aug,8,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-08-12,0,1.0,2.0,0.0,Wednesday,1.0,1.0,True,3,Aug,8,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-08-13,0,0.0,1.0,0.0,Thursday,0.0,0.0,True,4,Aug,8,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-08-14,1,0.0,1.0,5.0,Friday,-1.0,1.0,True,5,Aug,8,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-08-15,0,0.0,0.0,0.0,Saturday,0.0,0.0,True,6,Aug,8,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-08-17,6,4.0,8.0,0.0,Monday,-2.0,2.0,True,1,Aug,8,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-08-18,1,4.0,8.0,1.0,Tuesday,3.0,3.0,True,2,Aug,8,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-08-19,2,4.0,7.0,1.0,Wednesday,2.0,2.0,True,3,Aug,8,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-08-20,0,3.0,6.0,0.0,Thursday,3.0,3.0,True,4,Aug,8,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-08-21,5,3.0,6.0,0.0,Friday,-2.0,2.0,True,5,Aug,8,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-08-22,0,0.0,0.0,1.0,Saturday,0.0,0.0,True,6,Aug,8,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-08-24,9,5.0,8.0,0.0,Monday,-4.0,4.0,False,1,Aug,8,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-08-25,0,5.0,9.0,6.0,Tuesday,5.0,5.0,True,2,Aug,8,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-08-26,19,4.0,8.0,1.0,Wednesday,-15.0,15.0,False,3,Aug,8,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-08-27,0,5.0,8.0,2.0,Thursday,5.0,5.0,True,4,Aug,8,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-08-28,14,4.0,8.0,0.0,Friday,-10.0,10.0,False,5,Aug,8,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-08-29,8,0.0,0.0,5.0,Saturday,-8.0,8.0,False,6,Aug,8,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-08-31,0,7.0,11.0,0.0,Monday,7.0,7.0,True,1,Aug,8,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-09-01,1,7.0,11.0,9.0,Tuesday,6.0,6.0,True,2,Sep,9,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-09-02,4,6.0,10.0,0.0,Wednesday,2.0,2.0,True,3,Sep,9,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-09-03,0,6.0,10.0,19.0,Thursday,6.0,6.0,True,4,Sep,9,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-09-04,6,6.0,10.0,0.0,Friday,0.0,0.0,True,5,Sep,9,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-09-05,0,0.0,0.0,14.0,Saturday,0.0,0.0,True,6,Sep,9,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-09-07,22,7.0,12.0,8.0,Monday,-15.0,15.0,False,1,Sep,9,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-09-08,23,8.0,13.0,0.0,Tuesday,-15.0,15.0,False,2,Sep,9,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-09-09,17,8.0,13.0,1.0,Wednesday,-9.0,9.0,False,3,Sep,9,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-09-10,0,8.0,13.0,4.0,Thursday,8.0,8.0,True,4,Sep,9,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-09-11,4,6.0,10.0,0.0,Friday,2.0,2.0,True,5,Sep,9,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-09-12,9,0.0,0.0,6.0,Saturday,-9.0,9.0,False,6,Sep,9,1
+Residences on Bigelow,bayes_ridge|lean_noev,2026-09-14,0,8.0,12.0,0.0,Monday,8.0,8.0,True,1,Sep,9,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-09-15,0,7.0,12.0,22.0,Tuesday,7.0,7.0,True,2,Sep,9,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-09-16,3,6.0,11.0,23.0,Wednesday,3.0,3.0,True,3,Sep,9,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-09-17,0,6.0,10.0,17.0,Thursday,6.0,6.0,True,4,Sep,9,0
+Residences on Bigelow,bayes_ridge|lean_noev,2026-09-18,10,6.0,10.0,0.0,Friday,-4.0,4.0,True,5,Sep,9,0
