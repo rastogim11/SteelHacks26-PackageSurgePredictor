@@ -40,21 +40,50 @@ read -r -p "Type REWRITE to continue: " confirm
 
 # git-filter-repo is not part of git. Prefer it over filter-branch, which is
 # slow and leaves reflog and stash copies behind.
+# Already installed into .venv, so put it on PATH if the venv is not active.
+if [ -x "$REPO_ROOT/.venv/bin/git-filter-repo" ]; then
+  PATH="$REPO_ROOT/.venv/bin:$PATH"
+  export PATH
+fi
+
 if ! command -v git-filter-repo >/dev/null 2>&1; then
   echo
-  echo "git-filter-repo is not installed. Install one of:"
-  echo "    brew install git-filter-repo"
-  echo "    python3 -m pip install --user git-filter-repo"
+  echo "git-filter-repo is not installed. Install it with:"
+  echo "    .venv/bin/python -m pip install git-filter-repo"
+  echo "    (or: python3 -m pip install --user git-filter-repo)"
   exit 1
 fi
 
+STAMP="$(date +%Y%m%d-%H%M%S)"
+
 # A mirror clone beside the repo, so a bad rewrite is recoverable.
-BACKUP="../SteelHacks26-backup-$(date +%Y%m%d-%H%M%S).git"
+BACKUP="../SteelHacks26-backup-$STAMP.git"
 echo
-echo "Backing up to $BACKUP"
+echo "Backing up history to $BACKUP"
 git clone --mirror . "$BACKUP"
 
+# filter-repo finishes with a hard reset onto the rewritten HEAD, which deletes
+# the purged paths from the WORKING TREE as well as from history. packagestats
+# .csv is the pipeline's only input, so it has to survive outside the repo and
+# be put back afterwards. It is gitignored, so it returns as an untracked file.
+DATA_BACKUP="../SteelHacks26-data-$STAMP"
+echo "Preserving raw data to $DATA_BACKUP"
+mkdir -p "$DATA_BACKUP/files"
+for p in "${PATHS_TO_PURGE[@]}"; do
+  [ -f "$p" ] || continue
+  cp -p "$p" "$DATA_BACKUP/$p"
+  echo "  saved $p"
+done
+
 REMOTE_URL="$(git remote get-url origin)"
+
+# filter-repo refuses to run with uncommitted changes. The only dirty path
+# should be one being purged anyway, so stash rather than lose anything.
+if ! git diff --quiet || ! git diff --cached --quiet; then
+  echo
+  echo "Working tree is dirty. Stashing before the rewrite."
+  git stash push -u -m "pre-filter-repo $STAMP" || true
+fi
 
 echo "Rewriting history..."
 ARGS=()
@@ -67,12 +96,24 @@ git filter-repo --invert-paths "${ARGS[@]}" --force
 # reflex. Putting it back is the deliberate step.
 git remote add origin "$REMOTE_URL" 2>/dev/null || git remote set-url origin "$REMOTE_URL"
 
+# Put the raw data back. It is gitignored now, so it stays untracked.
+echo
+echo "Restoring raw data from $DATA_BACKUP"
+for p in "${PATHS_TO_PURGE[@]}"; do
+  [ -f "$DATA_BACKUP/$p" ] || continue
+  mkdir -p "$(dirname "$p")"
+  cp -p "$DATA_BACKUP/$p" "$p"
+  echo "  restored $p"
+done
+
 echo
 echo "History rewritten. Local checks:"
 echo -n "  paths still tracked: "
 git ls-files | grep -Ei 'packagestats|searchresults|elevenLabs' || echo "none"
 echo -n "  blobs still in history: "
 git rev-list --objects --all | grep -Ei 'packagestats|searchresults|elevenLabs' || echo "none"
+echo -n "  pipeline input present: "
+[ -f packagestats.csv ] && echo "packagestats.csv OK" || echo "MISSING - copy it back from $DATA_BACKUP"
 
 cat <<'EOF'
 
