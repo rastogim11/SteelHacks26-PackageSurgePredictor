@@ -53,3 +53,5 @@ desktop.ini
 # ---------------------------------------------------------------------------
 *.pbix
 ~$*
+# Transfer copy of fact_plan.csv named to match the OneDrive upload
+powerbi/fact_plan [0-9].csv
